@@ -1,0 +1,6 @@
+faker>=30.0
+numpy>=1.26
+pandas>=2.2
+pyarrow>=15.0
+python-dotenv>=1.0
+pytest>=8.0

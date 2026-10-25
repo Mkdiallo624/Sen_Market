@@ -1,2 +1,16 @@
 #Mon environnement virtuel
 mon_env/
+
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets et configuration locale (JAMAIS dans Git)
+.env
+
+# Données générées (on versionne le code, pas les données)
+data/*
+!data/.gitkeep
+
+# Journaux
+logs/
