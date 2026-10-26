@@ -42,7 +42,7 @@ class Config:
             datetime.date.fromisoformat(self.date_fin)
         except ValueError:
             raise ConfigurationError(
-                f"gDATE_FIN '{self.date_fin}' invalide : format attendu AAAA-MM-JJ."
+                f"DATE_FIN '{self.date_fin}' invalide : format attendu AAAA-MM-JJ."
             ) from None
 
     @classmethod
