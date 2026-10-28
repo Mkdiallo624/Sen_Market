@@ -4,7 +4,7 @@ import pandas as pd
 import pytest
 
 from src.config import Config
-from src.defauts import injecter_defauts
+from src.defauts import NOMS_SPECIAUX, injecter_defauts
 from src.erreurs import ConfigurationError
 from src.generateur import generer_tout
 from src.schemas import COLONNES
@@ -49,10 +49,29 @@ def test_meme_graine_memes_donnees(cfg):
 def test_les_defauts_sont_bien_injectes(cfg):
     propres = generer_tout(cfg)
     abimees = injecter_defauts(propres, cfg)
-    assert len(abimees["commandes"]) > len(propres["commandes"])        # doublons
-    assert abimees["commandes"]["montant_total"].isna().any()           # manquants
-    assert abimees["clients"]["telephone"].isna().any()
+    clients, commandes, paiements = (abimees[t] for t in ("clients", "commandes", "paiements"))
+
+    # doublons : +5 % de lignes dans les 3 tables abîmées
+    assert len(clients) == 105
+    assert len(commandes) == 315
+    assert len(paiements) == 315
     assert len(abimees["vendeurs"]) == len(propres["vendeurs"])         # intacte
+
+    # valeurs manquantes : 8 % sur nom, email, region (100 clients d'origine -> 8)
+    for col in ("nom", "email", "region"):
+        assert clients[col].iloc[:100].isna().sum() == 8
+
+    # noms avec caractères spéciaux : 2 % (ex. « Éloïse Müller-Ødegård »)
+    assert clients["nom"].iloc[:100].isin(NOMS_SPECIAUX).sum() == 2
+
+    # montants : 3 % en texte avec " €" et 1 % d'outliers (300 commandes d'origine -> 9 et 3)
+    montants = commandes["montant_total"].iloc[:300]
+    assert montants.map(lambda v: isinstance(v, str) and v.endswith(" €")).sum() == 9
+    assert (montants.map(lambda v: not isinstance(v, str)) & (montants == 999999.99)).sum() == 3
+
+    # dates dans le futur : 2 % après DATE_FIN
+    assert (commandes["date_commande"].iloc[:300] > pd.Timestamp(cfg.date_fin)).sum() == 6
+    assert (paiements["date_paiement"].iloc[:300] > pd.Timestamp(cfg.date_fin)).sum() == 6
 
 
 def test_configuration_invalide_est_refusee():

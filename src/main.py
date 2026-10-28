@@ -33,11 +33,11 @@ def nettoyer_vers_propre(cfg: Config) -> None:
     tables = {nom: charger_csv(brut / f"{nom}.csv", COLONNES[nom], COLONNES_DATES[nom])
               for nom in COLONNES}
 
-    commandes = nettoyer_commandes(tables["commandes"], cfg.date_fin)
+    commandes = nettoyer_commandes(tables["commandes"], cfg.date_fin, produits=tables["produits"])
     propres = dict(tables)  # vendeurs, produits, avis, evenements : déjà corrects
     propres["clients"] = nettoyer_clients(tables["clients"])
     propres["commandes"] = commandes
-    propres["paiements"] = nettoyer_paiements(tables["paiements"], commandes)
+    propres["paiements"] = nettoyer_paiements(tables["paiements"], commandes, cfg.date_fin)
 
     for nom, df in propres.items():
         exporter(df, nom, cfg.dossier_sortie / "propre")
