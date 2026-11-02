@@ -14,7 +14,8 @@ from src.export import exporter
 from src.generateur import generer_tout
 from src.logger import configurer_logging
 from src.nettoyage import (charger_csv, nettoyer_clients, nettoyer_commandes,
-                           nettoyer_paiements)
+                           nettoyer_lignes_commande, nettoyer_paiements,
+                           recalculer_totaux)
 from src.schemas import COLONNES, COLONNES_DATES
 
 logger = logging.getLogger(__name__)
@@ -28,17 +29,24 @@ def generer_brut(cfg: Config) -> None:
 
 
 def nettoyer_vers_propre(cfg: Config) -> None:
-    """Relit data/brut/*.csv, nettoie, et écrit dans data/propre/."""
+    """Relit data/brut/*.csv, nettoie, et écrit dans data/propre/.
+
+    L'ORDRE compte : chaque étape s'appuie sur la précédente.
+    clients -> commandes -> lignes -> totaux recalculés -> paiements.
+    """
     brut = cfg.dossier_sortie / "brut"
     tables = {nom: charger_csv(brut / f"{nom}.csv", COLONNES[nom], COLONNES_DATES[nom])
               for nom in COLONNES}
 
-    commandes = nettoyer_commandes(tables["commandes"], cfg.date_fin, produits=tables["produits"])
-    propres = dict(tables)  # vendeurs, produits, avis, evenements : déjà corrects
-    propres["clients"] = nettoyer_clients(tables["clients"])
-    propres["commandes"] = commandes
-    propres["paiements"] = nettoyer_paiements(tables["paiements"], commandes, cfg.date_fin)
+    clients = nettoyer_clients(tables["clients"])
+    commandes = nettoyer_commandes(tables["commandes"], cfg.date_fin)
+    lignes = nettoyer_lignes_commande(tables["lignes_commande"], tables["produits"], commandes)
+    commandes = recalculer_totaux(commandes, lignes)   # montant_total = somme des lignes
+    paiements = nettoyer_paiements(tables["paiements"], commandes, cfg.date_fin)
 
+    propres = dict(tables)   # vendeurs, produits, avis, evenements : jamais abîmés
+    propres.update(clients=clients, commandes=commandes,
+                   lignes_commande=lignes, paiements=paiements)
     for nom, df in propres.items():
         exporter(df, nom, cfg.dossier_sortie / "propre")
 

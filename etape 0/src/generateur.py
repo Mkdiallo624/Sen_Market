@@ -82,7 +82,6 @@ def generer_clients(rng, fake: Faker, cfg: Config) -> pd.DataFrame:
         "telephone": _telephones(rng, n),
         "email": emails,
         "region": rng.choice(REGIONS, n, p=POIDS_REGIONS),
-        "date_inscription": _dates_aleatoires(rng, n, cfg.date_fin),
     })
 
 
@@ -135,36 +134,75 @@ def generer_produits(rng, cfg: Config) -> pd.DataFrame:
     return pd.DataFrame(lignes)
 
 
-def generer_commandes(rng, cfg: Config, produits: pd.DataFrame) -> pd.DataFrame:
+def generer_commandes(rng, cfg: Config) -> pd.DataFrame:
+    """En-têtes de commandes. Le montant_total est ajouté plus tard,
+    par calculer_totaux(), à partir des lignes de commande."""
     n = cfg.nb_commandes
-    produit_ids = rng.integers(1, cfg.nb_produits + 1, n)
-    quantites = rng.integers(1, 6, n)
-    prix = produits["prix"].to_numpy()[produit_ids - 1]  # produit_id = position + 1
     return pd.DataFrame({
         "commande_id": np.arange(1, n + 1),
         "client_id": rng.integers(1, cfg.nb_clients + 1, n),
-        "produit_id": produit_ids,
-        "quantite": quantites,
-        "montant_total": prix * quantites,
         "statut": rng.choice(["livree", "en_cours", "annulee"], n, p=[0.80, 0.15, 0.05]),
         "region_livraison": rng.choice(REGIONS, n, p=POIDS_REGIONS),
         "date_commande": _dates_aleatoires(rng, n, cfg.date_fin),
     })
 
+def generer_lignes_commande(rng, commandes: pd.DataFrame, produits: pd.DataFrame) -> pd.DataFrame:
+    """1 à 5 lignes par commande, sans produit en double dans une même commande."""
+    nb_lignes = rng.integers(1, 6, len(commandes))
+    total = int(nb_lignes.sum())
+    ids_produits = produits["produit_id"].to_numpy()
+
+    # replace=False : un produit n'apparaît qu'une fois par commande
+    produit_ids = np.concatenate(
+        [rng.choice(ids_produits, size=k, replace=False) for k in nb_lignes]
+    )
+    quantites = rng.integers(1, 6, total)
+
+    # Lecture du prix par ID (et non par position) : plus de dépendance à l'ordre du DataFrame
+    prix = produits.set_index("produit_id")["prix"].loc[produit_ids].to_numpy()
+
+    return pd.DataFrame({
+        "ligne_id": np.arange(1, total + 1),
+        "commande_id": np.repeat(commandes["commande_id"].to_numpy(), nb_lignes),
+        "produit_id": produit_ids,
+        "quantite": quantites,
+        "prix_unitaire": prix,
+        "montant_ligne": prix * quantites,
+    })
+
+def calculer_totaux(commandes: pd.DataFrame, lignes: pd.DataFrame) -> pd.DataFrame:
+    """Le montant_total d'une commande = somme de ses lignes."""
+    totaux = lignes.groupby("commande_id")["montant_ligne"].sum()
+    commandes = commandes.copy()
+    commandes["montant_total"] = commandes["commande_id"].map(totaux).to_numpy()
+    return commandes
+
 
 def generer_paiements(rng, commandes: pd.DataFrame) -> pd.DataFrame:
-    """Un paiement par commande, quelques minutes après la commande."""
-    n = len(commandes)
+    """Paiements dérivés du statut de la commande :
+    - annulee  : aucun paiement
+    - livree   : paiement réussi
+    - en_cours : réussi (93 %) ou échoué (7 %)
+    """
+    payables = commandes[commandes["statut"] != "annulee"]
+    n = len(payables)
+
+    statut_cmd = payables["statut"].to_numpy()
+    statut_pay = np.where(
+        statut_cmd == "livree",
+        "reussi",
+        rng.choice(["reussi", "echoue"], n, p=[0.93, 0.07]),
+    )
+
     delai = pd.to_timedelta(rng.integers(10, 3600, n), unit="s")
     return pd.DataFrame({
         "paiement_id": np.arange(1, n + 1),
-        "commande_id": commandes["commande_id"].to_numpy(),
+        "commande_id": payables["commande_id"].to_numpy(),
         "operateur": rng.choice(OPERATEURS, n, p=[0.45, 0.35, 0.10, 0.10]),
-        "montant": commandes["montant_total"].to_numpy(),
-        "statut": rng.choice(["reussi", "echoue"], n, p=[0.93, 0.07]),
-        "date_paiement": commandes["date_commande"].to_numpy() + delai.to_numpy(),
+        "montant": payables["montant_total"].to_numpy(),
+        "statut": statut_pay,
+        "date_paiement": payables["date_commande"].to_numpy() + delai.to_numpy(),
     })
-
 
 def generer_avis(rng, cfg: Config) -> pd.DataFrame:
     n = cfg.nb_avis
@@ -197,18 +235,21 @@ def generer_evenements(rng, cfg: Config) -> pd.DataFrame:
 
 
 def generer_tout(cfg: Config) -> dict[str, pd.DataFrame]:
-    """Génère les 7 tables de SenMarket (propres, sans défauts)."""
+    """Génère les 8 tables de SenMarket (propres, sans défauts)."""
     rng = np.random.default_rng(cfg.seed)
     Faker.seed(cfg.seed)
     fake = Faker("fr_FR")
 
     produits = generer_produits(rng, cfg)
-    commandes = generer_commandes(rng, cfg, produits)
+    commandes = generer_commandes(rng, cfg)
+    lignes = generer_lignes_commande(rng, commandes, produits)
+    commandes = calculer_totaux(commandes,lignes)
     tables = {
         "clients": generer_clients(rng, fake, cfg),
         "vendeurs": generer_vendeurs(rng, cfg),
         "produits": produits,
         "commandes": commandes,
+        "lignes_commande": lignes,
         "paiements": generer_paiements(rng, commandes),
         "avis": generer_avis(rng, cfg),
         "evenements": generer_evenements(rng, cfg),

@@ -1,0 +1,200 @@
+{"produit_id":1,"vendeur_id":33,"nom":"Thé Touba 500g","categorie":"Alimentation","prix":11700,"stock":216,"attributs":"{\"poids_kg\": 5.0, \"origine\": \"Sénégal\"}"}
+{"produit_id":2,"vendeur_id":5,"nom":"Théière émaillée","categorie":"Maison","prix":8850,"stock":487,"attributs":"{\"matiere\": \"fibre\", \"couleur\": \"blanc\"}"}
+{"produit_id":3,"vendeur_id":26,"nom":"Seau en plastique","categorie":"Maison","prix":31650,"stock":419,"attributs":"{\"matiere\": \"métal\", \"couleur\": \"rouge\"}"}
+{"produit_id":4,"vendeur_id":47,"nom":"Sac en pagne","categorie":"Mode","prix":13400,"stock":321,"attributs":"{\"taille\": \"M\", \"couleur\": \"jaune\"}"}
+{"produit_id":5,"vendeur_id":23,"nom":"Écouteurs sans fil","categorie":"Électronique","prix":113600,"stock":46,"attributs":"{\"marque\": \"Infinix\", \"garantie_mois\": 24}"}
+{"produit_id":6,"vendeur_id":42,"nom":"Huile d'arachide 1L","categorie":"Alimentation","prix":12900,"stock":315,"attributs":"{\"poids_kg\": 0.25, \"origine\": \"Importé\"}"}
+{"produit_id":7,"vendeur_id":4,"nom":"Set de verres","categorie":"Maison","prix":14800,"stock":222,"attributs":"{\"matiere\": \"verre\", \"couleur\": \"blanc\"}"}
+{"produit_id":8,"vendeur_id":10,"nom":"Natte tressée","categorie":"Maison","prix":30600,"stock":233,"attributs":"{\"matiere\": \"métal\", \"couleur\": \"vert\"}"}
+{"produit_id":9,"vendeur_id":38,"nom":"Enceinte Bluetooth","categorie":"Électronique","prix":42800,"stock":461,"attributs":"{\"marque\": \"Infinix\", \"garantie_mois\": 12}"}
+{"produit_id":10,"vendeur_id":17,"nom":"Henné naturel","categorie":"Beauté","prix":8500,"stock":185,"attributs":"{\"contenance_ml\": 50, \"naturel\": false}"}
+{"produit_id":11,"vendeur_id":24,"nom":"Seau en plastique","categorie":"Maison","prix":8350,"stock":343,"attributs":"{\"matiere\": \"métal\", \"couleur\": \"vert\"}"}
+{"produit_id":12,"vendeur_id":34,"nom":"Chemise bazin","categorie":"Mode","prix":35150,"stock":218,"attributs":"{\"taille\": \"S\", \"couleur\": \"jaune\"}"}
+{"produit_id":13,"vendeur_id":5,"nom":"Natte tressée","categorie":"Maison","prix":28300,"stock":383,"attributs":"{\"matiere\": \"verre\", \"couleur\": \"rouge\"}"}
+{"produit_id":14,"vendeur_id":20,"nom":"Henné naturel","categorie":"Beauté","prix":16900,"stock":144,"attributs":"{\"contenance_ml\": 50, \"naturel\": true}"}
+{"produit_id":15,"vendeur_id":42,"nom":"Seau en plastique","categorie":"Maison","prix":6450,"stock":402,"attributs":"{\"matiere\": \"plastique\", \"couleur\": \"blanc\"}"}
+{"produit_id":16,"vendeur_id":34,"nom":"Théière émaillée","categorie":"Maison","prix":31400,"stock":352,"attributs":"{\"matiere\": \"métal\", \"couleur\": \"blanc\"}"}
+{"produit_id":17,"vendeur_id":26,"nom":"Chargeur rapide","categorie":"Électronique","prix":117400,"stock":18,"attributs":"{\"marque\": \"Tecno\", \"garantie_mois\": 6}"}
+{"produit_id":18,"vendeur_id":34,"nom":"Bissap séché 250g","categorie":"Alimentation","prix":6850,"stock":235,"attributs":"{\"poids_kg\": 5.0, \"origine\": \"Importé\"}"}
+{"produit_id":19,"vendeur_id":29,"nom":"Bissap séché 250g","categorie":"Alimentation","prix":11550,"stock":282,"attributs":"{\"poids_kg\": 1.0, \"origine\": \"Sénégal\"}"}
+{"produit_id":20,"vendeur_id":16,"nom":"Enceinte Bluetooth","categorie":"Électronique","prix":199750,"stock":15,"attributs":"{\"marque\": \"Samsung\", \"garantie_mois\": 12}"}
+{"produit_id":21,"vendeur_id":14,"nom":"Huile de baobab","categorie":"Beauté","prix":4650,"stock":496,"attributs":"{\"contenance_ml\": 250, \"naturel\": false}"}
+{"produit_id":22,"vendeur_id":3,"nom":"Chemise bazin","categorie":"Mode","prix":49800,"stock":140,"attributs":"{\"taille\": \"XL\", \"couleur\": \"rouge\"}"}
+{"produit_id":23,"vendeur_id":7,"nom":"Chargeur rapide","categorie":"Électronique","prix":167150,"stock":252,"attributs":"{\"marque\": \"Itel\", \"garantie_mois\": 24}"}
+{"produit_id":24,"vendeur_id":21,"nom":"Théière émaillée","categorie":"Maison","prix":16950,"stock":407,"attributs":"{\"matiere\": \"métal\", \"couleur\": \"vert\"}"}
+{"produit_id":25,"vendeur_id":6,"nom":"Boubou brodé","categorie":"Mode","prix":4250,"stock":385,"attributs":"{\"taille\": \"L\", \"couleur\": \"blanc\"}"}
+{"produit_id":26,"vendeur_id":9,"nom":"Batterie externe","categorie":"Électronique","prix":180650,"stock":250,"attributs":"{\"marque\": \"Itel\", \"garantie_mois\": 6}"}
+{"produit_id":27,"vendeur_id":25,"nom":"Chargeur rapide","categorie":"Électronique","prix":175550,"stock":83,"attributs":"{\"marque\": \"Samsung\", \"garantie_mois\": 6}"}
+{"produit_id":28,"vendeur_id":32,"nom":"Sac en pagne","categorie":"Mode","prix":41950,"stock":180,"attributs":"{\"taille\": \"XL\", \"couleur\": \"bleu\"}"}
+{"produit_id":29,"vendeur_id":17,"nom":"Chemise bazin","categorie":"Mode","prix":9700,"stock":183,"attributs":"{\"taille\": \"XL\", \"couleur\": \"rouge\"}"}
+{"produit_id":30,"vendeur_id":14,"nom":"Ventilateur","categorie":"Maison","prix":18800,"stock":484,"attributs":"{\"matiere\": \"métal\", \"couleur\": \"blanc\"}"}
+{"produit_id":31,"vendeur_id":40,"nom":"Robe wax","categorie":"Mode","prix":43850,"stock":368,"attributs":"{\"taille\": \"M\", \"couleur\": \"bleu\"}"}
+{"produit_id":32,"vendeur_id":46,"nom":"Riz brisé 5kg","categorie":"Alimentation","prix":6950,"stock":227,"attributs":"{\"poids_kg\": 2.0, \"origine\": \"Sénégal\"}"}
+{"produit_id":33,"vendeur_id":41,"nom":"Théière émaillée","categorie":"Maison","prix":12900,"stock":273,"attributs":"{\"matiere\": \"plastique\", \"couleur\": \"rouge\"}"}
+{"produit_id":34,"vendeur_id":38,"nom":"Huile de baobab","categorie":"Beauté","prix":850,"stock":359,"attributs":"{\"contenance_ml\": 100, \"naturel\": false}"}
+{"produit_id":35,"vendeur_id":8,"nom":"Robe wax","categorie":"Mode","prix":38750,"stock":47,"attributs":"{\"taille\": \"L\", \"couleur\": \"blanc\"}"}
+{"produit_id":36,"vendeur_id":21,"nom":"Bissap séché 250g","categorie":"Alimentation","prix":11450,"stock":20,"attributs":"{\"poids_kg\": 0.25, \"origine\": \"Sénégal\"}"}
+{"produit_id":37,"vendeur_id":34,"nom":"Riz brisé 5kg","categorie":"Alimentation","prix":5250,"stock":338,"attributs":"{\"poids_kg\": 0.25, \"origine\": \"Sénégal\"}"}
+{"produit_id":38,"vendeur_id":9,"nom":"Écouteurs sans fil","categorie":"Électronique","prix":199400,"stock":462,"attributs":"{\"marque\": \"Itel\", \"garantie_mois\": 12}"}
+{"produit_id":39,"vendeur_id":31,"nom":"Chargeur rapide","categorie":"Électronique","prix":89950,"stock":147,"attributs":"{\"marque\": \"Tecno\", \"garantie_mois\": 6}"}
+{"produit_id":40,"vendeur_id":25,"nom":"Huile de baobab","categorie":"Beauté","prix":8650,"stock":391,"attributs":"{\"contenance_ml\": 50, \"naturel\": false}"}
+{"produit_id":41,"vendeur_id":34,"nom":"Robe wax","categorie":"Mode","prix":30700,"stock":220,"attributs":"{\"taille\": \"XL\", \"couleur\": \"bleu\"}"}
+{"produit_id":42,"vendeur_id":24,"nom":"Batterie externe","categorie":"Électronique","prix":137800,"stock":133,"attributs":"{\"marque\": \"Itel\", \"garantie_mois\": 6}"}
+{"produit_id":43,"vendeur_id":43,"nom":"Chargeur rapide","categorie":"Électronique","prix":132550,"stock":142,"attributs":"{\"marque\": \"Tecno\", \"garantie_mois\": 12}"}
+{"produit_id":44,"vendeur_id":45,"nom":"Huile de baobab","categorie":"Beauté","prix":650,"stock":70,"attributs":"{\"contenance_ml\": 50, \"naturel\": true}"}
+{"produit_id":45,"vendeur_id":34,"nom":"Sac en pagne","categorie":"Mode","prix":9150,"stock":59,"attributs":"{\"taille\": \"M\", \"couleur\": \"bleu\"}"}
+{"produit_id":46,"vendeur_id":37,"nom":"Set de verres","categorie":"Maison","prix":29450,"stock":384,"attributs":"{\"matiere\": \"métal\", \"couleur\": \"vert\"}"}
+{"produit_id":47,"vendeur_id":49,"nom":"Natte tressée","categorie":"Maison","prix":36700,"stock":118,"attributs":"{\"matiere\": \"plastique\", \"couleur\": \"vert\"}"}
+{"produit_id":48,"vendeur_id":19,"nom":"Écouteurs sans fil","categorie":"Électronique","prix":138950,"stock":414,"attributs":"{\"marque\": \"Samsung\", \"garantie_mois\": 24}"}
+{"produit_id":49,"vendeur_id":11,"nom":"Henné naturel","categorie":"Beauté","prix":6650,"stock":317,"attributs":"{\"contenance_ml\": 50, \"naturel\": true}"}
+{"produit_id":50,"vendeur_id":13,"nom":"Batterie externe","categorie":"Électronique","prix":226850,"stock":468,"attributs":"{\"marque\": \"Tecno\", \"garantie_mois\": 6}"}
+{"produit_id":51,"vendeur_id":15,"nom":"Chargeur rapide","categorie":"Électronique","prix":16000,"stock":484,"attributs":"{\"marque\": \"Itel\", \"garantie_mois\": 6}"}
+{"produit_id":52,"vendeur_id":38,"nom":"Henné naturel","categorie":"Beauté","prix":2250,"stock":445,"attributs":"{\"contenance_ml\": 50, \"naturel\": true}"}
+{"produit_id":53,"vendeur_id":24,"nom":"Huile d'arachide 1L","categorie":"Alimentation","prix":8000,"stock":11,"attributs":"{\"poids_kg\": 2.0, \"origine\": \"Sénégal\"}"}
+{"produit_id":54,"vendeur_id":19,"nom":"Set de verres","categorie":"Maison","prix":16950,"stock":47,"attributs":"{\"matiere\": \"fibre\", \"couleur\": \"blanc\"}"}
+{"produit_id":55,"vendeur_id":1,"nom":"Chemise bazin","categorie":"Mode","prix":17950,"stock":473,"attributs":"{\"taille\": \"S\", \"couleur\": \"bleu\"}"}
+{"produit_id":56,"vendeur_id":42,"nom":"Mil local 2kg","categorie":"Alimentation","prix":1450,"stock":76,"attributs":"{\"poids_kg\": 2.0, \"origine\": \"Sénégal\"}"}
+{"produit_id":57,"vendeur_id":36,"nom":"Chemise bazin","categorie":"Mode","prix":37150,"stock":22,"attributs":"{\"taille\": \"S\", \"couleur\": \"rouge\"}"}
+{"produit_id":58,"vendeur_id":39,"nom":"Sandales en cuir","categorie":"Mode","prix":59850,"stock":485,"attributs":"{\"taille\": \"M\", \"couleur\": \"blanc\"}"}
+{"produit_id":59,"vendeur_id":47,"nom":"Smartphone","categorie":"Électronique","prix":40250,"stock":87,"attributs":"{\"marque\": \"Tecno\", \"garantie_mois\": 6}"}
+{"produit_id":60,"vendeur_id":34,"nom":"Mil local 2kg","categorie":"Alimentation","prix":750,"stock":60,"attributs":"{\"poids_kg\": 0.5, \"origine\": \"Importé\"}"}
+{"produit_id":61,"vendeur_id":39,"nom":"Huile de baobab","categorie":"Beauté","prix":14000,"stock":208,"attributs":"{\"contenance_ml\": 50, \"naturel\": true}"}
+{"produit_id":62,"vendeur_id":36,"nom":"Beurre de karité","categorie":"Beauté","prix":950,"stock":369,"attributs":"{\"contenance_ml\": 250, \"naturel\": false}"}
+{"produit_id":63,"vendeur_id":29,"nom":"Batterie externe","categorie":"Électronique","prix":35300,"stock":40,"attributs":"{\"marque\": \"Samsung\", \"garantie_mois\": 24}"}
+{"produit_id":64,"vendeur_id":25,"nom":"Robe wax","categorie":"Mode","prix":10500,"stock":331,"attributs":"{\"taille\": \"M\", \"couleur\": \"jaune\"}"}
+{"produit_id":65,"vendeur_id":49,"nom":"Batterie externe","categorie":"Électronique","prix":75150,"stock":249,"attributs":"{\"marque\": \"Tecno\", \"garantie_mois\": 12}"}
+{"produit_id":66,"vendeur_id":32,"nom":"Batterie externe","categorie":"Électronique","prix":41300,"stock":52,"attributs":"{\"marque\": \"Infinix\", \"garantie_mois\": 6}"}
+{"produit_id":67,"vendeur_id":1,"nom":"Set de verres","categorie":"Maison","prix":17300,"stock":82,"attributs":"{\"matiere\": \"fibre\", \"couleur\": \"vert\"}"}
+{"produit_id":68,"vendeur_id":41,"nom":"Huile de baobab","categorie":"Beauté","prix":14850,"stock":233,"attributs":"{\"contenance_ml\": 100, \"naturel\": true}"}
+{"produit_id":69,"vendeur_id":34,"nom":"Beurre de karité","categorie":"Beauté","prix":800,"stock":143,"attributs":"{\"contenance_ml\": 250, \"naturel\": false}"}
+{"produit_id":70,"vendeur_id":12,"nom":"Natte tressée","categorie":"Maison","prix":19050,"stock":265,"attributs":"{\"matiere\": \"verre\", \"couleur\": \"rouge\"}"}
+{"produit_id":71,"vendeur_id":38,"nom":"Parfum Thiouraye","categorie":"Beauté","prix":17400,"stock":144,"attributs":"{\"contenance_ml\": 100, \"naturel\": false}"}
+{"produit_id":72,"vendeur_id":22,"nom":"Boubou brodé","categorie":"Mode","prix":55800,"stock":325,"attributs":"{\"taille\": \"XL\", \"couleur\": \"jaune\"}"}
+{"produit_id":73,"vendeur_id":27,"nom":"Sandales en cuir","categorie":"Mode","prix":28850,"stock":134,"attributs":"{\"taille\": \"S\", \"couleur\": \"jaune\"}"}
+{"produit_id":74,"vendeur_id":41,"nom":"Set de verres","categorie":"Maison","prix":33750,"stock":52,"attributs":"{\"matiere\": \"verre\", \"couleur\": \"vert\"}"}
+{"produit_id":75,"vendeur_id":18,"nom":"Smartphone","categorie":"Électronique","prix":150600,"stock":96,"attributs":"{\"marque\": \"Itel\", \"garantie_mois\": 6}"}
+{"produit_id":76,"vendeur_id":8,"nom":"Chemise bazin","categorie":"Mode","prix":55600,"stock":460,"attributs":"{\"taille\": \"L\", \"couleur\": \"bleu\"}"}
+{"produit_id":77,"vendeur_id":29,"nom":"Riz brisé 5kg","categorie":"Alimentation","prix":4600,"stock":227,"attributs":"{\"poids_kg\": 0.25, \"origine\": \"Importé\"}"}
+{"produit_id":78,"vendeur_id":3,"nom":"Riz brisé 5kg","categorie":"Alimentation","prix":10750,"stock":87,"attributs":"{\"poids_kg\": 5.0, \"origine\": \"Sénégal\"}"}
+{"produit_id":79,"vendeur_id":26,"nom":"Enceinte Bluetooth","categorie":"Électronique","prix":149800,"stock":401,"attributs":"{\"marque\": \"Samsung\", \"garantie_mois\": 24}"}
+{"produit_id":80,"vendeur_id":26,"nom":"Sac en pagne","categorie":"Mode","prix":59100,"stock":437,"attributs":"{\"taille\": \"XL\", \"couleur\": \"jaune\"}"}
+{"produit_id":81,"vendeur_id":25,"nom":"Smartphone","categorie":"Électronique","prix":15650,"stock":444,"attributs":"{\"marque\": \"Tecno\", \"garantie_mois\": 6}"}
+{"produit_id":82,"vendeur_id":29,"nom":"Chemise bazin","categorie":"Mode","prix":39600,"stock":208,"attributs":"{\"taille\": \"M\", \"couleur\": \"bleu\"}"}
+{"produit_id":83,"vendeur_id":47,"nom":"Thé Touba 500g","categorie":"Alimentation","prix":5900,"stock":446,"attributs":"{\"poids_kg\": 0.25, \"origine\": \"Sénégal\"}"}
+{"produit_id":84,"vendeur_id":3,"nom":"Huile de baobab","categorie":"Beauté","prix":2550,"stock":462,"attributs":"{\"contenance_ml\": 250, \"naturel\": false}"}
+{"produit_id":85,"vendeur_id":41,"nom":"Henné naturel","categorie":"Beauté","prix":16900,"stock":119,"attributs":"{\"contenance_ml\": 250, \"naturel\": false}"}
+{"produit_id":86,"vendeur_id":39,"nom":"Parfum Thiouraye","categorie":"Beauté","prix":11750,"stock":321,"attributs":"{\"contenance_ml\": 100, \"naturel\": true}"}
+{"produit_id":87,"vendeur_id":42,"nom":"Théière émaillée","categorie":"Maison","prix":6200,"stock":161,"attributs":"{\"matiere\": \"fibre\", \"couleur\": \"blanc\"}"}
+{"produit_id":88,"vendeur_id":24,"nom":"Parfum Thiouraye","categorie":"Beauté","prix":16750,"stock":192,"attributs":"{\"contenance_ml\": 250, \"naturel\": true}"}
+{"produit_id":89,"vendeur_id":4,"nom":"Boubou brodé","categorie":"Mode","prix":18150,"stock":216,"attributs":"{\"taille\": \"M\", \"couleur\": \"bleu\"}"}
+{"produit_id":90,"vendeur_id":12,"nom":"Écouteurs sans fil","categorie":"Électronique","prix":153000,"stock":183,"attributs":"{\"marque\": \"Infinix\", \"garantie_mois\": 12}"}
+{"produit_id":91,"vendeur_id":22,"nom":"Natte tressée","categorie":"Maison","prix":13750,"stock":91,"attributs":"{\"matiere\": \"fibre\", \"couleur\": \"vert\"}"}
+{"produit_id":92,"vendeur_id":48,"nom":"Sac en pagne","categorie":"Mode","prix":48150,"stock":458,"attributs":"{\"taille\": \"XL\", \"couleur\": \"rouge\"}"}
+{"produit_id":93,"vendeur_id":24,"nom":"Théière émaillée","categorie":"Maison","prix":13800,"stock":480,"attributs":"{\"matiere\": \"verre\", \"couleur\": \"rouge\"}"}
+{"produit_id":94,"vendeur_id":41,"nom":"Théière émaillée","categorie":"Maison","prix":8850,"stock":266,"attributs":"{\"matiere\": \"verre\", \"couleur\": \"rouge\"}"}
+{"produit_id":95,"vendeur_id":9,"nom":"Bissap séché 250g","categorie":"Alimentation","prix":4650,"stock":17,"attributs":"{\"poids_kg\": 0.5, \"origine\": \"Importé\"}"}
+{"produit_id":96,"vendeur_id":44,"nom":"Set de verres","categorie":"Maison","prix":20600,"stock":66,"attributs":"{\"matiere\": \"verre\", \"couleur\": \"rouge\"}"}
+{"produit_id":97,"vendeur_id":32,"nom":"Ventilateur","categorie":"Maison","prix":4700,"stock":290,"attributs":"{\"matiere\": \"plastique\", \"couleur\": \"rouge\"}"}
+{"produit_id":98,"vendeur_id":7,"nom":"Henné naturel","categorie":"Beauté","prix":14600,"stock":479,"attributs":"{\"contenance_ml\": 50, \"naturel\": true}"}
+{"produit_id":99,"vendeur_id":23,"nom":"Enceinte Bluetooth","categorie":"Électronique","prix":150450,"stock":498,"attributs":"{\"marque\": \"Itel\", \"garantie_mois\": 24}"}
+{"produit_id":100,"vendeur_id":13,"nom":"Parfum Thiouraye","categorie":"Beauté","prix":2250,"stock":295,"attributs":"{\"contenance_ml\": 50, \"naturel\": false}"}
+{"produit_id":101,"vendeur_id":9,"nom":"Smartphone","categorie":"Électronique","prix":155950,"stock":64,"attributs":"{\"marque\": \"Infinix\", \"garantie_mois\": 6}"}
+{"produit_id":102,"vendeur_id":24,"nom":"Enceinte Bluetooth","categorie":"Électronique","prix":121600,"stock":261,"attributs":"{\"marque\": \"Infinix\", \"garantie_mois\": 24}"}
+{"produit_id":103,"vendeur_id":26,"nom":"Huile de baobab","categorie":"Beauté","prix":16050,"stock":117,"attributs":"{\"contenance_ml\": 100, \"naturel\": false}"}
+{"produit_id":104,"vendeur_id":6,"nom":"Parfum Thiouraye","categorie":"Beauté","prix":16950,"stock":58,"attributs":"{\"contenance_ml\": 250, \"naturel\": false}"}
+{"produit_id":105,"vendeur_id":37,"nom":"Chargeur rapide","categorie":"Électronique","prix":166150,"stock":460,"attributs":"{\"marque\": \"Itel\", \"garantie_mois\": 6}"}
+{"produit_id":106,"vendeur_id":17,"nom":"Ventilateur","categorie":"Maison","prix":29450,"stock":449,"attributs":"{\"matiere\": \"verre\", \"couleur\": \"blanc\"}"}
+{"produit_id":107,"vendeur_id":40,"nom":"Natte tressée","categorie":"Maison","prix":11550,"stock":266,"attributs":"{\"matiere\": \"métal\", \"couleur\": \"vert\"}"}
+{"produit_id":108,"vendeur_id":8,"nom":"Riz brisé 5kg","categorie":"Alimentation","prix":14400,"stock":468,"attributs":"{\"poids_kg\": 1.0, \"origine\": \"Sénégal\"}"}
+{"produit_id":109,"vendeur_id":7,"nom":"Ventilateur","categorie":"Maison","prix":15900,"stock":87,"attributs":"{\"matiere\": \"fibre\", \"couleur\": \"blanc\"}"}
+{"produit_id":110,"vendeur_id":40,"nom":"Parfum Thiouraye","categorie":"Beauté","prix":7500,"stock":239,"attributs":"{\"contenance_ml\": 50, \"naturel\": false}"}
+{"produit_id":111,"vendeur_id":1,"nom":"Ventilateur","categorie":"Maison","prix":39450,"stock":423,"attributs":"{\"matiere\": \"verre\", \"couleur\": \"rouge\"}"}
+{"produit_id":112,"vendeur_id":43,"nom":"Mil local 2kg","categorie":"Alimentation","prix":4400,"stock":318,"attributs":"{\"poids_kg\": 0.25, \"origine\": \"Sénégal\"}"}
+{"produit_id":113,"vendeur_id":2,"nom":"Enceinte Bluetooth","categorie":"Électronique","prix":149100,"stock":272,"attributs":"{\"marque\": \"Tecno\", \"garantie_mois\": 6}"}
+{"produit_id":114,"vendeur_id":42,"nom":"Chargeur rapide","categorie":"Électronique","prix":182000,"stock":147,"attributs":"{\"marque\": \"Itel\", \"garantie_mois\": 12}"}
+{"produit_id":115,"vendeur_id":1,"nom":"Sandales en cuir","categorie":"Mode","prix":28200,"stock":257,"attributs":"{\"taille\": \"XL\", \"couleur\": \"blanc\"}"}
+{"produit_id":116,"vendeur_id":6,"nom":"Natte tressée","categorie":"Maison","prix":22250,"stock":498,"attributs":"{\"matiere\": \"plastique\", \"couleur\": \"blanc\"}"}
+{"produit_id":117,"vendeur_id":39,"nom":"Set de verres","categorie":"Maison","prix":12050,"stock":21,"attributs":"{\"matiere\": \"plastique\", \"couleur\": \"rouge\"}"}
+{"produit_id":118,"vendeur_id":34,"nom":"Beurre de karité","categorie":"Beauté","prix":950,"stock":325,"attributs":"{\"contenance_ml\": 100, \"naturel\": false}"}
+{"produit_id":119,"vendeur_id":44,"nom":"Seau en plastique","categorie":"Maison","prix":35950,"stock":122,"attributs":"{\"matiere\": \"plastique\", \"couleur\": \"rouge\"}"}
+{"produit_id":120,"vendeur_id":39,"nom":"Mil local 2kg","categorie":"Alimentation","prix":12850,"stock":99,"attributs":"{\"poids_kg\": 0.25, \"origine\": \"Importé\"}"}
+{"produit_id":121,"vendeur_id":46,"nom":"Boubou brodé","categorie":"Mode","prix":40400,"stock":2,"attributs":"{\"taille\": \"S\", \"couleur\": \"bleu\"}"}
+{"produit_id":122,"vendeur_id":31,"nom":"Mil local 2kg","categorie":"Alimentation","prix":12350,"stock":400,"attributs":"{\"poids_kg\": 5.0, \"origine\": \"Sénégal\"}"}
+{"produit_id":123,"vendeur_id":13,"nom":"Boubou brodé","categorie":"Mode","prix":51400,"stock":334,"attributs":"{\"taille\": \"XL\", \"couleur\": \"jaune\"}"}
+{"produit_id":124,"vendeur_id":39,"nom":"Henné naturel","categorie":"Beauté","prix":2800,"stock":349,"attributs":"{\"contenance_ml\": 250, \"naturel\": true}"}
+{"produit_id":125,"vendeur_id":23,"nom":"Écouteurs sans fil","categorie":"Électronique","prix":14800,"stock":56,"attributs":"{\"marque\": \"Tecno\", \"garantie_mois\": 24}"}
+{"produit_id":126,"vendeur_id":38,"nom":"Chargeur rapide","categorie":"Électronique","prix":137250,"stock":315,"attributs":"{\"marque\": \"Tecno\", \"garantie_mois\": 24}"}
+{"produit_id":127,"vendeur_id":41,"nom":"Enceinte Bluetooth","categorie":"Électronique","prix":43000,"stock":26,"attributs":"{\"marque\": \"Tecno\", \"garantie_mois\": 6}"}
+{"produit_id":128,"vendeur_id":36,"nom":"Robe wax","categorie":"Mode","prix":8650,"stock":490,"attributs":"{\"taille\": \"L\", \"couleur\": \"blanc\"}"}
+{"produit_id":129,"vendeur_id":4,"nom":"Enceinte Bluetooth","categorie":"Électronique","prix":18350,"stock":2,"attributs":"{\"marque\": \"Tecno\", \"garantie_mois\": 6}"}
+{"produit_id":130,"vendeur_id":36,"nom":"Huile de baobab","categorie":"Beauté","prix":9400,"stock":86,"attributs":"{\"contenance_ml\": 100, \"naturel\": false}"}
+{"produit_id":131,"vendeur_id":19,"nom":"Set de verres","categorie":"Maison","prix":8150,"stock":295,"attributs":"{\"matiere\": \"métal\", \"couleur\": \"rouge\"}"}
+{"produit_id":132,"vendeur_id":32,"nom":"Set de verres","categorie":"Maison","prix":10900,"stock":286,"attributs":"{\"matiere\": \"métal\", \"couleur\": \"vert\"}"}
+{"produit_id":133,"vendeur_id":28,"nom":"Sandales en cuir","categorie":"Mode","prix":56900,"stock":209,"attributs":"{\"taille\": \"L\", \"couleur\": \"blanc\"}"}
+{"produit_id":134,"vendeur_id":33,"nom":"Théière émaillée","categorie":"Maison","prix":11000,"stock":470,"attributs":"{\"matiere\": \"plastique\", \"couleur\": \"vert\"}"}
+{"produit_id":135,"vendeur_id":35,"nom":"Chargeur rapide","categorie":"Électronique","prix":129500,"stock":456,"attributs":"{\"marque\": \"Samsung\", \"garantie_mois\": 6}"}
+{"produit_id":136,"vendeur_id":7,"nom":"Mil local 2kg","categorie":"Alimentation","prix":14600,"stock":139,"attributs":"{\"poids_kg\": 0.25, \"origine\": \"Sénégal\"}"}
+{"produit_id":137,"vendeur_id":40,"nom":"Ventilateur","categorie":"Maison","prix":17650,"stock":200,"attributs":"{\"matiere\": \"fibre\", \"couleur\": \"blanc\"}"}
+{"produit_id":138,"vendeur_id":21,"nom":"Batterie externe","categorie":"Électronique","prix":42550,"stock":108,"attributs":"{\"marque\": \"Itel\", \"garantie_mois\": 12}"}
+{"produit_id":139,"vendeur_id":47,"nom":"Seau en plastique","categorie":"Maison","prix":13350,"stock":149,"attributs":"{\"matiere\": \"métal\", \"couleur\": \"rouge\"}"}
+{"produit_id":140,"vendeur_id":12,"nom":"Smartphone","categorie":"Électronique","prix":41200,"stock":286,"attributs":"{\"marque\": \"Samsung\", \"garantie_mois\": 12}"}
+{"produit_id":141,"vendeur_id":28,"nom":"Enceinte Bluetooth","categorie":"Électronique","prix":176950,"stock":293,"attributs":"{\"marque\": \"Infinix\", \"garantie_mois\": 12}"}
+{"produit_id":142,"vendeur_id":40,"nom":"Sandales en cuir","categorie":"Mode","prix":17000,"stock":274,"attributs":"{\"taille\": \"S\", \"couleur\": \"rouge\"}"}
+{"produit_id":143,"vendeur_id":27,"nom":"Écouteurs sans fil","categorie":"Électronique","prix":158350,"stock":480,"attributs":"{\"marque\": \"Infinix\", \"garantie_mois\": 24}"}
+{"produit_id":144,"vendeur_id":45,"nom":"Seau en plastique","categorie":"Maison","prix":22750,"stock":460,"attributs":"{\"matiere\": \"verre\", \"couleur\": \"rouge\"}"}
+{"produit_id":145,"vendeur_id":14,"nom":"Ventilateur","categorie":"Maison","prix":21250,"stock":122,"attributs":"{\"matiere\": \"métal\", \"couleur\": \"rouge\"}"}
+{"produit_id":146,"vendeur_id":25,"nom":"Beurre de karité","categorie":"Beauté","prix":7950,"stock":57,"attributs":"{\"contenance_ml\": 50, \"naturel\": false}"}
+{"produit_id":147,"vendeur_id":42,"nom":"Beurre de karité","categorie":"Beauté","prix":16900,"stock":38,"attributs":"{\"contenance_ml\": 50, \"naturel\": true}"}
+{"produit_id":148,"vendeur_id":9,"nom":"Sac en pagne","categorie":"Mode","prix":30750,"stock":156,"attributs":"{\"taille\": \"S\", \"couleur\": \"blanc\"}"}
+{"produit_id":149,"vendeur_id":22,"nom":"Henné naturel","categorie":"Beauté","prix":750,"stock":353,"attributs":"{\"contenance_ml\": 250, \"naturel\": false}"}
+{"produit_id":150,"vendeur_id":8,"nom":"Sandales en cuir","categorie":"Mode","prix":43400,"stock":300,"attributs":"{\"taille\": \"L\", \"couleur\": \"bleu\"}"}
+{"produit_id":151,"vendeur_id":26,"nom":"Batterie externe","categorie":"Électronique","prix":94400,"stock":38,"attributs":"{\"marque\": \"Itel\", \"garantie_mois\": 12}"}
+{"produit_id":152,"vendeur_id":16,"nom":"Ventilateur","categorie":"Maison","prix":17550,"stock":343,"attributs":"{\"matiere\": \"plastique\", \"couleur\": \"blanc\"}"}
+{"produit_id":153,"vendeur_id":47,"nom":"Ventilateur","categorie":"Maison","prix":16100,"stock":166,"attributs":"{\"matiere\": \"plastique\", \"couleur\": \"blanc\"}"}
+{"produit_id":154,"vendeur_id":27,"nom":"Robe wax","categorie":"Mode","prix":46100,"stock":81,"attributs":"{\"taille\": \"L\", \"couleur\": \"bleu\"}"}
+{"produit_id":155,"vendeur_id":47,"nom":"Batterie externe","categorie":"Électronique","prix":209850,"stock":479,"attributs":"{\"marque\": \"Infinix\", \"garantie_mois\": 6}"}
+{"produit_id":156,"vendeur_id":50,"nom":"Parfum Thiouraye","categorie":"Beauté","prix":16100,"stock":70,"attributs":"{\"contenance_ml\": 100, \"naturel\": false}"}
+{"produit_id":157,"vendeur_id":17,"nom":"Beurre de karité","categorie":"Beauté","prix":8150,"stock":417,"attributs":"{\"contenance_ml\": 250, \"naturel\": false}"}
+{"produit_id":158,"vendeur_id":24,"nom":"Batterie externe","categorie":"Électronique","prix":122500,"stock":75,"attributs":"{\"marque\": \"Samsung\", \"garantie_mois\": 6}"}
+{"produit_id":159,"vendeur_id":48,"nom":"Boubou brodé","categorie":"Mode","prix":54700,"stock":316,"attributs":"{\"taille\": \"S\", \"couleur\": \"bleu\"}"}
+{"produit_id":160,"vendeur_id":25,"nom":"Chemise bazin","categorie":"Mode","prix":14050,"stock":293,"attributs":"{\"taille\": \"L\", \"couleur\": \"rouge\"}"}
+{"produit_id":161,"vendeur_id":14,"nom":"Huile d'arachide 1L","categorie":"Alimentation","prix":1700,"stock":420,"attributs":"{\"poids_kg\": 5.0, \"origine\": \"Importé\"}"}
+{"produit_id":162,"vendeur_id":33,"nom":"Théière émaillée","categorie":"Maison","prix":22650,"stock":335,"attributs":"{\"matiere\": \"verre\", \"couleur\": \"blanc\"}"}
+{"produit_id":163,"vendeur_id":37,"nom":"Natte tressée","categorie":"Maison","prix":3250,"stock":371,"attributs":"{\"matiere\": \"fibre\", \"couleur\": \"blanc\"}"}
+{"produit_id":164,"vendeur_id":43,"nom":"Sandales en cuir","categorie":"Mode","prix":56050,"stock":241,"attributs":"{\"taille\": \"L\", \"couleur\": \"jaune\"}"}
+{"produit_id":165,"vendeur_id":19,"nom":"Théière émaillée","categorie":"Maison","prix":34200,"stock":215,"attributs":"{\"matiere\": \"verre\", \"couleur\": \"vert\"}"}
+{"produit_id":166,"vendeur_id":43,"nom":"Écouteurs sans fil","categorie":"Électronique","prix":34400,"stock":170,"attributs":"{\"marque\": \"Infinix\", \"garantie_mois\": 12}"}
+{"produit_id":167,"vendeur_id":26,"nom":"Beurre de karité","categorie":"Beauté","prix":10850,"stock":10,"attributs":"{\"contenance_ml\": 100, \"naturel\": true}"}
+{"produit_id":168,"vendeur_id":32,"nom":"Savon noir","categorie":"Beauté","prix":12750,"stock":88,"attributs":"{\"contenance_ml\": 50, \"naturel\": false}"}
+{"produit_id":169,"vendeur_id":13,"nom":"Boubou brodé","categorie":"Mode","prix":13900,"stock":303,"attributs":"{\"taille\": \"XL\", \"couleur\": \"blanc\"}"}
+{"produit_id":170,"vendeur_id":16,"nom":"Smartphone","categorie":"Électronique","prix":107950,"stock":299,"attributs":"{\"marque\": \"Infinix\", \"garantie_mois\": 6}"}
+{"produit_id":171,"vendeur_id":9,"nom":"Enceinte Bluetooth","categorie":"Électronique","prix":73100,"stock":262,"attributs":"{\"marque\": \"Infinix\", \"garantie_mois\": 24}"}
+{"produit_id":172,"vendeur_id":32,"nom":"Henné naturel","categorie":"Beauté","prix":16150,"stock":238,"attributs":"{\"contenance_ml\": 250, \"naturel\": true}"}
+{"produit_id":173,"vendeur_id":26,"nom":"Ventilateur","categorie":"Maison","prix":36200,"stock":142,"attributs":"{\"matiere\": \"verre\", \"couleur\": \"rouge\"}"}
+{"produit_id":174,"vendeur_id":44,"nom":"Seau en plastique","categorie":"Maison","prix":18950,"stock":57,"attributs":"{\"matiere\": \"fibre\", \"couleur\": \"blanc\"}"}
+{"produit_id":175,"vendeur_id":33,"nom":"Huile de baobab","categorie":"Beauté","prix":9050,"stock":480,"attributs":"{\"contenance_ml\": 100, \"naturel\": false}"}
+{"produit_id":176,"vendeur_id":50,"nom":"Beurre de karité","categorie":"Beauté","prix":2550,"stock":144,"attributs":"{\"contenance_ml\": 250, \"naturel\": true}"}
+{"produit_id":177,"vendeur_id":32,"nom":"Savon noir","categorie":"Beauté","prix":15100,"stock":2,"attributs":"{\"contenance_ml\": 50, \"naturel\": false}"}
+{"produit_id":178,"vendeur_id":39,"nom":"Mil local 2kg","categorie":"Alimentation","prix":7850,"stock":244,"attributs":"{\"poids_kg\": 5.0, \"origine\": \"Importé\"}"}
+{"produit_id":179,"vendeur_id":17,"nom":"Henné naturel","categorie":"Beauté","prix":9550,"stock":120,"attributs":"{\"contenance_ml\": 100, \"naturel\": false}"}
+{"produit_id":180,"vendeur_id":5,"nom":"Natte tressée","categorie":"Maison","prix":26300,"stock":277,"attributs":"{\"matiere\": \"fibre\", \"couleur\": \"blanc\"}"}
+{"produit_id":181,"vendeur_id":23,"nom":"Chemise bazin","categorie":"Mode","prix":55700,"stock":119,"attributs":"{\"taille\": \"S\", \"couleur\": \"bleu\"}"}
+{"produit_id":182,"vendeur_id":3,"nom":"Sandales en cuir","categorie":"Mode","prix":57300,"stock":54,"attributs":"{\"taille\": \"XL\", \"couleur\": \"blanc\"}"}
+{"produit_id":183,"vendeur_id":33,"nom":"Ventilateur","categorie":"Maison","prix":28800,"stock":4,"attributs":"{\"matiere\": \"verre\", \"couleur\": \"blanc\"}"}
+{"produit_id":184,"vendeur_id":41,"nom":"Natte tressée","categorie":"Maison","prix":16300,"stock":24,"attributs":"{\"matiere\": \"verre\", \"couleur\": \"vert\"}"}
+{"produit_id":185,"vendeur_id":12,"nom":"Mil local 2kg","categorie":"Alimentation","prix":9500,"stock":221,"attributs":"{\"poids_kg\": 0.25, \"origine\": \"Importé\"}"}
+{"produit_id":186,"vendeur_id":34,"nom":"Chargeur rapide","categorie":"Électronique","prix":69400,"stock":14,"attributs":"{\"marque\": \"Itel\", \"garantie_mois\": 12}"}
+{"produit_id":187,"vendeur_id":31,"nom":"Ventilateur","categorie":"Maison","prix":35900,"stock":127,"attributs":"{\"matiere\": \"plastique\", \"couleur\": \"rouge\"}"}
+{"produit_id":188,"vendeur_id":18,"nom":"Parfum Thiouraye","categorie":"Beauté","prix":10700,"stock":426,"attributs":"{\"contenance_ml\": 250, \"naturel\": false}"}
+{"produit_id":189,"vendeur_id":23,"nom":"Natte tressée","categorie":"Maison","prix":24000,"stock":57,"attributs":"{\"matiere\": \"métal\", \"couleur\": \"rouge\"}"}
+{"produit_id":190,"vendeur_id":10,"nom":"Parfum Thiouraye","categorie":"Beauté","prix":17350,"stock":42,"attributs":"{\"contenance_ml\": 250, \"naturel\": false}"}
+{"produit_id":191,"vendeur_id":22,"nom":"Batterie externe","categorie":"Électronique","prix":180800,"stock":266,"attributs":"{\"marque\": \"Itel\", \"garantie_mois\": 12}"}
+{"produit_id":192,"vendeur_id":21,"nom":"Robe wax","categorie":"Mode","prix":47150,"stock":68,"attributs":"{\"taille\": \"S\", \"couleur\": \"blanc\"}"}
+{"produit_id":193,"vendeur_id":43,"nom":"Bissap séché 250g","categorie":"Alimentation","prix":14950,"stock":367,"attributs":"{\"poids_kg\": 1.0, \"origine\": \"Sénégal\"}"}
+{"produit_id":194,"vendeur_id":46,"nom":"Sandales en cuir","categorie":"Mode","prix":31250,"stock":248,"attributs":"{\"taille\": \"M\", \"couleur\": \"bleu\"}"}
+{"produit_id":195,"vendeur_id":5,"nom":"Riz brisé 5kg","categorie":"Alimentation","prix":5750,"stock":175,"attributs":"{\"poids_kg\": 0.5, \"origine\": \"Importé\"}"}
+{"produit_id":196,"vendeur_id":23,"nom":"Mil local 2kg","categorie":"Alimentation","prix":4850,"stock":317,"attributs":"{\"poids_kg\": 5.0, \"origine\": \"Sénégal\"}"}
+{"produit_id":197,"vendeur_id":45,"nom":"Batterie externe","categorie":"Électronique","prix":107950,"stock":481,"attributs":"{\"marque\": \"Itel\", \"garantie_mois\": 12}"}
+{"produit_id":198,"vendeur_id":15,"nom":"Écouteurs sans fil","categorie":"Électronique","prix":245200,"stock":448,"attributs":"{\"marque\": \"Samsung\", \"garantie_mois\": 6}"}
+{"produit_id":199,"vendeur_id":45,"nom":"Batterie externe","categorie":"Électronique","prix":84700,"stock":153,"attributs":"{\"marque\": \"Infinix\", \"garantie_mois\": 24}"}
+{"produit_id":200,"vendeur_id":30,"nom":"Ventilateur","categorie":"Maison","prix":9400,"stock":326,"attributs":"{\"matiere\": \"plastique\", \"couleur\": \"vert\"}"}

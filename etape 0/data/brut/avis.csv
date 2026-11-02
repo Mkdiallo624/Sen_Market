@@ -1,0 +1,2001 @@
+avis_id,produit_id,client_id,note,commentaire,date_avis
+1,142,406,5,"Parfait, merci au vendeur.",2026-06-06 19:16:39
+2,190,183,4,Satisfait de mon achat.,2026-02-23 02:14:54
+3,167,6,2,Peut mieux faire.,2026-05-27 05:28:33
+4,129,531,4,Satisfait de mon achat.,2026-02-21 15:41:44
+5,196,22,5,"Parfait, merci au vendeur.",2026-02-01 07:55:13
+6,190,71,5,"Parfait, merci au vendeur.",2026-03-05 06:56:20
+7,199,496,4,Satisfait de mon achat.,2026-09-09 13:46:50
+8,13,708,5,"Parfait, merci au vendeur.",2026-03-21 07:18:41
+9,195,360,4,Satisfait de mon achat.,2026-07-04 06:22:19
+10,8,81,5,"Parfait, merci au vendeur.",2026-06-25 18:40:03
+11,79,714,5,"Parfait, merci au vendeur.",2026-06-01 15:54:45
+12,56,192,4,Satisfait de mon achat.,2026-10-14 08:52:54
+13,171,242,4,"Bon produit, livraison rapide.",2025-11-10 03:07:58
+14,8,548,3,Conforme à la description.,2026-05-03 16:20:25
+15,192,193,5,"Excellent, je recommande !",2026-10-16 03:40:53
+16,88,816,3,Conforme à la description.,2026-10-22 20:16:19
+17,17,800,4,Satisfait de mon achat.,2026-04-04 19:43:14
+18,193,367,5,"Excellent, je recommande !",2025-11-14 02:40:06
+19,11,734,4,Satisfait de mon achat.,2026-03-04 14:11:33
+20,72,57,2,"Qualité moyenne, livraison trop longue.",2026-03-11 03:08:23
+21,53,824,1,Je ne recommande pas du tout.,2026-03-06 17:42:18
+22,147,348,5,"Excellent, je recommande !",2025-11-05 00:15:16
+23,48,955,5,"Excellent, je recommande !",2026-09-27 05:29:47
+24,130,74,5,"Parfait, merci au vendeur.",2026-05-31 00:26:31
+25,18,205,4,"Bon produit, livraison rapide.",2026-03-13 06:16:39
+26,7,189,4,Satisfait de mon achat.,2026-10-17 09:11:59
+27,15,621,4,Satisfait de mon achat.,2026-08-30 22:47:54
+28,47,469,5,"Parfait, merci au vendeur.",2026-01-10 11:16:01
+29,99,33,4,"Bon produit, livraison rapide.",2025-12-30 17:53:40
+30,127,881,4,Satisfait de mon achat.,2026-07-13 22:17:45
+31,123,346,4,"Bon produit, livraison rapide.",2026-09-09 19:30:44
+32,19,894,5,"Excellent, je recommande !",2026-07-30 13:03:18
+33,74,357,2,"Qualité moyenne, livraison trop longue.",2026-08-21 20:22:21
+34,92,705,4,Satisfait de mon achat.,2025-12-01 19:11:32
+35,79,963,4,Satisfait de mon achat.,2025-12-25 21:20:32
+36,136,843,5,"Excellent, je recommande !",2026-03-31 22:21:31
+37,99,690,4,"Bon produit, livraison rapide.",2026-05-28 14:37:49
+38,68,535,5,"Excellent, je recommande !",2025-12-15 00:11:12
+39,44,812,4,Satisfait de mon achat.,2025-11-16 04:12:59
+40,63,956,5,"Excellent, je recommande !",2026-03-02 13:08:10
+41,166,500,5,"Excellent, je recommande !",2026-07-10 23:10:49
+42,145,835,2,Peut mieux faire.,2026-08-15 11:51:30
+43,87,7,1,"Très déçu, produit non conforme.",2026-08-19 09:34:45
+44,84,658,5,"Parfait, merci au vendeur.",2026-02-08 01:53:05
+45,60,958,5,"Parfait, merci au vendeur.",2026-02-08 13:24:34
+46,107,234,4,Satisfait de mon achat.,2026-09-30 15:54:34
+47,176,808,4,Satisfait de mon achat.,2025-12-21 04:49:34
+48,40,762,5,"Excellent, je recommande !",2026-08-04 07:53:32
+49,118,151,5,"Excellent, je recommande !",2025-10-26 12:04:29
+50,158,876,4,Satisfait de mon achat.,2026-01-29 01:32:10
+51,14,604,4,Satisfait de mon achat.,2026-01-02 23:12:38
+52,120,479,5,"Parfait, merci au vendeur.",2026-03-29 13:26:04
+53,118,275,4,Satisfait de mon achat.,2025-12-03 23:21:33
+54,195,364,3,Conforme à la description.,2026-06-07 11:24:45
+55,78,492,5,"Excellent, je recommande !",2026-04-03 18:50:39
+56,152,365,5,"Parfait, merci au vendeur.",2026-06-03 10:59:50
+57,17,445,4,Satisfait de mon achat.,2026-07-17 06:38:25
+58,120,753,5,"Excellent, je recommande !",2026-05-18 12:08:56
+59,51,204,3,"Correct, sans plus.",2026-05-03 18:28:23
+60,123,951,4,"Bon produit, livraison rapide.",2026-03-11 07:37:18
+61,121,350,4,"Bon produit, livraison rapide.",2026-06-22 04:48:20
+62,67,401,5,"Excellent, je recommande !",2026-10-04 13:45:11
+63,169,421,3,Conforme à la description.,2025-12-16 17:47:56
+64,90,107,3,"Correct, sans plus.",2025-11-26 02:03:04
+65,51,538,3,"Correct, sans plus.",2026-08-12 13:17:53
+66,135,43,4,"Bon produit, livraison rapide.",2026-06-13 01:45:12
+67,106,817,3,"Correct, sans plus.",2026-05-24 10:27:28
+68,104,832,4,"Bon produit, livraison rapide.",2025-11-06 23:40:53
+69,27,319,5,"Parfait, merci au vendeur.",2026-04-02 05:34:12
+70,191,311,1,Je ne recommande pas du tout.,2026-05-15 20:07:23
+71,73,251,5,"Excellent, je recommande !",2026-07-26 18:36:45
+72,111,824,5,"Excellent, je recommande !",2025-12-31 06:32:02
+73,31,977,2,Peut mieux faire.,2026-05-31 17:48:50
+74,3,116,2,"Qualité moyenne, livraison trop longue.",2025-11-24 18:28:43
+75,144,137,4,Satisfait de mon achat.,2026-08-16 14:15:41
+76,26,40,4,"Bon produit, livraison rapide.",2025-11-13 06:33:14
+77,139,435,4,"Bon produit, livraison rapide.",2026-05-20 13:21:54
+78,10,310,4,Satisfait de mon achat.,2026-10-08 19:06:42
+79,66,399,5,"Excellent, je recommande !",2026-03-01 22:00:47
+80,181,316,5,"Parfait, merci au vendeur.",2025-12-10 21:08:33
+81,111,551,5,"Excellent, je recommande !",2026-06-19 05:31:22
+82,64,998,5,"Excellent, je recommande !",2026-03-05 04:38:11
+83,23,975,3,Conforme à la description.,2026-06-25 01:58:09
+84,168,239,3,"Correct, sans plus.",2026-04-14 15:59:40
+85,115,843,5,"Excellent, je recommande !",2026-03-01 10:55:36
+86,90,742,5,"Parfait, merci au vendeur.",2025-11-02 21:36:57
+87,157,910,5,"Parfait, merci au vendeur.",2026-03-08 19:14:47
+88,185,921,4,"Bon produit, livraison rapide.",2026-09-27 11:47:10
+89,135,102,5,"Parfait, merci au vendeur.",2026-10-21 07:46:04
+90,97,783,5,"Parfait, merci au vendeur.",2025-10-30 14:12:18
+91,126,760,4,"Bon produit, livraison rapide.",2026-01-04 13:55:53
+92,173,975,3,"Correct, sans plus.",2026-09-22 16:56:45
+93,57,754,5,"Parfait, merci au vendeur.",2026-08-24 03:29:43
+94,135,168,5,"Excellent, je recommande !",2025-11-05 14:30:28
+95,105,336,1,"Très déçu, produit non conforme.",2026-03-29 09:14:02
+96,54,684,4,"Bon produit, livraison rapide.",2026-03-23 18:08:43
+97,46,323,5,"Excellent, je recommande !",2026-10-19 08:19:49
+98,116,523,3,Conforme à la description.,2026-08-06 18:34:39
+99,36,603,1,Je ne recommande pas du tout.,2026-08-02 13:29:59
+100,54,870,1,"Très déçu, produit non conforme.",2025-11-03 01:03:33
+101,76,142,4,"Bon produit, livraison rapide.",2026-07-04 20:09:23
+102,40,743,3,"Correct, sans plus.",2026-08-16 13:58:03
+103,64,923,4,Satisfait de mon achat.,2026-03-24 22:50:03
+104,64,779,1,Je ne recommande pas du tout.,2026-04-14 16:39:44
+105,10,2,5,"Parfait, merci au vendeur.",2026-01-25 11:43:04
+106,60,387,5,"Parfait, merci au vendeur.",2026-04-15 00:14:57
+107,133,534,5,"Excellent, je recommande !",2026-02-25 18:43:12
+108,100,677,3,"Correct, sans plus.",2025-12-31 22:46:44
+109,75,800,5,"Excellent, je recommande !",2026-10-22 06:37:25
+110,128,882,5,"Excellent, je recommande !",2026-01-18 05:49:53
+111,40,817,4,Satisfait de mon achat.,2026-01-01 12:43:32
+112,194,198,5,"Parfait, merci au vendeur.",2026-08-12 11:45:28
+113,14,665,4,"Bon produit, livraison rapide.",2025-12-21 09:29:39
+114,94,32,1,Je ne recommande pas du tout.,2025-10-28 19:03:53
+115,158,133,4,"Bon produit, livraison rapide.",2026-05-27 00:07:45
+116,153,312,4,"Bon produit, livraison rapide.",2026-02-18 08:29:49
+117,93,633,5,"Parfait, merci au vendeur.",2026-07-05 14:43:02
+118,99,864,4,Satisfait de mon achat.,2026-02-18 22:13:51
+119,177,739,5,"Parfait, merci au vendeur.",2025-11-28 05:24:28
+120,87,465,5,"Excellent, je recommande !",2026-01-31 20:35:42
+121,9,90,1,Je ne recommande pas du tout.,2026-03-19 23:33:23
+122,83,257,5,"Parfait, merci au vendeur.",2026-02-15 10:18:07
+123,9,652,4,Satisfait de mon achat.,2026-05-30 19:24:26
+124,176,911,3,"Correct, sans plus.",2025-12-08 17:26:30
+125,45,120,4,"Bon produit, livraison rapide.",2026-06-19 07:01:31
+126,30,43,5,"Parfait, merci au vendeur.",2025-12-24 20:22:31
+127,126,519,5,"Excellent, je recommande !",2026-06-01 16:51:16
+128,59,807,5,"Excellent, je recommande !",2026-05-16 08:42:01
+129,148,219,2,"Qualité moyenne, livraison trop longue.",2025-12-23 11:25:52
+130,145,800,5,"Excellent, je recommande !",2026-05-18 00:22:54
+131,104,995,5,"Parfait, merci au vendeur.",2026-10-13 12:48:15
+132,60,520,5,"Excellent, je recommande !",2026-09-29 07:56:49
+133,57,701,5,"Parfait, merci au vendeur.",2026-07-27 19:17:48
+134,1,264,2,"Qualité moyenne, livraison trop longue.",2026-05-07 06:20:27
+135,177,702,5,"Excellent, je recommande !",2026-08-02 12:28:36
+136,44,435,5,"Parfait, merci au vendeur.",2026-04-02 19:30:51
+137,94,801,1,Je ne recommande pas du tout.,2026-02-15 00:11:23
+138,6,355,5,"Parfait, merci au vendeur.",2025-11-28 17:28:39
+139,102,573,4,"Bon produit, livraison rapide.",2026-04-19 20:26:46
+140,59,142,5,"Parfait, merci au vendeur.",2026-07-20 15:55:48
+141,102,661,4,"Bon produit, livraison rapide.",2026-09-03 17:53:53
+142,66,596,5,"Excellent, je recommande !",2026-04-05 19:30:50
+143,154,365,3,"Correct, sans plus.",2026-07-04 10:47:16
+144,191,196,5,"Excellent, je recommande !",2026-07-29 02:06:50
+145,130,952,2,Peut mieux faire.,2026-01-20 17:58:47
+146,162,997,1,Je ne recommande pas du tout.,2026-01-03 15:06:50
+147,93,500,3,Conforme à la description.,2026-05-18 07:44:56
+148,25,575,4,"Bon produit, livraison rapide.",2026-06-06 13:22:56
+149,73,637,5,"Excellent, je recommande !",2025-11-11 01:34:10
+150,25,117,4,"Bon produit, livraison rapide.",2026-07-16 08:17:03
+151,9,249,4,"Bon produit, livraison rapide.",2026-04-18 18:37:16
+152,200,615,5,"Parfait, merci au vendeur.",2026-03-06 00:53:19
+153,97,621,4,"Bon produit, livraison rapide.",2026-04-13 10:48:01
+154,135,381,4,Satisfait de mon achat.,2026-04-18 03:54:01
+155,87,504,4,"Bon produit, livraison rapide.",2026-07-14 22:13:44
+156,126,186,5,"Excellent, je recommande !",2025-11-17 11:43:37
+157,59,730,3,Conforme à la description.,2026-08-29 20:33:24
+158,118,298,3,"Correct, sans plus.",2026-01-31 15:46:27
+159,106,991,4,"Bon produit, livraison rapide.",2026-09-03 23:12:22
+160,30,256,5,"Excellent, je recommande !",2025-12-24 00:53:30
+161,109,43,1,"Très déçu, produit non conforme.",2026-03-05 06:55:46
+162,53,583,5,"Excellent, je recommande !",2026-03-10 17:58:59
+163,112,155,4,"Bon produit, livraison rapide.",2025-12-28 08:13:44
+164,87,276,5,"Excellent, je recommande !",2025-11-26 13:14:23
+165,65,525,3,Conforme à la description.,2025-10-25 12:42:13
+166,90,48,5,"Parfait, merci au vendeur.",2026-08-23 10:32:55
+167,15,227,4,"Bon produit, livraison rapide.",2025-12-06 15:11:50
+168,195,818,3,"Correct, sans plus.",2026-07-19 18:23:40
+169,117,264,1,"Très déçu, produit non conforme.",2025-10-31 05:39:30
+170,9,286,4,"Bon produit, livraison rapide.",2026-09-05 22:23:53
+171,29,440,4,"Bon produit, livraison rapide.",2026-01-24 01:36:23
+172,3,305,1,Je ne recommande pas du tout.,2026-10-05 22:19:35
+173,51,949,4,Satisfait de mon achat.,2026-04-15 08:03:14
+174,183,434,4,Satisfait de mon achat.,2026-05-18 22:10:47
+175,146,220,4,Satisfait de mon achat.,2026-04-17 07:43:06
+176,176,794,3,Conforme à la description.,2026-07-23 23:37:31
+177,96,21,4,Satisfait de mon achat.,2026-01-12 04:12:38
+178,58,616,5,"Excellent, je recommande !",2026-04-21 21:34:49
+179,76,483,4,Satisfait de mon achat.,2026-01-23 05:40:39
+180,65,88,5,"Parfait, merci au vendeur.",2026-08-07 19:44:17
+181,175,244,3,Conforme à la description.,2026-09-03 00:17:58
+182,119,460,3,"Correct, sans plus.",2026-05-08 21:41:35
+183,167,29,5,"Parfait, merci au vendeur.",2026-06-09 12:07:35
+184,41,757,5,"Excellent, je recommande !",2026-07-20 18:07:03
+185,181,808,5,"Parfait, merci au vendeur.",2026-03-22 06:49:03
+186,176,41,4,"Bon produit, livraison rapide.",2026-02-02 09:18:18
+187,119,384,5,"Parfait, merci au vendeur.",2026-10-05 21:52:56
+188,54,41,5,"Excellent, je recommande !",2026-07-02 17:24:42
+189,120,164,2,"Qualité moyenne, livraison trop longue.",2025-11-02 23:09:58
+190,12,702,3,"Correct, sans plus.",2026-05-24 04:01:37
+191,39,320,5,"Excellent, je recommande !",2026-04-06 16:50:10
+192,107,502,2,Peut mieux faire.,2026-01-24 04:34:37
+193,194,267,4,Satisfait de mon achat.,2026-08-09 01:00:15
+194,147,164,2,"Qualité moyenne, livraison trop longue.",2026-07-02 06:26:48
+195,48,851,4,Satisfait de mon achat.,2026-04-12 03:47:23
+196,192,671,4,"Bon produit, livraison rapide.",2026-03-09 03:38:38
+197,97,865,3,"Correct, sans plus.",2026-01-14 12:18:40
+198,125,82,2,"Qualité moyenne, livraison trop longue.",2026-06-11 14:06:26
+199,162,211,4,Satisfait de mon achat.,2026-09-02 03:51:14
+200,21,445,4,"Bon produit, livraison rapide.",2026-06-22 06:20:23
+201,40,998,5,"Parfait, merci au vendeur.",2025-10-29 01:14:30
+202,133,820,5,"Parfait, merci au vendeur.",2026-06-26 23:50:35
+203,87,517,2,Peut mieux faire.,2026-04-02 18:28:54
+204,19,178,4,Satisfait de mon achat.,2026-07-01 12:19:17
+205,28,958,5,"Excellent, je recommande !",2026-03-12 13:37:12
+206,39,590,4,"Bon produit, livraison rapide.",2026-03-26 08:05:28
+207,100,781,5,"Parfait, merci au vendeur.",2026-04-07 12:49:04
+208,60,371,5,"Parfait, merci au vendeur.",2026-06-10 00:12:23
+209,182,761,4,"Bon produit, livraison rapide.",2026-08-28 00:15:09
+210,12,894,3,Conforme à la description.,2026-09-20 23:06:08
+211,87,424,2,Peut mieux faire.,2025-12-28 12:34:12
+212,74,647,3,"Correct, sans plus.",2025-11-18 20:41:42
+213,26,781,5,"Parfait, merci au vendeur.",2026-08-25 02:35:00
+214,154,360,3,Conforme à la description.,2026-08-06 20:45:13
+215,153,654,5,"Parfait, merci au vendeur.",2026-02-03 13:01:22
+216,11,490,5,"Excellent, je recommande !",2025-12-11 00:01:19
+217,109,563,5,"Excellent, je recommande !",2025-12-09 21:42:41
+218,100,527,4,Satisfait de mon achat.,2026-04-12 22:31:30
+219,11,225,3,Conforme à la description.,2026-02-05 03:45:15
+220,46,985,3,Conforme à la description.,2025-12-23 21:19:04
+221,74,316,5,"Excellent, je recommande !",2026-08-17 07:43:26
+222,114,746,1,Je ne recommande pas du tout.,2026-08-06 14:00:05
+223,93,779,5,"Parfait, merci au vendeur.",2026-05-06 05:22:44
+224,99,714,1,Je ne recommande pas du tout.,2025-11-07 13:33:25
+225,146,208,5,"Parfait, merci au vendeur.",2025-12-14 23:28:18
+226,34,984,4,Satisfait de mon achat.,2026-07-07 21:58:41
+227,14,621,5,"Parfait, merci au vendeur.",2026-03-10 22:06:29
+228,171,154,5,"Excellent, je recommande !",2026-03-20 13:13:46
+229,47,608,3,"Correct, sans plus.",2026-08-18 08:54:06
+230,101,468,5,"Parfait, merci au vendeur.",2026-01-29 17:50:54
+231,13,692,4,Satisfait de mon achat.,2026-10-17 00:28:47
+232,198,962,4,Satisfait de mon achat.,2026-10-10 13:38:20
+233,143,254,5,"Excellent, je recommande !",2026-05-30 14:38:42
+234,197,853,5,"Parfait, merci au vendeur.",2026-02-08 14:27:40
+235,191,849,3,"Correct, sans plus.",2026-10-20 19:06:05
+236,51,205,2,Peut mieux faire.,2026-01-10 06:31:20
+237,83,296,5,"Excellent, je recommande !",2026-09-05 22:48:03
+238,177,422,4,Satisfait de mon achat.,2026-03-31 11:37:42
+239,106,288,4,Satisfait de mon achat.,2026-09-03 20:48:36
+240,144,188,2,"Qualité moyenne, livraison trop longue.",2026-02-12 07:39:55
+241,93,734,4,"Bon produit, livraison rapide.",2026-07-13 04:53:39
+242,87,701,4,"Bon produit, livraison rapide.",2026-07-17 15:36:20
+243,82,748,3,Conforme à la description.,2026-03-10 02:59:25
+244,164,618,4,Satisfait de mon achat.,2025-11-05 00:11:40
+245,100,188,1,Je ne recommande pas du tout.,2026-02-10 22:33:58
+246,85,582,4,"Bon produit, livraison rapide.",2026-07-04 14:25:51
+247,102,537,5,"Excellent, je recommande !",2026-08-09 23:55:24
+248,99,904,5,"Parfait, merci au vendeur.",2026-03-28 01:41:05
+249,43,878,1,Je ne recommande pas du tout.,2026-09-15 21:19:26
+250,75,101,3,Conforme à la description.,2026-08-07 03:16:36
+251,126,544,5,"Excellent, je recommande !",2025-12-01 02:34:10
+252,169,941,4,"Bon produit, livraison rapide.",2026-02-23 20:56:19
+253,81,709,1,"Très déçu, produit non conforme.",2026-05-04 05:14:03
+254,182,485,5,"Excellent, je recommande !",2025-10-31 14:51:21
+255,198,675,4,Satisfait de mon achat.,2026-02-02 03:21:08
+256,31,28,4,"Bon produit, livraison rapide.",2026-07-30 14:18:44
+257,42,498,5,"Parfait, merci au vendeur.",2026-09-01 17:36:33
+258,118,915,4,Satisfait de mon achat.,2025-12-12 09:02:10
+259,55,449,4,Satisfait de mon achat.,2026-05-30 20:06:31
+260,24,932,5,"Excellent, je recommande !",2026-04-17 09:19:08
+261,158,799,3,"Correct, sans plus.",2026-09-01 14:18:53
+262,178,944,4,"Bon produit, livraison rapide.",2026-08-25 01:02:27
+263,48,146,3,"Correct, sans plus.",2026-10-07 15:13:03
+264,45,835,5,"Excellent, je recommande !",2026-09-27 14:57:22
+265,165,214,4,Satisfait de mon achat.,2026-07-21 16:34:24
+266,8,279,5,"Excellent, je recommande !",2026-01-22 19:02:06
+267,4,133,4,Satisfait de mon achat.,2026-01-24 02:04:11
+268,150,287,5,"Excellent, je recommande !",2026-08-26 22:19:48
+269,38,645,5,"Excellent, je recommande !",2026-07-07 03:38:01
+270,134,329,3,Conforme à la description.,2026-08-04 06:42:29
+271,82,25,5,"Excellent, je recommande !",2026-02-04 19:33:00
+272,83,226,3,"Correct, sans plus.",2026-09-27 02:26:17
+273,190,131,1,Je ne recommande pas du tout.,2025-12-26 03:43:30
+274,124,909,4,"Bon produit, livraison rapide.",2026-08-18 12:44:13
+275,51,754,5,"Excellent, je recommande !",2026-02-24 11:27:13
+276,155,535,3,Conforme à la description.,2025-11-26 15:58:39
+277,30,852,5,"Parfait, merci au vendeur.",2026-08-20 22:26:41
+278,35,267,5,"Excellent, je recommande !",2026-10-04 16:48:12
+279,80,908,4,"Bon produit, livraison rapide.",2026-10-14 07:17:55
+280,61,773,3,"Correct, sans plus.",2025-11-03 00:25:03
+281,196,252,4,Satisfait de mon achat.,2026-04-08 16:05:48
+282,98,628,3,Conforme à la description.,2026-02-27 09:33:04
+283,82,960,1,"Très déçu, produit non conforme.",2026-02-24 13:23:57
+284,127,380,3,Conforme à la description.,2026-03-16 01:42:00
+285,90,217,4,Satisfait de mon achat.,2025-10-31 21:33:28
+286,123,915,5,"Parfait, merci au vendeur.",2026-04-20 02:55:12
+287,84,315,4,Satisfait de mon achat.,2025-11-21 03:43:35
+288,99,556,5,"Excellent, je recommande !",2026-01-18 20:36:27
+289,183,97,5,"Parfait, merci au vendeur.",2026-07-14 13:36:11
+290,133,629,5,"Excellent, je recommande !",2025-12-09 04:27:55
+291,18,992,5,"Parfait, merci au vendeur.",2026-06-28 01:02:49
+292,5,33,1,Je ne recommande pas du tout.,2026-08-26 12:32:09
+293,90,284,3,Conforme à la description.,2026-10-16 23:14:02
+294,65,630,4,"Bon produit, livraison rapide.",2026-06-16 06:20:21
+295,109,596,5,"Parfait, merci au vendeur.",2026-09-11 21:01:34
+296,115,413,5,"Parfait, merci au vendeur.",2026-04-16 08:03:49
+297,173,316,3,Conforme à la description.,2026-09-19 14:29:27
+298,62,749,5,"Excellent, je recommande !",2026-08-03 17:31:33
+299,136,488,4,"Bon produit, livraison rapide.",2026-09-24 21:54:23
+300,189,44,5,"Parfait, merci au vendeur.",2026-09-24 00:46:34
+301,42,142,4,"Bon produit, livraison rapide.",2026-07-03 11:50:14
+302,193,386,3,"Correct, sans plus.",2026-01-14 17:35:48
+303,190,647,4,"Bon produit, livraison rapide.",2025-11-11 04:14:37
+304,75,66,5,"Parfait, merci au vendeur.",2026-02-19 20:41:42
+305,158,998,5,"Excellent, je recommande !",2026-02-10 08:14:59
+306,47,932,4,"Bon produit, livraison rapide.",2026-10-01 00:39:41
+307,7,69,4,Satisfait de mon achat.,2025-11-07 17:48:17
+308,45,420,4,"Bon produit, livraison rapide.",2026-05-11 13:49:11
+309,24,371,1,"Très déçu, produit non conforme.",2026-10-20 13:51:24
+310,89,140,5,"Parfait, merci au vendeur.",2026-02-04 15:39:21
+311,52,516,3,Conforme à la description.,2026-05-24 10:44:22
+312,192,744,4,Satisfait de mon achat.,2025-12-21 18:01:30
+313,101,533,2,"Qualité moyenne, livraison trop longue.",2026-03-27 12:18:53
+314,48,882,5,"Parfait, merci au vendeur.",2026-10-20 21:06:06
+315,59,642,1,Je ne recommande pas du tout.,2026-06-27 04:10:41
+316,67,776,4,Satisfait de mon achat.,2026-05-08 06:48:33
+317,20,846,4,"Bon produit, livraison rapide.",2026-10-13 23:53:55
+318,112,851,5,"Parfait, merci au vendeur.",2026-09-04 17:22:34
+319,5,571,5,"Parfait, merci au vendeur.",2026-02-03 04:41:37
+320,114,847,3,"Correct, sans plus.",2026-06-14 03:19:50
+321,145,380,3,Conforme à la description.,2026-06-19 03:31:53
+322,133,990,5,"Parfait, merci au vendeur.",2026-04-04 22:29:48
+323,2,660,3,Conforme à la description.,2025-12-30 16:14:39
+324,146,364,1,Je ne recommande pas du tout.,2026-09-03 06:41:29
+325,99,60,3,Conforme à la description.,2025-12-23 00:25:05
+326,159,349,3,"Correct, sans plus.",2026-03-04 03:00:43
+327,85,483,4,"Bon produit, livraison rapide.",2026-01-23 12:50:41
+328,99,112,4,Satisfait de mon achat.,2026-08-01 11:48:55
+329,88,568,4,"Bon produit, livraison rapide.",2025-11-29 20:02:33
+330,15,858,4,Satisfait de mon achat.,2026-04-08 11:55:28
+331,90,316,4,"Bon produit, livraison rapide.",2026-08-28 20:58:05
+332,136,931,5,"Parfait, merci au vendeur.",2026-09-17 13:08:06
+333,165,410,4,"Bon produit, livraison rapide.",2026-01-08 14:35:36
+334,119,283,5,"Excellent, je recommande !",2026-04-26 16:11:21
+335,76,837,5,"Parfait, merci au vendeur.",2026-04-21 08:00:15
+336,43,616,4,"Bon produit, livraison rapide.",2026-02-20 22:09:24
+337,161,624,5,"Excellent, je recommande !",2026-08-13 19:31:55
+338,171,245,3,Conforme à la description.,2026-07-16 21:31:12
+339,56,600,4,Satisfait de mon achat.,2025-11-24 04:50:01
+340,149,862,5,"Parfait, merci au vendeur.",2026-09-03 22:46:21
+341,168,195,3,Conforme à la description.,2026-03-07 16:46:40
+342,85,7,4,"Bon produit, livraison rapide.",2026-08-31 14:55:12
+343,115,766,5,"Parfait, merci au vendeur.",2026-07-31 06:21:49
+344,194,696,5,"Excellent, je recommande !",2026-04-17 14:49:44
+345,125,204,4,"Bon produit, livraison rapide.",2026-06-28 04:35:49
+346,136,543,5,"Parfait, merci au vendeur.",2026-04-03 15:53:52
+347,181,122,5,"Parfait, merci au vendeur.",2026-08-05 07:31:59
+348,186,287,4,Satisfait de mon achat.,2025-12-18 11:48:32
+349,157,182,4,Satisfait de mon achat.,2026-06-02 19:46:18
+350,146,924,5,"Parfait, merci au vendeur.",2025-11-08 07:46:17
+351,44,359,4,"Bon produit, livraison rapide.",2026-07-15 11:49:56
+352,143,480,5,"Excellent, je recommande !",2026-09-30 00:07:12
+353,73,241,3,Conforme à la description.,2026-07-29 12:41:19
+354,44,525,5,"Parfait, merci au vendeur.",2026-07-16 17:00:48
+355,198,557,4,Satisfait de mon achat.,2026-08-19 20:40:39
+356,84,84,2,Peut mieux faire.,2026-05-23 12:36:26
+357,128,785,5,"Parfait, merci au vendeur.",2026-06-06 04:07:58
+358,128,412,4,Satisfait de mon achat.,2026-05-25 22:38:47
+359,124,468,5,"Parfait, merci au vendeur.",2026-04-15 07:15:28
+360,166,160,3,"Correct, sans plus.",2025-11-02 12:31:05
+361,164,66,3,Conforme à la description.,2025-11-23 15:12:28
+362,183,555,5,"Parfait, merci au vendeur.",2026-04-08 14:51:47
+363,178,28,4,"Bon produit, livraison rapide.",2026-02-01 14:36:20
+364,17,579,4,"Bon produit, livraison rapide.",2026-09-26 06:48:15
+365,81,765,4,"Bon produit, livraison rapide.",2026-10-19 14:41:28
+366,143,245,4,"Bon produit, livraison rapide.",2026-04-11 15:26:46
+367,169,286,5,"Parfait, merci au vendeur.",2026-07-06 08:47:15
+368,54,944,3,"Correct, sans plus.",2026-05-24 23:55:12
+369,166,458,4,Satisfait de mon achat.,2026-01-24 03:21:01
+370,142,303,4,"Bon produit, livraison rapide.",2026-03-11 15:24:22
+371,104,887,3,"Correct, sans plus.",2026-03-14 08:54:52
+372,64,655,5,"Excellent, je recommande !",2025-12-02 08:06:06
+373,118,598,3,"Correct, sans plus.",2025-10-31 18:07:19
+374,115,980,4,"Bon produit, livraison rapide.",2026-02-20 02:27:44
+375,58,605,4,"Bon produit, livraison rapide.",2026-09-19 07:35:27
+376,106,804,4,"Bon produit, livraison rapide.",2025-11-25 01:22:50
+377,112,703,5,"Parfait, merci au vendeur.",2026-05-02 22:30:38
+378,175,747,5,"Excellent, je recommande !",2026-05-24 04:21:24
+379,36,684,2,"Qualité moyenne, livraison trop longue.",2026-06-25 01:24:45
+380,131,60,3,"Correct, sans plus.",2026-10-18 08:09:57
+381,16,184,4,"Bon produit, livraison rapide.",2026-03-16 14:44:17
+382,49,525,3,Conforme à la description.,2026-03-06 09:14:26
+383,167,709,3,Conforme à la description.,2026-04-28 21:32:19
+384,126,754,5,"Excellent, je recommande !",2026-09-03 07:55:43
+385,46,807,5,"Excellent, je recommande !",2026-05-27 02:20:07
+386,129,661,4,Satisfait de mon achat.,2025-11-09 14:45:37
+387,193,44,1,"Très déçu, produit non conforme.",2026-04-06 14:23:05
+388,73,568,5,"Parfait, merci au vendeur.",2026-04-27 07:57:43
+389,149,711,4,"Bon produit, livraison rapide.",2026-09-11 05:57:45
+390,53,922,4,Satisfait de mon achat.,2026-06-20 21:08:27
+391,75,612,4,Satisfait de mon achat.,2026-06-29 20:47:29
+392,182,560,5,"Parfait, merci au vendeur.",2026-02-18 12:25:43
+393,25,158,2,Peut mieux faire.,2026-07-17 08:22:21
+394,31,838,5,"Parfait, merci au vendeur.",2025-11-29 21:31:17
+395,11,407,5,"Parfait, merci au vendeur.",2026-01-04 11:53:34
+396,29,886,4,Satisfait de mon achat.,2026-01-12 12:48:27
+397,157,178,5,"Excellent, je recommande !",2026-04-14 00:41:33
+398,118,787,3,Conforme à la description.,2025-11-19 13:17:07
+399,25,299,5,"Excellent, je recommande !",2026-05-02 04:24:35
+400,62,150,4,"Bon produit, livraison rapide.",2026-09-14 04:48:15
+401,161,916,4,Satisfait de mon achat.,2026-03-18 21:59:50
+402,101,776,5,"Parfait, merci au vendeur.",2025-10-26 16:08:19
+403,142,865,5,"Excellent, je recommande !",2026-02-02 07:30:59
+404,54,788,4,Satisfait de mon achat.,2025-11-19 07:41:57
+405,186,585,4,"Bon produit, livraison rapide.",2026-06-14 09:48:15
+406,74,674,4,"Bon produit, livraison rapide.",2026-08-11 10:14:32
+407,191,51,5,"Excellent, je recommande !",2026-02-07 06:50:09
+408,82,372,5,"Excellent, je recommande !",2026-02-11 09:38:06
+409,149,328,4,Satisfait de mon achat.,2026-02-19 11:32:09
+410,113,290,4,Satisfait de mon achat.,2026-03-07 03:17:46
+411,124,355,5,"Parfait, merci au vendeur.",2026-07-06 04:37:36
+412,16,651,5,"Excellent, je recommande !",2026-02-13 22:34:41
+413,159,621,5,"Parfait, merci au vendeur.",2026-03-13 17:18:37
+414,87,730,5,"Parfait, merci au vendeur.",2026-09-15 02:35:28
+415,52,430,2,"Qualité moyenne, livraison trop longue.",2026-07-30 09:16:55
+416,138,920,2,Peut mieux faire.,2026-09-28 23:45:09
+417,153,513,4,Satisfait de mon achat.,2026-03-04 08:35:36
+418,142,342,4,"Bon produit, livraison rapide.",2026-09-29 00:24:30
+419,186,891,5,"Excellent, je recommande !",2026-02-10 23:44:01
+420,55,290,5,"Parfait, merci au vendeur.",2026-02-14 04:19:38
+421,38,827,5,"Parfait, merci au vendeur.",2026-10-07 19:25:45
+422,109,742,4,Satisfait de mon achat.,2026-01-06 03:19:10
+423,68,953,5,"Excellent, je recommande !",2026-08-19 17:29:23
+424,77,979,5,"Parfait, merci au vendeur.",2026-08-23 05:14:48
+425,129,138,3,Conforme à la description.,2026-09-28 00:06:14
+426,8,291,2,Peut mieux faire.,2026-08-30 20:55:56
+427,87,499,5,"Parfait, merci au vendeur.",2026-08-21 14:36:47
+428,87,275,3,Conforme à la description.,2026-03-03 07:27:11
+429,5,156,5,"Parfait, merci au vendeur.",2026-05-16 00:52:57
+430,135,894,4,"Bon produit, livraison rapide.",2026-05-23 23:19:43
+431,167,4,4,Satisfait de mon achat.,2026-02-08 17:48:52
+432,190,265,5,"Parfait, merci au vendeur.",2026-03-16 14:46:27
+433,190,861,4,"Bon produit, livraison rapide.",2026-08-31 12:09:21
+434,23,416,4,"Bon produit, livraison rapide.",2025-10-30 11:13:12
+435,50,269,1,Je ne recommande pas du tout.,2025-11-22 06:56:58
+436,86,993,3,Conforme à la description.,2026-03-23 21:31:17
+437,117,669,4,Satisfait de mon achat.,2026-08-02 15:50:12
+438,189,801,5,"Excellent, je recommande !",2026-09-16 15:40:39
+439,54,357,2,"Qualité moyenne, livraison trop longue.",2026-07-01 13:19:21
+440,94,250,4,Satisfait de mon achat.,2026-09-03 03:30:42
+441,137,432,4,Satisfait de mon achat.,2025-12-18 05:48:56
+442,179,953,5,"Parfait, merci au vendeur.",2025-12-01 21:07:56
+443,140,595,4,"Bon produit, livraison rapide.",2026-04-26 16:17:44
+444,137,844,5,"Parfait, merci au vendeur.",2026-02-14 00:57:10
+445,196,946,5,"Excellent, je recommande !",2026-09-10 21:37:09
+446,174,975,3,Conforme à la description.,2025-11-20 22:59:43
+447,173,940,4,"Bon produit, livraison rapide.",2026-03-07 06:00:52
+448,152,404,5,"Parfait, merci au vendeur.",2026-02-10 18:47:26
+449,67,949,4,Satisfait de mon achat.,2026-05-29 12:34:06
+450,15,668,5,"Parfait, merci au vendeur.",2026-02-10 15:41:21
+451,157,907,5,"Excellent, je recommande !",2026-10-03 10:38:18
+452,153,382,5,"Excellent, je recommande !",2025-11-13 09:52:07
+453,125,10,3,"Correct, sans plus.",2025-11-20 10:02:38
+454,26,443,1,Je ne recommande pas du tout.,2026-09-16 18:20:53
+455,194,300,4,"Bon produit, livraison rapide.",2026-05-05 04:33:32
+456,150,672,3,Conforme à la description.,2026-08-27 13:19:23
+457,132,620,5,"Excellent, je recommande !",2026-04-10 20:02:03
+458,84,415,4,"Bon produit, livraison rapide.",2026-09-28 21:20:25
+459,11,670,5,"Excellent, je recommande !",2026-04-16 00:47:28
+460,137,420,5,"Excellent, je recommande !",2026-07-23 16:35:00
+461,76,737,1,"Très déçu, produit non conforme.",2026-10-23 09:17:31
+462,13,542,5,"Excellent, je recommande !",2026-07-29 10:02:02
+463,12,282,5,"Excellent, je recommande !",2026-01-28 04:52:13
+464,23,108,4,Satisfait de mon achat.,2026-08-08 08:14:24
+465,54,101,4,"Bon produit, livraison rapide.",2026-03-14 08:30:35
+466,22,986,3,"Correct, sans plus.",2026-06-28 11:09:35
+467,26,787,5,"Excellent, je recommande !",2026-06-21 07:16:51
+468,76,827,5,"Parfait, merci au vendeur.",2025-12-28 05:26:01
+469,7,639,5,"Parfait, merci au vendeur.",2026-02-06 18:58:33
+470,34,483,1,Je ne recommande pas du tout.,2025-12-28 20:58:00
+471,79,827,4,Satisfait de mon achat.,2025-11-18 21:22:27
+472,2,756,5,"Excellent, je recommande !",2026-04-25 15:09:02
+473,43,257,5,"Parfait, merci au vendeur.",2026-01-06 02:08:00
+474,176,998,4,Satisfait de mon achat.,2026-07-04 01:40:02
+475,81,115,5,"Parfait, merci au vendeur.",2026-01-19 07:07:52
+476,151,517,3,"Correct, sans plus.",2025-11-04 20:19:45
+477,90,113,5,"Excellent, je recommande !",2025-12-17 22:10:11
+478,114,724,4,"Bon produit, livraison rapide.",2026-05-12 10:29:30
+479,26,382,3,"Correct, sans plus.",2025-12-10 02:20:38
+480,145,85,2,"Qualité moyenne, livraison trop longue.",2026-09-13 19:17:22
+481,55,802,1,Je ne recommande pas du tout.,2026-07-24 19:22:57
+482,61,957,5,"Excellent, je recommande !",2025-12-09 23:55:28
+483,52,351,5,"Excellent, je recommande !",2026-09-03 10:28:39
+484,142,166,5,"Parfait, merci au vendeur.",2026-02-16 05:23:41
+485,132,305,4,"Bon produit, livraison rapide.",2026-09-17 06:10:21
+486,105,801,5,"Excellent, je recommande !",2026-10-20 03:55:48
+487,67,856,5,"Parfait, merci au vendeur.",2026-01-24 14:08:17
+488,18,488,5,"Parfait, merci au vendeur.",2026-02-22 00:55:20
+489,167,546,5,"Parfait, merci au vendeur.",2025-12-16 04:20:11
+490,133,645,3,Conforme à la description.,2025-11-04 11:49:49
+491,115,367,5,"Excellent, je recommande !",2026-04-30 20:23:32
+492,199,597,2,Peut mieux faire.,2026-07-01 12:41:15
+493,17,60,5,"Parfait, merci au vendeur.",2026-05-14 16:44:31
+494,52,416,4,"Bon produit, livraison rapide.",2026-10-18 15:54:01
+495,181,727,2,Peut mieux faire.,2025-12-05 23:10:31
+496,1,953,2,"Qualité moyenne, livraison trop longue.",2026-01-17 04:34:47
+497,64,896,5,"Excellent, je recommande !",2026-09-14 21:11:15
+498,151,311,4,"Bon produit, livraison rapide.",2026-01-11 20:45:03
+499,114,207,4,"Bon produit, livraison rapide.",2026-03-06 08:17:30
+500,56,232,5,"Excellent, je recommande !",2026-03-31 15:17:28
+501,70,218,4,"Bon produit, livraison rapide.",2026-01-10 17:36:58
+502,82,895,5,"Parfait, merci au vendeur.",2026-05-08 14:32:54
+503,51,31,5,"Parfait, merci au vendeur.",2026-08-10 11:51:52
+504,2,295,5,"Excellent, je recommande !",2026-08-18 08:41:32
+505,123,641,2,"Qualité moyenne, livraison trop longue.",2026-04-10 16:11:07
+506,13,108,5,"Parfait, merci au vendeur.",2026-10-22 14:56:37
+507,143,384,5,"Excellent, je recommande !",2026-02-16 10:04:13
+508,142,157,4,"Bon produit, livraison rapide.",2026-08-17 18:05:23
+509,190,288,5,"Excellent, je recommande !",2026-09-10 10:23:54
+510,193,358,2,"Qualité moyenne, livraison trop longue.",2026-02-08 04:21:08
+511,189,667,3,Conforme à la description.,2025-11-13 15:27:57
+512,119,879,5,"Parfait, merci au vendeur.",2026-08-07 22:50:53
+513,19,986,5,"Excellent, je recommande !",2025-11-26 03:51:36
+514,169,664,4,Satisfait de mon achat.,2026-06-12 06:25:48
+515,182,738,5,"Excellent, je recommande !",2026-04-22 14:48:10
+516,42,127,5,"Parfait, merci au vendeur.",2026-04-22 04:44:03
+517,73,631,3,"Correct, sans plus.",2026-07-21 00:46:46
+518,14,536,4,"Bon produit, livraison rapide.",2026-06-13 15:40:31
+519,66,978,4,Satisfait de mon achat.,2026-06-02 17:39:05
+520,70,623,5,"Excellent, je recommande !",2026-04-03 12:20:16
+521,174,797,3,Conforme à la description.,2026-07-06 08:23:44
+522,42,809,4,"Bon produit, livraison rapide.",2026-06-12 18:09:37
+523,30,120,5,"Parfait, merci au vendeur.",2026-05-24 01:49:28
+524,124,564,5,"Excellent, je recommande !",2026-07-20 22:35:22
+525,144,894,1,Je ne recommande pas du tout.,2025-12-07 21:11:59
+526,192,344,5,"Excellent, je recommande !",2025-10-30 00:12:04
+527,158,788,2,Peut mieux faire.,2025-11-06 23:03:34
+528,47,996,4,Satisfait de mon achat.,2026-06-06 22:14:01
+529,139,977,3,Conforme à la description.,2026-07-26 12:31:19
+530,181,260,5,"Excellent, je recommande !",2025-12-19 20:42:14
+531,167,327,4,"Bon produit, livraison rapide.",2025-11-15 05:57:52
+532,108,965,5,"Excellent, je recommande !",2026-02-24 20:59:27
+533,59,396,4,Satisfait de mon achat.,2026-08-09 02:43:12
+534,21,210,4,Satisfait de mon achat.,2026-04-04 22:16:05
+535,69,616,5,"Parfait, merci au vendeur.",2026-06-25 08:47:59
+536,108,519,5,"Parfait, merci au vendeur.",2026-10-14 20:49:56
+537,194,1,4,Satisfait de mon achat.,2026-05-01 09:12:24
+538,94,111,4,"Bon produit, livraison rapide.",2026-02-20 19:56:54
+539,143,623,4,Satisfait de mon achat.,2025-11-05 20:54:24
+540,150,893,4,"Bon produit, livraison rapide.",2026-08-20 01:12:13
+541,93,651,5,"Parfait, merci au vendeur.",2026-07-25 13:42:20
+542,150,490,2,Peut mieux faire.,2026-02-25 00:38:26
+543,173,999,4,Satisfait de mon achat.,2026-06-11 04:35:50
+544,129,884,5,"Excellent, je recommande !",2026-01-16 16:53:12
+545,142,377,5,"Parfait, merci au vendeur.",2026-06-26 00:14:34
+546,134,825,3,Conforme à la description.,2026-04-01 09:54:40
+547,200,905,1,"Très déçu, produit non conforme.",2026-01-06 23:35:24
+548,122,191,5,"Parfait, merci au vendeur.",2025-11-26 19:12:40
+549,25,625,5,"Excellent, je recommande !",2025-11-01 08:46:39
+550,48,59,5,"Parfait, merci au vendeur.",2026-08-20 01:06:18
+551,57,559,4,Satisfait de mon achat.,2025-11-19 15:31:27
+552,186,917,3,Conforme à la description.,2026-04-24 21:15:32
+553,1,899,5,"Excellent, je recommande !",2025-12-08 20:46:59
+554,43,563,5,"Parfait, merci au vendeur.",2026-07-02 22:49:29
+555,140,588,5,"Parfait, merci au vendeur.",2026-03-16 03:15:11
+556,120,853,5,"Excellent, je recommande !",2026-08-12 04:11:16
+557,4,5,5,"Excellent, je recommande !",2025-11-26 21:09:16
+558,155,690,2,Peut mieux faire.,2026-03-23 06:04:21
+559,7,316,1,Je ne recommande pas du tout.,2026-03-21 10:33:04
+560,17,770,3,"Correct, sans plus.",2026-04-07 12:15:24
+561,165,117,5,"Excellent, je recommande !",2026-02-06 19:06:01
+562,91,484,4,"Bon produit, livraison rapide.",2026-01-25 13:14:23
+563,111,760,5,"Excellent, je recommande !",2026-10-07 16:52:03
+564,6,734,4,"Bon produit, livraison rapide.",2026-07-12 17:25:41
+565,33,739,4,Satisfait de mon achat.,2026-04-09 13:29:14
+566,46,919,4,"Bon produit, livraison rapide.",2026-08-24 18:36:04
+567,71,362,5,"Excellent, je recommande !",2025-11-19 16:49:33
+568,128,710,4,Satisfait de mon achat.,2026-05-22 13:34:31
+569,78,812,5,"Excellent, je recommande !",2026-06-30 05:26:00
+570,183,932,3,Conforme à la description.,2025-11-08 02:04:54
+571,43,221,4,"Bon produit, livraison rapide.",2026-07-10 05:19:28
+572,61,242,3,Conforme à la description.,2026-07-11 17:44:41
+573,18,437,4,Satisfait de mon achat.,2026-05-05 16:03:14
+574,167,803,5,"Excellent, je recommande !",2026-06-25 09:49:05
+575,122,880,3,Conforme à la description.,2026-10-05 01:42:00
+576,105,530,4,"Bon produit, livraison rapide.",2026-02-27 00:59:39
+577,164,727,1,"Très déçu, produit non conforme.",2026-01-12 19:44:24
+578,153,61,5,"Parfait, merci au vendeur.",2026-03-23 08:54:50
+579,82,754,1,"Très déçu, produit non conforme.",2026-10-06 20:53:04
+580,163,646,5,"Excellent, je recommande !",2026-04-23 17:51:54
+581,53,330,5,"Parfait, merci au vendeur.",2026-09-28 20:04:09
+582,128,628,5,"Excellent, je recommande !",2026-08-09 15:18:01
+583,89,948,5,"Excellent, je recommande !",2025-12-06 15:57:16
+584,85,991,5,"Excellent, je recommande !",2026-06-30 10:14:33
+585,127,643,4,Satisfait de mon achat.,2026-09-10 15:22:56
+586,117,650,5,"Excellent, je recommande !",2026-05-01 17:27:55
+587,188,657,5,"Parfait, merci au vendeur.",2026-02-13 03:56:36
+588,139,131,4,"Bon produit, livraison rapide.",2026-08-15 00:13:38
+589,83,346,5,"Parfait, merci au vendeur.",2025-11-14 22:54:41
+590,173,992,5,"Parfait, merci au vendeur.",2026-09-03 14:13:05
+591,194,65,3,"Correct, sans plus.",2025-11-23 12:53:23
+592,110,315,4,"Bon produit, livraison rapide.",2025-11-12 21:42:27
+593,52,903,2,"Qualité moyenne, livraison trop longue.",2026-05-01 15:19:52
+594,175,698,4,"Bon produit, livraison rapide.",2025-11-19 11:34:18
+595,129,394,5,"Excellent, je recommande !",2026-07-14 20:04:58
+596,78,599,4,Satisfait de mon achat.,2026-04-16 14:51:57
+597,84,760,3,Conforme à la description.,2026-07-21 21:02:25
+598,152,356,5,"Parfait, merci au vendeur.",2026-08-06 06:57:48
+599,130,928,3,Conforme à la description.,2026-08-09 03:16:56
+600,122,407,4,"Bon produit, livraison rapide.",2025-12-04 01:33:52
+601,159,883,3,"Correct, sans plus.",2026-08-30 19:20:02
+602,16,654,5,"Excellent, je recommande !",2026-09-05 03:17:09
+603,70,47,4,"Bon produit, livraison rapide.",2026-04-28 09:11:55
+604,101,872,5,"Parfait, merci au vendeur.",2025-12-14 02:16:23
+605,53,116,4,Satisfait de mon achat.,2026-07-19 05:06:17
+606,153,947,4,Satisfait de mon achat.,2026-07-05 20:23:22
+607,53,15,3,"Correct, sans plus.",2025-12-12 20:16:30
+608,135,992,4,Satisfait de mon achat.,2026-08-14 05:02:08
+609,89,471,5,"Excellent, je recommande !",2026-06-30 22:01:29
+610,113,117,5,"Parfait, merci au vendeur.",2025-11-10 14:26:25
+611,1,210,2,Peut mieux faire.,2026-06-04 17:46:25
+612,159,188,4,Satisfait de mon achat.,2026-08-30 18:59:05
+613,51,539,4,"Bon produit, livraison rapide.",2026-10-08 13:45:44
+614,181,206,5,"Excellent, je recommande !",2026-08-28 03:23:42
+615,193,796,5,"Parfait, merci au vendeur.",2026-09-03 19:57:49
+616,29,974,4,Satisfait de mon achat.,2025-12-17 06:30:36
+617,10,300,5,"Excellent, je recommande !",2025-11-03 01:53:36
+618,52,98,5,"Parfait, merci au vendeur.",2026-01-09 07:14:37
+619,62,52,4,Satisfait de mon achat.,2026-09-11 17:57:37
+620,198,698,4,Satisfait de mon achat.,2026-09-04 00:23:36
+621,18,756,5,"Parfait, merci au vendeur.",2025-11-24 02:51:25
+622,49,958,4,Satisfait de mon achat.,2026-10-12 10:59:06
+623,38,138,3,"Correct, sans plus.",2026-01-11 11:08:33
+624,166,576,5,"Excellent, je recommande !",2026-04-19 18:28:12
+625,139,196,4,Satisfait de mon achat.,2026-06-04 13:44:11
+626,107,8,3,Conforme à la description.,2025-12-09 20:36:43
+627,167,429,5,"Excellent, je recommande !",2026-03-12 23:11:06
+628,77,66,3,Conforme à la description.,2026-02-04 00:54:40
+629,51,159,5,"Excellent, je recommande !",2026-03-04 18:56:13
+630,146,710,4,"Bon produit, livraison rapide.",2026-02-25 11:14:52
+631,179,214,5,"Excellent, je recommande !",2026-04-07 22:15:47
+632,151,399,5,"Parfait, merci au vendeur.",2026-06-12 09:05:53
+633,3,954,3,"Correct, sans plus.",2025-12-06 21:23:20
+634,55,506,5,"Parfait, merci au vendeur.",2026-07-15 10:19:58
+635,200,138,5,"Excellent, je recommande !",2025-12-06 17:28:02
+636,3,46,5,"Parfait, merci au vendeur.",2026-06-03 11:16:44
+637,95,403,1,Je ne recommande pas du tout.,2026-01-04 23:09:00
+638,156,899,5,"Excellent, je recommande !",2026-09-14 23:14:09
+639,174,38,5,"Parfait, merci au vendeur.",2026-02-19 20:59:24
+640,138,906,5,"Parfait, merci au vendeur.",2025-10-28 20:47:46
+641,178,476,5,"Excellent, je recommande !",2025-11-30 16:10:08
+642,25,603,4,Satisfait de mon achat.,2026-03-16 07:40:51
+643,58,547,5,"Excellent, je recommande !",2026-10-10 07:29:08
+644,8,477,4,"Bon produit, livraison rapide.",2026-02-08 12:10:55
+645,161,312,4,Satisfait de mon achat.,2026-04-25 01:58:55
+646,133,394,5,"Excellent, je recommande !",2026-07-26 08:56:24
+647,181,730,4,"Bon produit, livraison rapide.",2026-01-17 15:27:10
+648,121,198,5,"Excellent, je recommande !",2026-06-30 12:27:06
+649,123,797,5,"Excellent, je recommande !",2026-03-25 04:10:54
+650,153,940,5,"Excellent, je recommande !",2026-09-15 04:15:57
+651,86,503,5,"Parfait, merci au vendeur.",2026-06-30 17:28:38
+652,175,490,5,"Parfait, merci au vendeur.",2026-02-16 08:33:07
+653,199,807,4,"Bon produit, livraison rapide.",2026-04-08 04:24:38
+654,133,109,5,"Excellent, je recommande !",2026-09-02 06:31:20
+655,72,778,4,Satisfait de mon achat.,2026-03-09 10:48:19
+656,128,793,4,Satisfait de mon achat.,2026-05-09 12:01:12
+657,188,344,2,Peut mieux faire.,2026-09-02 06:55:24
+658,105,972,5,"Parfait, merci au vendeur.",2025-12-19 23:21:49
+659,152,497,4,Satisfait de mon achat.,2026-08-28 02:05:35
+660,114,283,5,"Parfait, merci au vendeur.",2026-08-23 14:39:25
+661,89,255,5,"Parfait, merci au vendeur.",2026-05-10 18:11:16
+662,195,688,5,"Parfait, merci au vendeur.",2026-01-18 06:04:54
+663,73,925,4,"Bon produit, livraison rapide.",2025-12-15 11:46:24
+664,10,997,5,"Parfait, merci au vendeur.",2026-07-29 11:58:15
+665,160,902,5,"Excellent, je recommande !",2026-03-11 02:51:48
+666,109,115,4,Satisfait de mon achat.,2026-05-08 23:10:51
+667,6,721,4,Satisfait de mon achat.,2025-11-26 19:38:43
+668,50,813,5,"Parfait, merci au vendeur.",2026-04-30 22:23:21
+669,153,219,3,Conforme à la description.,2025-11-19 02:42:35
+670,146,499,4,Satisfait de mon achat.,2026-05-08 05:55:14
+671,101,53,5,"Parfait, merci au vendeur.",2026-08-28 05:03:58
+672,150,670,4,Satisfait de mon achat.,2026-10-16 01:08:42
+673,200,600,5,"Excellent, je recommande !",2026-08-29 10:34:18
+674,54,181,4,"Bon produit, livraison rapide.",2026-05-26 09:30:09
+675,42,177,4,"Bon produit, livraison rapide.",2026-07-23 02:54:58
+676,152,218,5,"Parfait, merci au vendeur.",2025-11-10 03:00:33
+677,77,632,3,"Correct, sans plus.",2026-07-01 08:49:05
+678,129,557,4,"Bon produit, livraison rapide.",2026-10-08 21:39:58
+679,105,517,3,"Correct, sans plus.",2025-12-19 07:35:57
+680,190,251,5,"Parfait, merci au vendeur.",2026-02-04 19:22:10
+681,17,791,3,"Correct, sans plus.",2026-10-22 13:32:51
+682,164,597,3,"Correct, sans plus.",2026-04-14 14:52:33
+683,188,306,4,"Bon produit, livraison rapide.",2026-07-16 02:24:39
+684,155,88,5,"Excellent, je recommande !",2026-08-21 10:30:11
+685,197,856,4,"Bon produit, livraison rapide.",2026-10-09 00:01:37
+686,29,782,4,"Bon produit, livraison rapide.",2025-11-24 20:57:06
+687,193,303,4,"Bon produit, livraison rapide.",2026-03-04 17:52:56
+688,198,274,5,"Excellent, je recommande !",2026-01-17 21:22:01
+689,187,972,4,"Bon produit, livraison rapide.",2026-08-18 02:28:04
+690,160,738,5,"Parfait, merci au vendeur.",2026-09-10 01:23:46
+691,72,145,5,"Excellent, je recommande !",2026-09-07 04:20:38
+692,169,164,5,"Parfait, merci au vendeur.",2025-12-06 18:46:34
+693,4,533,5,"Excellent, je recommande !",2026-06-26 20:56:50
+694,151,800,5,"Parfait, merci au vendeur.",2026-05-01 14:15:23
+695,37,54,4,Satisfait de mon achat.,2026-07-16 17:35:04
+696,171,14,5,"Excellent, je recommande !",2025-12-31 20:20:18
+697,41,607,5,"Excellent, je recommande !",2025-12-11 04:18:49
+698,122,171,4,Satisfait de mon achat.,2026-03-03 05:10:42
+699,26,557,4,"Bon produit, livraison rapide.",2026-03-02 22:03:00
+700,3,338,1,Je ne recommande pas du tout.,2026-08-09 12:13:45
+701,7,847,5,"Parfait, merci au vendeur.",2026-01-02 16:54:23
+702,93,780,3,Conforme à la description.,2026-10-10 01:21:06
+703,169,137,4,"Bon produit, livraison rapide.",2025-10-31 06:03:35
+704,50,32,4,Satisfait de mon achat.,2026-05-22 11:25:56
+705,42,428,4,"Bon produit, livraison rapide.",2026-05-06 11:10:36
+706,63,741,4,"Bon produit, livraison rapide.",2026-03-06 02:38:37
+707,35,489,4,Satisfait de mon achat.,2025-12-04 17:08:32
+708,56,236,1,Je ne recommande pas du tout.,2025-11-23 06:07:23
+709,74,46,3,Conforme à la description.,2026-02-02 21:50:35
+710,127,997,5,"Parfait, merci au vendeur.",2026-03-20 12:59:02
+711,123,889,5,"Parfait, merci au vendeur.",2026-01-02 11:44:43
+712,158,287,5,"Excellent, je recommande !",2026-08-18 01:29:13
+713,74,491,5,"Parfait, merci au vendeur.",2026-10-15 05:16:31
+714,174,146,1,"Très déçu, produit non conforme.",2026-07-28 04:24:42
+715,147,392,4,Satisfait de mon achat.,2026-08-22 21:03:02
+716,175,684,4,Satisfait de mon achat.,2026-03-04 01:53:52
+717,146,630,3,Conforme à la description.,2026-09-04 08:38:15
+718,5,277,5,"Excellent, je recommande !",2025-12-26 00:32:07
+719,45,351,3,"Correct, sans plus.",2026-06-01 14:41:22
+720,151,541,4,Satisfait de mon achat.,2026-05-11 10:44:12
+721,33,526,3,"Correct, sans plus.",2026-04-17 13:39:16
+722,187,773,4,Satisfait de mon achat.,2026-08-24 17:08:05
+723,56,490,5,"Parfait, merci au vendeur.",2026-02-25 03:39:20
+724,155,800,5,"Excellent, je recommande !",2026-05-18 05:56:52
+725,58,264,5,"Excellent, je recommande !",2026-04-11 21:17:09
+726,24,221,3,"Correct, sans plus.",2026-05-10 17:17:52
+727,52,954,1,"Très déçu, produit non conforme.",2026-02-27 07:34:07
+728,192,210,5,"Parfait, merci au vendeur.",2026-07-09 22:46:32
+729,104,821,3,"Correct, sans plus.",2026-05-28 18:57:05
+730,101,272,4,"Bon produit, livraison rapide.",2025-12-11 05:31:08
+731,115,104,5,"Parfait, merci au vendeur.",2026-04-04 10:15:47
+732,115,395,4,"Bon produit, livraison rapide.",2026-06-07 19:15:16
+733,150,100,4,Satisfait de mon achat.,2025-11-29 01:49:43
+734,57,747,5,"Excellent, je recommande !",2025-11-22 11:47:23
+735,3,993,5,"Excellent, je recommande !",2026-05-11 09:08:26
+736,170,543,2,Peut mieux faire.,2025-12-22 06:56:33
+737,69,977,5,"Parfait, merci au vendeur.",2026-05-21 04:52:49
+738,176,880,4,"Bon produit, livraison rapide.",2025-11-12 18:43:37
+739,124,952,5,"Excellent, je recommande !",2026-09-01 21:57:07
+740,164,699,4,"Bon produit, livraison rapide.",2026-06-06 04:49:46
+741,149,338,5,"Excellent, je recommande !",2026-06-13 07:13:46
+742,42,614,5,"Parfait, merci au vendeur.",2026-10-11 22:21:25
+743,39,260,4,Satisfait de mon achat.,2026-06-10 00:58:23
+744,26,521,4,Satisfait de mon achat.,2025-12-18 03:26:38
+745,50,763,3,Conforme à la description.,2026-09-18 08:49:37
+746,196,413,4,Satisfait de mon achat.,2026-04-14 18:15:52
+747,5,483,4,"Bon produit, livraison rapide.",2026-06-26 20:41:33
+748,175,346,4,Satisfait de mon achat.,2026-09-16 06:41:07
+749,83,71,5,"Parfait, merci au vendeur.",2026-04-15 17:35:01
+750,172,175,5,"Excellent, je recommande !",2026-08-31 06:13:33
+751,173,167,3,Conforme à la description.,2026-10-07 13:10:11
+752,156,271,4,Satisfait de mon achat.,2026-03-28 11:13:22
+753,65,64,1,Je ne recommande pas du tout.,2025-11-03 09:39:12
+754,22,901,4,"Bon produit, livraison rapide.",2026-07-23 19:36:24
+755,103,787,4,Satisfait de mon achat.,2026-08-13 22:57:43
+756,103,830,3,"Correct, sans plus.",2025-11-09 18:49:35
+757,52,550,2,Peut mieux faire.,2026-10-08 01:15:44
+758,24,5,4,Satisfait de mon achat.,2026-07-28 03:17:09
+759,93,162,4,"Bon produit, livraison rapide.",2026-01-03 15:26:01
+760,85,225,5,"Excellent, je recommande !",2026-07-16 20:12:45
+761,40,735,5,"Excellent, je recommande !",2026-07-03 02:33:56
+762,33,808,4,"Bon produit, livraison rapide.",2026-05-25 18:01:27
+763,98,682,4,Satisfait de mon achat.,2026-05-20 22:58:46
+764,96,586,4,Satisfait de mon achat.,2025-12-05 17:18:32
+765,102,366,4,Satisfait de mon achat.,2026-10-02 13:59:25
+766,135,72,5,"Excellent, je recommande !",2026-02-10 02:48:20
+767,126,234,4,Satisfait de mon achat.,2026-02-07 06:52:21
+768,169,808,4,"Bon produit, livraison rapide.",2025-12-26 16:19:47
+769,181,612,5,"Parfait, merci au vendeur.",2026-01-06 01:46:22
+770,17,754,4,Satisfait de mon achat.,2025-11-15 12:18:47
+771,72,913,4,"Bon produit, livraison rapide.",2026-08-23 12:45:17
+772,179,282,5,"Excellent, je recommande !",2026-09-18 04:52:58
+773,186,604,4,"Bon produit, livraison rapide.",2025-11-13 09:22:33
+774,38,744,5,"Parfait, merci au vendeur.",2025-12-30 06:56:43
+775,45,765,3,Conforme à la description.,2026-04-05 00:10:13
+776,189,887,5,"Excellent, je recommande !",2026-01-08 10:22:10
+777,30,928,2,Peut mieux faire.,2026-01-05 23:23:47
+778,97,648,4,"Bon produit, livraison rapide.",2026-07-07 18:44:19
+779,172,847,3,Conforme à la description.,2026-09-10 21:06:55
+780,12,744,5,"Parfait, merci au vendeur.",2026-02-19 13:11:04
+781,176,307,5,"Parfait, merci au vendeur.",2026-05-02 17:33:06
+782,159,49,4,Satisfait de mon achat.,2026-03-21 19:11:15
+783,177,910,5,"Parfait, merci au vendeur.",2026-03-10 19:40:44
+784,10,566,5,"Parfait, merci au vendeur.",2025-11-14 15:32:13
+785,37,545,5,"Parfait, merci au vendeur.",2026-07-10 02:20:20
+786,126,754,5,"Parfait, merci au vendeur.",2026-09-28 06:23:13
+787,67,131,2,Peut mieux faire.,2026-07-29 02:38:47
+788,160,463,4,Satisfait de mon achat.,2026-10-23 16:45:04
+789,3,736,3,"Correct, sans plus.",2026-08-20 09:05:36
+790,93,405,4,"Bon produit, livraison rapide.",2026-03-08 10:15:03
+791,40,690,3,Conforme à la description.,2026-08-20 22:53:38
+792,137,563,4,Satisfait de mon achat.,2026-01-11 16:51:17
+793,121,367,4,Satisfait de mon achat.,2026-03-19 21:59:15
+794,115,675,3,"Correct, sans plus.",2026-07-09 14:33:47
+795,118,455,3,"Correct, sans plus.",2026-02-07 04:29:47
+796,15,817,5,"Parfait, merci au vendeur.",2026-07-28 13:47:00
+797,52,61,3,"Correct, sans plus.",2025-12-31 19:38:08
+798,139,817,4,Satisfait de mon achat.,2025-12-20 01:44:42
+799,53,766,5,"Excellent, je recommande !",2026-07-26 22:23:17
+800,191,704,4,"Bon produit, livraison rapide.",2026-04-20 17:17:43
+801,16,264,2,"Qualité moyenne, livraison trop longue.",2026-09-30 21:06:23
+802,69,984,5,"Excellent, je recommande !",2026-01-04 08:34:26
+803,73,653,5,"Parfait, merci au vendeur.",2026-07-12 22:05:29
+804,26,539,5,"Parfait, merci au vendeur.",2026-01-18 07:29:42
+805,200,237,4,"Bon produit, livraison rapide.",2026-04-15 15:00:56
+806,52,444,5,"Excellent, je recommande !",2026-04-23 05:30:49
+807,182,449,4,"Bon produit, livraison rapide.",2026-08-30 17:50:19
+808,128,331,4,Satisfait de mon achat.,2026-03-19 20:48:01
+809,112,314,5,"Excellent, je recommande !",2026-03-06 14:14:50
+810,197,125,3,"Correct, sans plus.",2026-04-16 09:06:25
+811,6,723,5,"Parfait, merci au vendeur.",2026-10-16 22:02:29
+812,163,223,5,"Parfait, merci au vendeur.",2026-03-14 06:28:40
+813,171,472,4,"Bon produit, livraison rapide.",2026-05-13 11:35:45
+814,157,307,2,Peut mieux faire.,2025-11-20 16:24:02
+815,117,980,5,"Excellent, je recommande !",2026-06-02 06:30:14
+816,73,507,5,"Parfait, merci au vendeur.",2025-11-21 19:30:54
+817,32,288,3,Conforme à la description.,2025-10-30 10:23:35
+818,123,998,5,"Parfait, merci au vendeur.",2026-01-28 14:45:54
+819,89,827,3,"Correct, sans plus.",2026-01-02 12:15:11
+820,81,776,5,"Excellent, je recommande !",2026-05-03 20:42:50
+821,193,143,4,"Bon produit, livraison rapide.",2026-01-09 03:55:21
+822,12,888,5,"Excellent, je recommande !",2026-01-10 17:24:23
+823,44,173,4,"Bon produit, livraison rapide.",2026-09-14 09:06:55
+824,99,182,4,Satisfait de mon achat.,2026-06-10 07:33:17
+825,193,359,5,"Excellent, je recommande !",2025-10-28 23:08:22
+826,110,25,5,"Parfait, merci au vendeur.",2026-07-30 00:55:42
+827,96,30,4,"Bon produit, livraison rapide.",2026-07-16 03:39:44
+828,170,3,4,Satisfait de mon achat.,2026-09-15 15:59:31
+829,149,316,5,"Excellent, je recommande !",2026-05-10 01:51:02
+830,153,503,4,"Bon produit, livraison rapide.",2026-10-04 10:49:49
+831,128,104,4,"Bon produit, livraison rapide.",2026-10-03 04:34:23
+832,91,118,1,"Très déçu, produit non conforme.",2026-03-07 03:15:53
+833,117,518,2,Peut mieux faire.,2025-11-23 04:36:24
+834,100,190,5,"Parfait, merci au vendeur.",2026-10-04 04:59:31
+835,93,485,4,"Bon produit, livraison rapide.",2026-06-20 23:20:23
+836,159,178,2,"Qualité moyenne, livraison trop longue.",2026-09-09 11:52:33
+837,117,729,5,"Excellent, je recommande !",2025-11-21 07:47:08
+838,58,714,4,"Bon produit, livraison rapide.",2026-02-17 05:23:55
+839,129,932,3,"Correct, sans plus.",2025-10-25 05:58:24
+840,72,954,4,Satisfait de mon achat.,2026-03-09 00:43:49
+841,164,733,5,"Parfait, merci au vendeur.",2026-07-26 15:12:52
+842,181,122,5,"Excellent, je recommande !",2025-12-25 06:56:36
+843,121,544,4,Satisfait de mon achat.,2026-03-10 18:53:47
+844,153,107,5,"Parfait, merci au vendeur.",2026-09-07 04:58:35
+845,29,676,4,Satisfait de mon achat.,2026-02-13 06:40:53
+846,189,330,4,"Bon produit, livraison rapide.",2026-05-06 06:11:25
+847,135,484,4,"Bon produit, livraison rapide.",2026-04-02 03:09:08
+848,176,638,3,Conforme à la description.,2026-01-08 03:10:18
+849,153,405,5,"Parfait, merci au vendeur.",2026-09-29 02:07:31
+850,153,370,4,Satisfait de mon achat.,2026-08-16 10:08:46
+851,21,447,4,"Bon produit, livraison rapide.",2026-03-16 10:02:07
+852,53,279,5,"Parfait, merci au vendeur.",2026-08-31 09:24:34
+853,71,227,4,"Bon produit, livraison rapide.",2026-04-24 11:52:47
+854,105,116,5,"Excellent, je recommande !",2026-06-15 11:30:50
+855,83,61,3,Conforme à la description.,2026-02-09 01:02:46
+856,84,458,1,Je ne recommande pas du tout.,2026-03-17 22:49:54
+857,107,650,4,"Bon produit, livraison rapide.",2026-09-28 01:43:50
+858,79,36,4,Satisfait de mon achat.,2026-01-13 07:30:46
+859,116,481,3,"Correct, sans plus.",2026-03-24 23:19:37
+860,156,629,1,"Très déçu, produit non conforme.",2026-07-31 17:22:57
+861,126,857,5,"Excellent, je recommande !",2026-02-22 06:01:57
+862,78,824,5,"Parfait, merci au vendeur.",2026-08-02 05:30:12
+863,192,547,5,"Excellent, je recommande !",2026-03-17 03:25:58
+864,30,969,5,"Excellent, je recommande !",2026-04-29 10:48:33
+865,1,889,5,"Excellent, je recommande !",2026-10-21 22:03:06
+866,70,323,5,"Parfait, merci au vendeur.",2026-07-23 02:21:20
+867,108,447,4,Satisfait de mon achat.,2026-09-25 04:56:43
+868,162,826,1,Je ne recommande pas du tout.,2026-01-05 22:11:07
+869,119,713,5,"Excellent, je recommande !",2026-08-25 15:56:56
+870,102,507,5,"Excellent, je recommande !",2026-05-06 07:01:56
+871,61,494,5,"Excellent, je recommande !",2026-07-31 14:35:31
+872,3,268,1,Je ne recommande pas du tout.,2026-02-20 16:22:05
+873,79,517,5,"Parfait, merci au vendeur.",2026-07-19 03:55:04
+874,125,97,1,"Très déçu, produit non conforme.",2026-10-21 22:36:51
+875,164,806,4,"Bon produit, livraison rapide.",2026-04-24 12:43:13
+876,35,447,5,"Parfait, merci au vendeur.",2026-03-28 21:09:02
+877,53,397,4,"Bon produit, livraison rapide.",2026-05-05 09:38:15
+878,22,868,5,"Excellent, je recommande !",2026-01-08 01:09:36
+879,142,998,3,"Correct, sans plus.",2026-05-17 23:05:51
+880,61,948,5,"Parfait, merci au vendeur.",2026-01-04 14:04:48
+881,177,857,1,Je ne recommande pas du tout.,2026-07-04 13:04:30
+882,155,463,5,"Parfait, merci au vendeur.",2026-10-23 09:31:53
+883,190,759,1,"Très déçu, produit non conforme.",2026-07-30 08:03:20
+884,11,774,1,"Très déçu, produit non conforme.",2026-10-24 17:11:16
+885,173,653,4,Satisfait de mon achat.,2026-04-03 11:31:10
+886,42,213,1,Je ne recommande pas du tout.,2026-08-12 21:11:01
+887,117,249,3,Conforme à la description.,2026-05-18 00:54:02
+888,41,745,3,"Correct, sans plus.",2026-04-18 09:22:11
+889,128,13,5,"Excellent, je recommande !",2026-06-12 18:10:30
+890,165,22,1,"Très déçu, produit non conforme.",2026-06-25 00:26:38
+891,91,685,5,"Excellent, je recommande !",2025-11-12 05:02:43
+892,51,419,5,"Parfait, merci au vendeur.",2026-07-08 04:52:00
+893,98,912,5,"Excellent, je recommande !",2026-05-05 00:43:56
+894,116,770,4,Satisfait de mon achat.,2025-12-11 14:04:12
+895,150,252,3,Conforme à la description.,2025-12-29 10:46:42
+896,26,367,3,Conforme à la description.,2025-12-16 11:58:00
+897,10,258,3,"Correct, sans plus.",2026-08-21 04:22:36
+898,159,104,4,"Bon produit, livraison rapide.",2026-03-17 19:42:55
+899,22,297,4,"Bon produit, livraison rapide.",2026-03-31 10:50:38
+900,53,972,5,"Parfait, merci au vendeur.",2026-03-10 19:11:12
+901,179,995,5,"Parfait, merci au vendeur.",2026-07-17 06:14:08
+902,93,299,5,"Parfait, merci au vendeur.",2026-04-13 20:28:00
+903,19,522,3,Conforme à la description.,2026-10-21 13:47:35
+904,67,43,5,"Parfait, merci au vendeur.",2026-02-12 12:02:31
+905,173,179,2,"Qualité moyenne, livraison trop longue.",2026-10-07 07:12:13
+906,132,409,5,"Parfait, merci au vendeur.",2026-06-07 13:32:39
+907,154,442,4,"Bon produit, livraison rapide.",2026-06-15 13:44:55
+908,52,697,5,"Excellent, je recommande !",2026-07-27 13:24:21
+909,165,344,5,"Parfait, merci au vendeur.",2026-09-09 14:37:51
+910,1,384,4,"Bon produit, livraison rapide.",2026-09-08 01:05:21
+911,35,764,4,Satisfait de mon achat.,2026-09-15 23:39:36
+912,106,901,5,"Excellent, je recommande !",2026-03-23 10:10:47
+913,175,659,4,Satisfait de mon achat.,2026-08-05 15:27:06
+914,195,214,5,"Excellent, je recommande !",2026-02-08 14:13:46
+915,80,443,4,Satisfait de mon achat.,2026-04-22 02:37:52
+916,167,579,1,"Très déçu, produit non conforme.",2025-12-18 18:03:32
+917,51,272,4,"Bon produit, livraison rapide.",2026-03-31 07:50:59
+918,199,107,3,"Correct, sans plus.",2026-05-17 11:32:18
+919,23,841,4,Satisfait de mon achat.,2026-08-25 15:58:32
+920,89,119,2,"Qualité moyenne, livraison trop longue.",2025-11-07 22:31:56
+921,1,116,5,"Excellent, je recommande !",2026-05-31 09:13:54
+922,114,196,4,Satisfait de mon achat.,2026-09-02 23:16:52
+923,89,1,1,"Très déçu, produit non conforme.",2026-08-04 07:11:15
+924,160,218,5,"Parfait, merci au vendeur.",2026-04-17 02:09:04
+925,127,109,5,"Parfait, merci au vendeur.",2026-03-23 15:08:22
+926,68,660,2,Peut mieux faire.,2026-06-04 08:26:14
+927,190,895,4,"Bon produit, livraison rapide.",2026-07-08 21:10:15
+928,23,849,5,"Excellent, je recommande !",2026-03-20 00:19:53
+929,14,571,1,Je ne recommande pas du tout.,2026-05-11 22:43:52
+930,34,866,5,"Parfait, merci au vendeur.",2025-10-26 08:04:58
+931,114,401,5,"Excellent, je recommande !",2026-02-17 22:01:33
+932,193,629,4,Satisfait de mon achat.,2026-08-08 22:14:29
+933,32,327,4,"Bon produit, livraison rapide.",2026-03-25 09:07:26
+934,159,407,5,"Excellent, je recommande !",2026-04-15 22:23:56
+935,152,119,2,"Qualité moyenne, livraison trop longue.",2026-10-02 14:26:40
+936,58,265,4,Satisfait de mon achat.,2026-03-22 09:40:48
+937,31,93,2,Peut mieux faire.,2026-04-02 08:27:08
+938,157,294,5,"Parfait, merci au vendeur.",2026-07-29 00:43:35
+939,160,697,5,"Parfait, merci au vendeur.",2026-08-29 15:25:40
+940,141,453,5,"Excellent, je recommande !",2026-02-28 19:48:42
+941,154,870,3,"Correct, sans plus.",2025-12-28 04:17:00
+942,94,629,4,Satisfait de mon achat.,2026-06-18 08:02:49
+943,76,983,5,"Parfait, merci au vendeur.",2025-12-01 14:15:15
+944,5,556,4,Satisfait de mon achat.,2026-07-16 20:59:31
+945,103,670,5,"Excellent, je recommande !",2026-04-18 22:23:50
+946,146,762,3,"Correct, sans plus.",2026-10-18 14:21:03
+947,38,185,3,"Correct, sans plus.",2026-02-11 13:20:26
+948,59,129,4,Satisfait de mon achat.,2026-08-01 11:04:43
+949,114,461,5,"Excellent, je recommande !",2025-10-26 03:45:49
+950,55,113,5,"Excellent, je recommande !",2025-11-02 14:39:17
+951,177,963,5,"Excellent, je recommande !",2026-04-06 13:40:38
+952,106,991,5,"Excellent, je recommande !",2026-06-10 02:59:27
+953,84,190,5,"Excellent, je recommande !",2025-12-24 20:56:19
+954,54,316,4,"Bon produit, livraison rapide.",2026-06-06 22:16:26
+955,182,226,5,"Excellent, je recommande !",2026-06-24 13:20:45
+956,144,972,5,"Excellent, je recommande !",2025-12-09 00:29:57
+957,115,812,4,Satisfait de mon achat.,2026-09-04 21:15:31
+958,59,290,1,"Très déçu, produit non conforme.",2026-07-25 20:04:21
+959,24,743,5,"Excellent, je recommande !",2026-02-23 13:07:44
+960,162,65,4,Satisfait de mon achat.,2026-03-10 19:33:08
+961,10,151,5,"Parfait, merci au vendeur.",2026-02-01 06:07:21
+962,88,508,4,"Bon produit, livraison rapide.",2026-06-09 16:04:45
+963,115,319,4,Satisfait de mon achat.,2026-07-01 15:57:22
+964,104,198,4,Satisfait de mon achat.,2026-01-30 23:46:54
+965,139,515,4,Satisfait de mon achat.,2026-05-12 12:41:46
+966,8,900,4,Satisfait de mon achat.,2025-12-28 15:33:28
+967,46,520,5,"Excellent, je recommande !",2026-03-24 07:53:30
+968,5,433,4,Satisfait de mon achat.,2026-03-18 12:54:37
+969,51,115,4,"Bon produit, livraison rapide.",2026-03-12 04:04:38
+970,43,441,4,Satisfait de mon achat.,2026-01-08 08:04:22
+971,173,851,4,"Bon produit, livraison rapide.",2025-11-02 14:16:47
+972,70,390,3,Conforme à la description.,2026-10-20 04:03:37
+973,114,857,5,"Excellent, je recommande !",2026-03-21 10:59:55
+974,36,112,5,"Parfait, merci au vendeur.",2026-07-17 07:23:38
+975,155,627,3,"Correct, sans plus.",2026-09-04 14:44:42
+976,101,624,4,"Bon produit, livraison rapide.",2025-11-07 16:46:34
+977,179,287,4,"Bon produit, livraison rapide.",2026-03-19 09:35:06
+978,121,155,5,"Parfait, merci au vendeur.",2026-03-14 08:09:02
+979,159,700,4,Satisfait de mon achat.,2026-06-13 18:24:40
+980,161,640,5,"Excellent, je recommande !",2026-09-23 04:48:37
+981,16,397,5,"Excellent, je recommande !",2026-06-28 23:55:43
+982,103,401,5,"Parfait, merci au vendeur.",2026-05-30 10:30:17
+983,73,913,5,"Excellent, je recommande !",2026-01-15 20:59:36
+984,74,854,5,"Parfait, merci au vendeur.",2026-04-19 23:16:04
+985,80,389,4,Satisfait de mon achat.,2026-07-22 13:26:20
+986,185,521,4,Satisfait de mon achat.,2026-05-08 23:57:56
+987,196,415,1,"Très déçu, produit non conforme.",2026-06-04 03:50:57
+988,88,889,5,"Parfait, merci au vendeur.",2026-02-12 21:54:35
+989,199,480,4,Satisfait de mon achat.,2026-04-13 14:02:19
+990,57,26,4,Satisfait de mon achat.,2026-03-15 18:15:38
+991,148,108,3,Conforme à la description.,2026-04-23 12:27:52
+992,16,726,4,"Bon produit, livraison rapide.",2026-01-04 22:20:38
+993,32,35,3,Conforme à la description.,2026-06-18 11:24:54
+994,37,559,3,Conforme à la description.,2026-07-11 08:05:17
+995,115,551,4,Satisfait de mon achat.,2026-07-29 04:13:08
+996,139,169,3,Conforme à la description.,2026-01-19 07:22:06
+997,7,662,5,"Parfait, merci au vendeur.",2026-03-27 04:44:45
+998,40,106,4,Satisfait de mon achat.,2026-03-29 01:10:43
+999,177,924,4,Satisfait de mon achat.,2026-09-11 11:55:17
+1000,73,738,5,"Parfait, merci au vendeur.",2026-09-28 06:22:44
+1001,144,163,5,"Excellent, je recommande !",2026-04-17 17:58:05
+1002,6,376,4,Satisfait de mon achat.,2026-03-22 03:23:15
+1003,87,897,5,"Excellent, je recommande !",2025-11-02 00:39:25
+1004,76,77,4,Satisfait de mon achat.,2026-02-25 00:45:39
+1005,159,282,5,"Parfait, merci au vendeur.",2025-11-19 14:57:14
+1006,130,696,5,"Parfait, merci au vendeur.",2026-03-28 06:49:28
+1007,15,506,3,"Correct, sans plus.",2026-03-15 03:16:38
+1008,44,291,4,Satisfait de mon achat.,2026-01-23 22:12:18
+1009,112,163,1,"Très déçu, produit non conforme.",2026-10-16 06:19:25
+1010,1,301,4,Satisfait de mon achat.,2026-07-19 09:01:53
+1011,23,456,4,Satisfait de mon achat.,2026-06-16 10:59:48
+1012,167,83,5,"Excellent, je recommande !",2026-06-29 17:21:11
+1013,5,601,3,Conforme à la description.,2026-02-28 00:29:10
+1014,145,423,1,Je ne recommande pas du tout.,2026-01-25 05:24:10
+1015,110,260,1,"Très déçu, produit non conforme.",2026-08-31 06:35:16
+1016,199,914,5,"Parfait, merci au vendeur.",2026-03-27 09:23:17
+1017,118,849,3,Conforme à la description.,2026-07-12 12:13:09
+1018,28,861,5,"Parfait, merci au vendeur.",2026-05-07 03:18:39
+1019,124,940,3,"Correct, sans plus.",2025-11-01 15:48:19
+1020,136,332,3,Conforme à la description.,2026-09-06 14:48:07
+1021,59,351,5,"Parfait, merci au vendeur.",2025-11-01 06:55:32
+1022,52,307,5,"Excellent, je recommande !",2026-02-24 09:58:23
+1023,81,238,5,"Excellent, je recommande !",2026-07-26 19:57:59
+1024,101,867,5,"Excellent, je recommande !",2026-05-24 01:18:42
+1025,51,336,5,"Excellent, je recommande !",2026-08-21 21:24:28
+1026,150,740,5,"Excellent, je recommande !",2026-10-03 02:18:43
+1027,171,968,3,"Correct, sans plus.",2026-07-11 11:47:48
+1028,34,204,3,Conforme à la description.,2026-01-28 06:45:37
+1029,149,311,5,"Parfait, merci au vendeur.",2025-10-26 07:15:36
+1030,94,899,4,Satisfait de mon achat.,2026-07-17 20:03:21
+1031,28,402,4,"Bon produit, livraison rapide.",2026-02-18 07:49:10
+1032,54,912,4,Satisfait de mon achat.,2026-06-21 03:38:18
+1033,185,581,5,"Parfait, merci au vendeur.",2026-04-29 05:21:38
+1034,31,341,4,Satisfait de mon achat.,2025-12-18 15:08:11
+1035,10,453,3,Conforme à la description.,2026-03-07 04:04:38
+1036,145,893,3,Conforme à la description.,2026-10-19 10:11:00
+1037,110,44,4,Satisfait de mon achat.,2026-02-19 11:59:32
+1038,52,664,5,"Excellent, je recommande !",2026-08-06 13:19:17
+1039,150,851,4,Satisfait de mon achat.,2026-07-06 11:46:44
+1040,106,876,5,"Excellent, je recommande !",2026-03-30 11:00:05
+1041,48,546,4,"Bon produit, livraison rapide.",2026-07-29 03:32:42
+1042,139,386,5,"Parfait, merci au vendeur.",2026-05-17 08:03:32
+1043,170,984,5,"Excellent, je recommande !",2026-06-09 08:20:10
+1044,89,399,4,Satisfait de mon achat.,2026-03-05 17:08:38
+1045,158,394,4,Satisfait de mon achat.,2026-10-03 17:32:36
+1046,27,503,5,"Excellent, je recommande !",2026-01-28 13:07:43
+1047,13,486,1,"Très déçu, produit non conforme.",2026-05-08 20:54:00
+1048,3,264,3,Conforme à la description.,2026-09-17 02:08:56
+1049,68,398,5,"Excellent, je recommande !",2026-07-11 03:42:05
+1050,77,538,5,"Parfait, merci au vendeur.",2026-05-26 12:45:49
+1051,177,124,4,"Bon produit, livraison rapide.",2025-11-23 13:01:34
+1052,199,510,4,"Bon produit, livraison rapide.",2026-03-08 20:19:03
+1053,128,729,5,"Parfait, merci au vendeur.",2026-04-06 15:24:59
+1054,195,189,4,Satisfait de mon achat.,2026-08-31 17:38:41
+1055,195,237,5,"Excellent, je recommande !",2026-09-01 23:45:06
+1056,90,896,3,"Correct, sans plus.",2026-04-04 10:42:23
+1057,54,901,4,Satisfait de mon achat.,2026-03-03 17:44:51
+1058,84,105,1,Je ne recommande pas du tout.,2025-12-31 10:59:23
+1059,3,50,2,Peut mieux faire.,2026-04-17 14:34:49
+1060,130,883,4,"Bon produit, livraison rapide.",2025-12-19 16:16:12
+1061,176,979,5,"Excellent, je recommande !",2025-12-24 17:04:21
+1062,167,538,3,"Correct, sans plus.",2026-10-03 09:43:28
+1063,51,852,5,"Parfait, merci au vendeur.",2026-05-09 10:19:56
+1064,116,483,4,"Bon produit, livraison rapide.",2026-03-13 13:46:50
+1065,178,303,4,Satisfait de mon achat.,2026-03-27 18:41:59
+1066,145,859,5,"Parfait, merci au vendeur.",2026-03-18 08:06:59
+1067,12,491,3,"Correct, sans plus.",2026-08-27 15:11:30
+1068,5,454,5,"Parfait, merci au vendeur.",2026-05-09 05:42:25
+1069,183,585,3,Conforme à la description.,2026-06-17 10:02:46
+1070,176,303,5,"Parfait, merci au vendeur.",2026-05-23 08:59:06
+1071,151,279,4,"Bon produit, livraison rapide.",2026-05-18 18:47:33
+1072,108,158,2,Peut mieux faire.,2026-03-31 17:42:54
+1073,196,94,5,"Excellent, je recommande !",2026-08-01 12:19:13
+1074,99,688,2,Peut mieux faire.,2026-10-01 13:43:23
+1075,122,453,5,"Parfait, merci au vendeur.",2026-02-27 18:55:09
+1076,44,834,4,Satisfait de mon achat.,2026-02-22 19:48:22
+1077,67,581,4,"Bon produit, livraison rapide.",2026-07-29 19:57:17
+1078,28,511,4,"Bon produit, livraison rapide.",2025-12-05 06:18:12
+1079,107,974,4,Satisfait de mon achat.,2026-04-08 17:05:02
+1080,74,283,5,"Parfait, merci au vendeur.",2026-10-23 07:42:03
+1081,142,850,4,"Bon produit, livraison rapide.",2026-07-06 13:19:35
+1082,185,941,5,"Excellent, je recommande !",2026-01-13 04:56:44
+1083,169,580,2,Peut mieux faire.,2026-03-23 14:07:41
+1084,112,647,5,"Excellent, je recommande !",2026-10-04 19:20:33
+1085,159,856,4,Satisfait de mon achat.,2026-05-05 10:18:28
+1086,83,545,4,"Bon produit, livraison rapide.",2026-08-29 16:25:57
+1087,126,446,4,"Bon produit, livraison rapide.",2026-08-17 09:39:22
+1088,28,793,2,"Qualité moyenne, livraison trop longue.",2026-08-04 19:24:26
+1089,20,887,4,Satisfait de mon achat.,2026-06-18 11:27:34
+1090,13,335,5,"Parfait, merci au vendeur.",2025-12-12 11:53:27
+1091,60,463,4,"Bon produit, livraison rapide.",2026-02-09 00:41:10
+1092,122,737,4,Satisfait de mon achat.,2025-11-06 16:46:14
+1093,95,678,4,Satisfait de mon achat.,2026-04-01 18:58:13
+1094,192,351,4,"Bon produit, livraison rapide.",2025-12-26 08:32:01
+1095,14,722,3,Conforme à la description.,2026-06-02 00:00:55
+1096,90,259,5,"Parfait, merci au vendeur.",2026-03-20 14:42:23
+1097,80,136,3,"Correct, sans plus.",2026-10-03 07:40:15
+1098,48,233,4,Satisfait de mon achat.,2026-08-10 02:16:56
+1099,109,976,5,"Excellent, je recommande !",2026-01-15 06:34:44
+1100,76,884,2,"Qualité moyenne, livraison trop longue.",2026-03-17 08:14:51
+1101,44,132,5,"Parfait, merci au vendeur.",2026-03-26 03:51:31
+1102,103,806,1,Je ne recommande pas du tout.,2025-11-05 10:00:35
+1103,44,369,5,"Excellent, je recommande !",2026-07-17 05:34:50
+1104,151,209,4,Satisfait de mon achat.,2025-11-20 03:55:05
+1105,73,276,3,Conforme à la description.,2026-08-20 06:32:08
+1106,91,71,3,Conforme à la description.,2026-04-11 02:23:26
+1107,35,206,4,"Bon produit, livraison rapide.",2026-04-08 20:32:54
+1108,186,155,4,Satisfait de mon achat.,2025-11-04 11:41:29
+1109,36,161,4,"Bon produit, livraison rapide.",2026-06-11 04:37:47
+1110,129,308,5,"Excellent, je recommande !",2026-07-27 20:06:06
+1111,129,907,3,"Correct, sans plus.",2026-03-24 17:51:23
+1112,25,610,4,Satisfait de mon achat.,2026-01-22 10:17:19
+1113,30,186,3,Conforme à la description.,2026-10-24 12:32:06
+1114,23,666,5,"Parfait, merci au vendeur.",2026-04-20 20:17:08
+1115,187,933,5,"Excellent, je recommande !",2026-06-22 22:37:59
+1116,111,114,5,"Parfait, merci au vendeur.",2026-08-10 05:00:14
+1117,30,248,5,"Parfait, merci au vendeur.",2026-05-28 00:48:59
+1118,161,455,5,"Parfait, merci au vendeur.",2026-05-14 15:28:50
+1119,187,145,3,Conforme à la description.,2026-07-01 23:36:30
+1120,107,521,5,"Parfait, merci au vendeur.",2026-09-12 06:18:55
+1121,112,620,1,"Très déçu, produit non conforme.",2026-07-01 22:53:12
+1122,161,260,5,"Parfait, merci au vendeur.",2026-08-30 03:46:44
+1123,85,254,5,"Parfait, merci au vendeur.",2026-02-04 12:03:08
+1124,17,730,3,"Correct, sans plus.",2025-12-27 05:50:38
+1125,148,554,4,"Bon produit, livraison rapide.",2025-11-30 20:36:06
+1126,66,596,3,Conforme à la description.,2025-11-02 04:43:16
+1127,133,64,5,"Excellent, je recommande !",2026-04-05 15:41:00
+1128,10,731,4,Satisfait de mon achat.,2026-09-05 10:52:31
+1129,69,564,4,"Bon produit, livraison rapide.",2025-11-17 21:09:57
+1130,72,699,4,Satisfait de mon achat.,2026-06-21 08:31:35
+1131,63,330,5,"Parfait, merci au vendeur.",2026-08-13 01:24:09
+1132,114,897,5,"Excellent, je recommande !",2026-09-25 09:56:02
+1133,87,12,5,"Excellent, je recommande !",2026-08-16 19:49:40
+1134,186,674,5,"Parfait, merci au vendeur.",2025-11-24 08:42:21
+1135,145,60,4,"Bon produit, livraison rapide.",2025-12-19 03:48:42
+1136,93,801,3,"Correct, sans plus.",2026-10-20 05:33:22
+1137,55,829,5,"Excellent, je recommande !",2025-11-28 06:42:28
+1138,76,510,3,"Correct, sans plus.",2026-10-19 07:48:00
+1139,63,554,5,"Excellent, je recommande !",2026-10-04 08:02:01
+1140,136,238,5,"Parfait, merci au vendeur.",2026-01-30 20:52:30
+1141,187,11,4,"Bon produit, livraison rapide.",2026-08-15 13:07:22
+1142,144,91,3,"Correct, sans plus.",2025-11-15 10:09:16
+1143,187,233,5,"Parfait, merci au vendeur.",2025-12-10 12:13:12
+1144,35,490,4,"Bon produit, livraison rapide.",2026-03-09 19:08:56
+1145,18,190,3,"Correct, sans plus.",2026-01-16 04:53:38
+1146,141,799,4,"Bon produit, livraison rapide.",2026-04-01 12:20:48
+1147,197,707,2,"Qualité moyenne, livraison trop longue.",2026-01-31 17:26:30
+1148,108,584,2,"Qualité moyenne, livraison trop longue.",2026-01-31 03:19:59
+1149,91,662,1,"Très déçu, produit non conforme.",2026-03-03 16:09:41
+1150,102,26,4,Satisfait de mon achat.,2025-11-13 17:52:58
+1151,32,259,4,Satisfait de mon achat.,2026-07-04 18:02:45
+1152,197,240,5,"Parfait, merci au vendeur.",2026-09-06 09:23:04
+1153,12,23,4,"Bon produit, livraison rapide.",2026-03-20 01:43:28
+1154,155,442,5,"Excellent, je recommande !",2026-01-10 03:19:37
+1155,84,389,5,"Excellent, je recommande !",2026-09-19 09:32:22
+1156,163,403,3,"Correct, sans plus.",2026-09-08 17:10:20
+1157,147,673,1,"Très déçu, produit non conforme.",2026-04-11 11:07:23
+1158,165,698,5,"Excellent, je recommande !",2026-01-27 09:48:20
+1159,147,329,1,Je ne recommande pas du tout.,2026-07-25 01:09:01
+1160,130,176,4,"Bon produit, livraison rapide.",2026-08-31 05:04:57
+1161,107,376,2,"Qualité moyenne, livraison trop longue.",2025-11-05 17:14:24
+1162,6,370,4,"Bon produit, livraison rapide.",2026-02-05 05:10:48
+1163,166,84,4,"Bon produit, livraison rapide.",2026-09-04 20:01:22
+1164,74,536,5,"Parfait, merci au vendeur.",2025-11-30 18:49:41
+1165,78,383,5,"Parfait, merci au vendeur.",2026-01-23 05:45:27
+1166,154,984,4,"Bon produit, livraison rapide.",2026-08-21 06:58:58
+1167,15,136,4,"Bon produit, livraison rapide.",2026-08-18 08:46:54
+1168,36,926,4,"Bon produit, livraison rapide.",2026-02-03 07:21:13
+1169,186,343,3,"Correct, sans plus.",2026-09-07 03:51:06
+1170,192,382,5,"Excellent, je recommande !",2026-02-14 17:24:31
+1171,186,258,4,"Bon produit, livraison rapide.",2026-01-08 14:13:16
+1172,2,335,5,"Parfait, merci au vendeur.",2026-03-22 20:51:42
+1173,78,48,1,"Très déçu, produit non conforme.",2026-05-30 06:28:21
+1174,112,950,3,Conforme à la description.,2026-06-03 02:52:11
+1175,63,335,4,"Bon produit, livraison rapide.",2026-01-28 01:02:51
+1176,17,862,5,"Parfait, merci au vendeur.",2026-06-14 04:36:03
+1177,8,769,4,"Bon produit, livraison rapide.",2025-10-31 11:17:15
+1178,153,711,5,"Parfait, merci au vendeur.",2025-11-21 15:56:01
+1179,161,385,5,"Excellent, je recommande !",2026-01-23 23:25:18
+1180,124,622,4,"Bon produit, livraison rapide.",2026-10-07 21:14:07
+1181,22,355,5,"Parfait, merci au vendeur.",2026-07-08 21:07:26
+1182,81,729,4,Satisfait de mon achat.,2025-11-12 23:56:17
+1183,93,827,4,"Bon produit, livraison rapide.",2025-11-19 10:40:38
+1184,21,710,2,"Qualité moyenne, livraison trop longue.",2026-08-26 02:16:22
+1185,38,406,5,"Excellent, je recommande !",2026-04-27 13:13:10
+1186,91,837,4,"Bon produit, livraison rapide.",2026-07-13 03:14:32
+1187,54,9,5,"Parfait, merci au vendeur.",2026-02-15 05:39:11
+1188,70,724,4,"Bon produit, livraison rapide.",2026-02-07 15:57:05
+1189,45,838,1,Je ne recommande pas du tout.,2025-12-21 18:21:56
+1190,38,651,3,Conforme à la description.,2026-05-22 03:33:56
+1191,198,479,3,Conforme à la description.,2026-05-13 14:37:34
+1192,37,937,5,"Excellent, je recommande !",2026-09-30 13:42:38
+1193,118,38,1,Je ne recommande pas du tout.,2026-06-25 10:21:52
+1194,170,941,5,"Excellent, je recommande !",2026-09-30 09:12:35
+1195,59,271,5,"Parfait, merci au vendeur.",2026-07-21 06:12:18
+1196,66,417,4,Satisfait de mon achat.,2025-12-11 22:13:25
+1197,115,272,4,"Bon produit, livraison rapide.",2026-04-30 22:06:13
+1198,20,999,5,"Parfait, merci au vendeur.",2026-10-14 17:39:19
+1199,129,383,2,"Qualité moyenne, livraison trop longue.",2026-07-13 09:58:35
+1200,32,394,4,Satisfait de mon achat.,2025-12-06 12:12:21
+1201,151,609,4,Satisfait de mon achat.,2026-01-05 07:19:42
+1202,133,249,5,"Parfait, merci au vendeur.",2025-11-22 03:46:13
+1203,80,338,5,"Excellent, je recommande !",2026-07-04 18:53:34
+1204,74,208,5,"Parfait, merci au vendeur.",2026-04-02 14:59:17
+1205,35,722,4,Satisfait de mon achat.,2026-03-30 03:04:03
+1206,12,119,5,"Excellent, je recommande !",2026-10-16 07:22:26
+1207,196,662,4,"Bon produit, livraison rapide.",2026-10-03 11:32:35
+1208,11,365,5,"Parfait, merci au vendeur.",2025-11-28 13:41:33
+1209,36,108,5,"Parfait, merci au vendeur.",2026-09-02 06:27:35
+1210,12,969,3,Conforme à la description.,2026-10-01 08:51:55
+1211,96,343,5,"Excellent, je recommande !",2025-10-25 11:34:58
+1212,148,325,4,"Bon produit, livraison rapide.",2026-09-23 13:37:16
+1213,52,81,5,"Parfait, merci au vendeur.",2026-07-29 14:27:56
+1214,171,920,4,Satisfait de mon achat.,2026-02-05 03:17:06
+1215,122,908,3,"Correct, sans plus.",2026-06-01 21:50:17
+1216,170,108,5,"Excellent, je recommande !",2025-11-09 07:32:10
+1217,78,286,3,Conforme à la description.,2026-07-12 16:49:36
+1218,110,147,3,"Correct, sans plus.",2026-02-27 18:14:31
+1219,45,704,3,"Correct, sans plus.",2026-01-27 06:46:38
+1220,79,164,5,"Excellent, je recommande !",2026-08-10 15:14:03
+1221,182,394,5,"Parfait, merci au vendeur.",2026-08-12 12:52:04
+1222,64,550,4,Satisfait de mon achat.,2026-03-03 14:39:49
+1223,82,956,4,"Bon produit, livraison rapide.",2025-12-15 08:08:24
+1224,150,992,4,Satisfait de mon achat.,2026-07-22 04:38:42
+1225,56,425,3,"Correct, sans plus.",2026-09-18 01:51:41
+1226,162,205,1,Je ne recommande pas du tout.,2026-09-09 18:44:06
+1227,56,575,5,"Parfait, merci au vendeur.",2026-04-01 13:38:40
+1228,188,334,3,"Correct, sans plus.",2026-05-02 08:58:39
+1229,138,448,2,"Qualité moyenne, livraison trop longue.",2025-12-02 19:30:46
+1230,197,854,3,"Correct, sans plus.",2026-02-21 08:27:35
+1231,114,424,5,"Parfait, merci au vendeur.",2026-07-07 18:02:06
+1232,141,532,4,"Bon produit, livraison rapide.",2026-07-31 06:59:47
+1233,137,557,5,"Excellent, je recommande !",2026-03-15 04:17:24
+1234,39,345,1,Je ne recommande pas du tout.,2026-09-26 08:25:06
+1235,6,897,4,Satisfait de mon achat.,2026-01-25 21:25:27
+1236,193,423,5,"Excellent, je recommande !",2026-07-08 01:57:44
+1237,120,600,2,Peut mieux faire.,2026-06-26 04:45:25
+1238,25,736,4,"Bon produit, livraison rapide.",2026-05-30 01:54:48
+1239,122,824,4,"Bon produit, livraison rapide.",2026-02-23 17:17:30
+1240,56,363,5,"Excellent, je recommande !",2026-07-11 04:17:01
+1241,69,35,5,"Excellent, je recommande !",2026-01-12 04:23:44
+1242,167,663,5,"Parfait, merci au vendeur.",2026-08-23 16:38:28
+1243,110,101,4,"Bon produit, livraison rapide.",2026-06-02 00:55:13
+1244,104,801,4,Satisfait de mon achat.,2026-03-23 20:11:12
+1245,112,996,4,"Bon produit, livraison rapide.",2026-03-01 21:28:14
+1246,49,57,4,Satisfait de mon achat.,2025-12-09 19:06:13
+1247,157,22,4,Satisfait de mon achat.,2025-11-13 06:35:39
+1248,105,750,3,"Correct, sans plus.",2026-02-16 10:28:20
+1249,80,707,1,"Très déçu, produit non conforme.",2026-01-15 19:44:53
+1250,155,945,5,"Parfait, merci au vendeur.",2026-07-02 20:21:31
+1251,118,129,5,"Excellent, je recommande !",2026-04-07 13:28:09
+1252,55,81,5,"Excellent, je recommande !",2025-12-20 01:43:14
+1253,154,369,3,"Correct, sans plus.",2026-05-22 16:06:16
+1254,101,82,1,"Très déçu, produit non conforme.",2026-06-13 19:12:16
+1255,21,904,3,"Correct, sans plus.",2026-04-20 14:02:16
+1256,58,616,5,"Parfait, merci au vendeur.",2026-06-20 09:38:45
+1257,143,671,3,"Correct, sans plus.",2026-09-25 08:27:07
+1258,80,677,3,Conforme à la description.,2026-05-31 04:37:11
+1259,141,518,5,"Excellent, je recommande !",2026-02-26 16:35:09
+1260,43,463,4,"Bon produit, livraison rapide.",2026-06-10 16:33:33
+1261,191,218,5,"Parfait, merci au vendeur.",2026-09-06 13:28:12
+1262,142,936,4,Satisfait de mon achat.,2026-06-16 01:17:58
+1263,49,551,4,Satisfait de mon achat.,2026-04-17 17:09:46
+1264,63,127,5,"Excellent, je recommande !",2025-12-06 04:48:23
+1265,65,168,3,Conforme à la description.,2026-06-30 16:27:37
+1266,102,119,3,Conforme à la description.,2026-08-06 22:57:04
+1267,69,897,4,Satisfait de mon achat.,2026-05-10 03:56:56
+1268,161,11,4,"Bon produit, livraison rapide.",2026-06-12 12:29:16
+1269,40,927,4,Satisfait de mon achat.,2025-12-03 17:12:41
+1270,29,823,4,"Bon produit, livraison rapide.",2026-10-12 22:43:16
+1271,11,140,4,"Bon produit, livraison rapide.",2026-03-28 04:55:50
+1272,133,91,4,"Bon produit, livraison rapide.",2026-09-12 05:32:35
+1273,179,930,5,"Excellent, je recommande !",2026-06-28 10:46:19
+1274,67,604,1,Je ne recommande pas du tout.,2026-07-14 23:14:19
+1275,163,920,5,"Excellent, je recommande !",2026-02-02 17:50:52
+1276,98,930,4,Satisfait de mon achat.,2026-01-28 20:59:07
+1277,57,11,1,"Très déçu, produit non conforme.",2026-02-22 12:53:07
+1278,144,53,2,Peut mieux faire.,2026-01-31 07:49:02
+1279,1,794,4,"Bon produit, livraison rapide.",2026-07-07 21:58:36
+1280,185,118,5,"Excellent, je recommande !",2025-12-19 23:39:28
+1281,197,826,4,Satisfait de mon achat.,2026-07-19 18:55:49
+1282,173,872,4,"Bon produit, livraison rapide.",2025-12-17 17:11:42
+1283,177,488,4,"Bon produit, livraison rapide.",2026-05-08 17:41:57
+1284,181,278,5,"Parfait, merci au vendeur.",2026-02-08 19:57:38
+1285,89,992,5,"Parfait, merci au vendeur.",2026-07-20 18:17:27
+1286,10,423,4,Satisfait de mon achat.,2026-02-06 15:52:43
+1287,112,241,5,"Excellent, je recommande !",2026-08-28 07:33:33
+1288,85,581,1,"Très déçu, produit non conforme.",2026-09-09 07:24:15
+1289,160,337,4,"Bon produit, livraison rapide.",2026-04-28 17:31:38
+1290,161,717,5,"Parfait, merci au vendeur.",2025-11-02 13:27:14
+1291,165,986,5,"Parfait, merci au vendeur.",2026-07-05 20:54:13
+1292,163,184,4,"Bon produit, livraison rapide.",2026-07-01 07:55:38
+1293,169,250,4,Satisfait de mon achat.,2025-10-29 11:24:11
+1294,84,874,3,"Correct, sans plus.",2026-05-18 13:39:43
+1295,130,838,4,"Bon produit, livraison rapide.",2025-11-04 16:21:17
+1296,58,775,5,"Parfait, merci au vendeur.",2026-01-23 07:11:07
+1297,124,146,5,"Parfait, merci au vendeur.",2026-06-01 23:43:06
+1298,110,91,2,"Qualité moyenne, livraison trop longue.",2026-04-12 04:53:59
+1299,9,300,5,"Parfait, merci au vendeur.",2026-06-14 00:55:06
+1300,150,109,5,"Excellent, je recommande !",2026-03-25 17:42:04
+1301,135,478,3,Conforme à la description.,2026-02-09 05:31:27
+1302,139,708,1,Je ne recommande pas du tout.,2025-11-19 09:07:59
+1303,47,721,4,Satisfait de mon achat.,2026-06-07 10:47:13
+1304,51,473,5,"Excellent, je recommande !",2025-12-01 03:08:26
+1305,8,368,4,Satisfait de mon achat.,2025-12-06 02:21:06
+1306,1,453,4,"Bon produit, livraison rapide.",2026-08-01 19:37:06
+1307,145,709,5,"Excellent, je recommande !",2026-08-22 18:22:09
+1308,178,218,3,"Correct, sans plus.",2026-03-02 20:51:46
+1309,80,2,5,"Parfait, merci au vendeur.",2026-10-17 08:45:17
+1310,90,713,5,"Parfait, merci au vendeur.",2026-05-21 13:37:52
+1311,78,635,4,Satisfait de mon achat.,2026-05-12 19:05:48
+1312,167,115,5,"Excellent, je recommande !",2026-10-17 10:03:43
+1313,169,601,5,"Parfait, merci au vendeur.",2026-06-06 06:38:26
+1314,175,374,4,Satisfait de mon achat.,2026-05-01 12:59:17
+1315,17,910,5,"Excellent, je recommande !",2025-12-09 04:53:40
+1316,188,723,4,Satisfait de mon achat.,2026-05-05 05:36:45
+1317,3,481,5,"Parfait, merci au vendeur.",2026-02-21 11:35:17
+1318,71,981,5,"Excellent, je recommande !",2025-12-01 15:36:37
+1319,59,701,5,"Parfait, merci au vendeur.",2026-05-07 15:20:34
+1320,132,213,5,"Excellent, je recommande !",2025-11-10 04:30:38
+1321,54,621,5,"Excellent, je recommande !",2026-09-28 16:24:59
+1322,120,636,3,Conforme à la description.,2026-09-26 18:20:42
+1323,179,803,4,"Bon produit, livraison rapide.",2026-07-16 04:09:11
+1324,33,65,4,Satisfait de mon achat.,2026-09-06 06:11:47
+1325,176,904,3,Conforme à la description.,2026-08-22 15:10:18
+1326,88,267,5,"Parfait, merci au vendeur.",2026-08-16 19:21:26
+1327,120,511,3,"Correct, sans plus.",2025-12-09 19:11:03
+1328,87,97,4,"Bon produit, livraison rapide.",2026-10-22 21:25:06
+1329,40,165,4,Satisfait de mon achat.,2026-01-18 19:09:27
+1330,39,831,5,"Excellent, je recommande !",2025-11-29 07:58:25
+1331,9,746,4,Satisfait de mon achat.,2026-09-10 11:38:27
+1332,75,419,5,"Parfait, merci au vendeur.",2026-07-31 11:51:16
+1333,20,78,4,Satisfait de mon achat.,2026-05-31 17:23:06
+1334,88,892,3,"Correct, sans plus.",2025-12-04 19:43:29
+1335,95,172,4,"Bon produit, livraison rapide.",2026-02-18 05:19:18
+1336,160,41,5,"Excellent, je recommande !",2026-06-13 16:35:48
+1337,147,238,3,"Correct, sans plus.",2026-07-08 19:33:45
+1338,172,699,1,"Très déçu, produit non conforme.",2026-07-14 01:10:00
+1339,6,296,4,"Bon produit, livraison rapide.",2026-01-24 01:35:27
+1340,144,515,4,Satisfait de mon achat.,2026-07-05 03:16:00
+1341,55,119,4,Satisfait de mon achat.,2025-12-04 11:31:40
+1342,162,694,3,"Correct, sans plus.",2026-01-29 16:22:44
+1343,182,967,4,Satisfait de mon achat.,2025-10-31 08:51:14
+1344,20,967,5,"Excellent, je recommande !",2026-09-12 09:52:58
+1345,103,906,4,Satisfait de mon achat.,2026-03-08 06:18:38
+1346,112,973,4,Satisfait de mon achat.,2026-05-19 14:33:20
+1347,56,843,5,"Parfait, merci au vendeur.",2025-10-28 16:34:19
+1348,52,831,5,"Parfait, merci au vendeur.",2026-09-23 10:12:16
+1349,29,757,5,"Parfait, merci au vendeur.",2026-03-19 18:59:42
+1350,84,211,4,"Bon produit, livraison rapide.",2026-04-05 07:06:23
+1351,141,183,4,"Bon produit, livraison rapide.",2026-03-04 18:32:42
+1352,141,760,4,"Bon produit, livraison rapide.",2026-02-27 04:22:27
+1353,156,283,4,"Bon produit, livraison rapide.",2026-02-14 00:13:51
+1354,190,958,3,Conforme à la description.,2026-09-17 23:45:48
+1355,127,671,4,"Bon produit, livraison rapide.",2025-11-22 22:14:13
+1356,72,347,4,Satisfait de mon achat.,2026-08-18 17:43:59
+1357,56,526,4,"Bon produit, livraison rapide.",2026-01-26 04:19:44
+1358,116,350,3,Conforme à la description.,2025-11-25 10:08:12
+1359,89,228,3,Conforme à la description.,2026-09-08 10:36:39
+1360,22,478,4,"Bon produit, livraison rapide.",2026-04-03 02:52:26
+1361,80,597,4,"Bon produit, livraison rapide.",2026-09-20 00:02:06
+1362,137,696,4,"Bon produit, livraison rapide.",2025-11-21 15:24:34
+1363,36,350,5,"Parfait, merci au vendeur.",2025-11-20 09:11:53
+1364,48,248,4,Satisfait de mon achat.,2026-09-07 14:51:13
+1365,57,153,3,"Correct, sans plus.",2026-01-25 10:57:05
+1366,94,159,3,"Correct, sans plus.",2026-04-17 14:21:36
+1367,164,580,5,"Parfait, merci au vendeur.",2025-12-23 21:39:34
+1368,66,287,4,Satisfait de mon achat.,2026-01-28 10:58:23
+1369,26,615,4,Satisfait de mon achat.,2026-05-23 18:02:06
+1370,11,646,3,"Correct, sans plus.",2025-11-19 15:24:53
+1371,123,833,5,"Parfait, merci au vendeur.",2026-08-02 07:16:21
+1372,149,43,4,"Bon produit, livraison rapide.",2026-02-08 23:03:32
+1373,18,898,3,Conforme à la description.,2026-09-22 02:24:12
+1374,124,928,5,"Excellent, je recommande !",2026-03-07 03:07:15
+1375,182,454,4,"Bon produit, livraison rapide.",2026-07-15 09:56:06
+1376,164,558,4,Satisfait de mon achat.,2026-10-14 04:44:52
+1377,187,918,5,"Excellent, je recommande !",2026-06-20 18:04:40
+1378,190,107,5,"Parfait, merci au vendeur.",2026-10-21 09:24:19
+1379,158,962,4,"Bon produit, livraison rapide.",2026-07-13 06:55:53
+1380,83,724,5,"Excellent, je recommande !",2026-04-11 22:45:19
+1381,140,710,4,Satisfait de mon achat.,2026-10-19 00:21:29
+1382,152,287,5,"Parfait, merci au vendeur.",2026-09-23 12:53:19
+1383,153,1000,5,"Excellent, je recommande !",2026-09-30 07:28:57
+1384,62,767,5,"Parfait, merci au vendeur.",2026-08-12 12:59:02
+1385,89,942,1,Je ne recommande pas du tout.,2025-11-29 15:09:17
+1386,87,881,2,"Qualité moyenne, livraison trop longue.",2026-08-01 20:41:16
+1387,162,668,5,"Excellent, je recommande !",2026-01-16 04:26:15
+1388,168,504,4,"Bon produit, livraison rapide.",2026-01-31 02:47:47
+1389,192,382,5,"Parfait, merci au vendeur.",2026-08-05 09:08:50
+1390,180,185,3,"Correct, sans plus.",2026-07-23 00:28:47
+1391,23,41,5,"Parfait, merci au vendeur.",2025-11-21 05:43:37
+1392,76,473,3,Conforme à la description.,2026-10-21 17:54:11
+1393,81,592,1,"Très déçu, produit non conforme.",2026-07-03 06:02:56
+1394,161,572,5,"Parfait, merci au vendeur.",2026-08-27 13:45:06
+1395,6,473,4,"Bon produit, livraison rapide.",2026-09-19 21:27:31
+1396,154,360,4,Satisfait de mon achat.,2026-05-10 21:10:03
+1397,179,408,4,Satisfait de mon achat.,2026-02-23 11:18:27
+1398,38,770,4,"Bon produit, livraison rapide.",2025-10-25 08:02:00
+1399,69,933,5,"Excellent, je recommande !",2026-07-14 21:15:03
+1400,126,272,5,"Excellent, je recommande !",2026-03-11 12:19:49
+1401,119,650,5,"Excellent, je recommande !",2026-03-27 06:26:54
+1402,100,842,4,"Bon produit, livraison rapide.",2026-06-20 17:55:25
+1403,60,402,1,"Très déçu, produit non conforme.",2026-03-25 18:50:59
+1404,13,438,5,"Parfait, merci au vendeur.",2025-12-14 13:33:23
+1405,50,553,1,Je ne recommande pas du tout.,2026-09-07 16:10:24
+1406,110,587,3,Conforme à la description.,2026-03-22 01:44:19
+1407,47,920,4,Satisfait de mon achat.,2026-07-14 17:18:59
+1408,196,57,5,"Excellent, je recommande !",2026-07-11 06:20:48
+1409,39,822,4,Satisfait de mon achat.,2026-01-23 23:30:11
+1410,156,211,4,"Bon produit, livraison rapide.",2026-09-15 08:17:51
+1411,67,367,5,"Parfait, merci au vendeur.",2026-10-20 21:21:16
+1412,41,439,4,Satisfait de mon achat.,2026-07-08 00:37:07
+1413,42,507,1,"Très déçu, produit non conforme.",2026-08-31 06:59:16
+1414,45,739,3,Conforme à la description.,2026-06-04 20:57:01
+1415,193,168,4,Satisfait de mon achat.,2026-02-14 12:27:35
+1416,64,972,5,"Parfait, merci au vendeur.",2026-01-15 11:04:40
+1417,63,834,4,Satisfait de mon achat.,2026-10-04 03:26:52
+1418,4,73,4,"Bon produit, livraison rapide.",2026-06-26 21:53:42
+1419,66,562,4,"Bon produit, livraison rapide.",2026-04-20 01:15:12
+1420,15,937,4,Satisfait de mon achat.,2026-08-27 01:00:54
+1421,38,37,3,"Correct, sans plus.",2026-05-17 23:04:20
+1422,144,309,2,"Qualité moyenne, livraison trop longue.",2026-04-02 19:46:27
+1423,127,460,3,"Correct, sans plus.",2025-11-15 19:13:42
+1424,110,983,4,Satisfait de mon achat.,2025-11-19 22:39:41
+1425,46,558,3,"Correct, sans plus.",2026-02-25 15:42:12
+1426,140,45,3,"Correct, sans plus.",2026-06-01 21:10:50
+1427,32,636,5,"Excellent, je recommande !",2026-06-12 21:56:05
+1428,144,509,4,"Bon produit, livraison rapide.",2026-06-18 21:52:17
+1429,141,592,4,"Bon produit, livraison rapide.",2026-08-28 01:03:09
+1430,15,778,3,"Correct, sans plus.",2026-04-29 17:13:15
+1431,121,96,3,Conforme à la description.,2026-09-14 00:52:18
+1432,190,351,5,"Parfait, merci au vendeur.",2026-05-25 18:36:04
+1433,124,133,4,Satisfait de mon achat.,2026-04-13 22:57:44
+1434,194,974,5,"Excellent, je recommande !",2026-03-14 19:08:51
+1435,168,927,4,Satisfait de mon achat.,2026-04-11 03:21:19
+1436,7,925,2,"Qualité moyenne, livraison trop longue.",2026-04-16 04:00:39
+1437,181,262,5,"Excellent, je recommande !",2026-10-05 01:40:55
+1438,14,332,1,Je ne recommande pas du tout.,2025-12-24 14:47:12
+1439,41,466,4,Satisfait de mon achat.,2026-04-13 05:53:16
+1440,164,5,4,Satisfait de mon achat.,2025-12-09 11:13:50
+1441,98,862,5,"Excellent, je recommande !",2025-10-26 05:39:44
+1442,122,176,4,Satisfait de mon achat.,2026-04-08 22:05:59
+1443,59,685,5,"Parfait, merci au vendeur.",2026-04-19 22:06:20
+1444,199,33,4,Satisfait de mon achat.,2026-02-08 23:49:58
+1445,18,135,5,"Parfait, merci au vendeur.",2026-06-02 13:03:46
+1446,50,680,3,"Correct, sans plus.",2025-10-30 22:34:41
+1447,169,60,4,Satisfait de mon achat.,2026-07-23 11:00:27
+1448,160,142,1,Je ne recommande pas du tout.,2026-03-26 01:13:11
+1449,57,206,4,Satisfait de mon achat.,2025-11-22 21:22:16
+1450,105,480,4,"Bon produit, livraison rapide.",2026-09-29 08:35:13
+1451,8,217,5,"Excellent, je recommande !",2026-05-22 23:46:45
+1452,112,188,5,"Parfait, merci au vendeur.",2026-04-15 06:54:08
+1453,171,189,4,"Bon produit, livraison rapide.",2026-06-05 01:05:20
+1454,42,867,5,"Excellent, je recommande !",2026-05-14 04:36:29
+1455,187,815,5,"Parfait, merci au vendeur.",2026-06-30 02:05:58
+1456,122,295,5,"Parfait, merci au vendeur.",2026-07-17 07:09:11
+1457,10,647,3,"Correct, sans plus.",2026-02-01 09:35:06
+1458,83,698,4,"Bon produit, livraison rapide.",2026-06-17 17:11:19
+1459,35,248,5,"Excellent, je recommande !",2026-07-31 19:36:12
+1460,45,586,4,"Bon produit, livraison rapide.",2025-12-14 15:27:39
+1461,17,60,5,"Parfait, merci au vendeur.",2026-08-09 03:43:38
+1462,168,376,4,Satisfait de mon achat.,2026-02-28 20:00:45
+1463,134,600,5,"Excellent, je recommande !",2025-12-14 01:49:21
+1464,43,760,5,"Excellent, je recommande !",2026-07-11 05:34:40
+1465,17,373,5,"Excellent, je recommande !",2026-08-02 19:54:54
+1466,61,115,5,"Excellent, je recommande !",2026-05-15 12:34:53
+1467,57,710,4,"Bon produit, livraison rapide.",2026-06-06 23:09:42
+1468,18,711,4,Satisfait de mon achat.,2026-04-08 09:53:54
+1469,25,102,5,"Parfait, merci au vendeur.",2026-04-02 08:24:32
+1470,136,180,5,"Parfait, merci au vendeur.",2026-02-21 00:57:30
+1471,151,278,3,"Correct, sans plus.",2026-08-05 09:15:16
+1472,57,82,4,"Bon produit, livraison rapide.",2026-04-21 13:56:24
+1473,80,785,5,"Parfait, merci au vendeur.",2025-12-10 12:28:20
+1474,192,968,3,"Correct, sans plus.",2026-01-20 23:29:32
+1475,69,843,5,"Parfait, merci au vendeur.",2026-03-04 10:07:25
+1476,149,173,5,"Parfait, merci au vendeur.",2026-07-24 04:04:08
+1477,168,270,4,"Bon produit, livraison rapide.",2026-09-15 21:24:53
+1478,181,265,3,Conforme à la description.,2025-12-24 16:54:09
+1479,194,462,5,"Parfait, merci au vendeur.",2025-12-16 06:37:22
+1480,40,11,4,Satisfait de mon achat.,2026-05-02 19:20:07
+1481,191,224,5,"Parfait, merci au vendeur.",2026-09-28 16:17:39
+1482,128,677,2,"Qualité moyenne, livraison trop longue.",2026-02-07 09:39:04
+1483,47,660,3,Conforme à la description.,2026-06-11 15:51:43
+1484,176,760,1,"Très déçu, produit non conforme.",2026-07-15 16:27:48
+1485,79,423,4,"Bon produit, livraison rapide.",2025-10-27 10:46:22
+1486,193,21,5,"Excellent, je recommande !",2026-03-07 02:01:51
+1487,94,979,5,"Excellent, je recommande !",2025-12-20 18:28:01
+1488,131,518,1,Je ne recommande pas du tout.,2026-10-20 18:31:50
+1489,96,912,1,Je ne recommande pas du tout.,2025-11-13 01:06:48
+1490,190,849,5,"Parfait, merci au vendeur.",2025-12-11 20:23:01
+1491,95,123,2,"Qualité moyenne, livraison trop longue.",2026-08-02 19:48:09
+1492,30,788,3,Conforme à la description.,2025-12-21 22:31:00
+1493,176,648,5,"Parfait, merci au vendeur.",2026-01-25 19:10:46
+1494,9,804,3,"Correct, sans plus.",2026-05-15 08:09:20
+1495,151,704,4,Satisfait de mon achat.,2026-05-20 22:40:11
+1496,94,69,4,"Bon produit, livraison rapide.",2026-10-24 04:41:20
+1497,139,105,4,Satisfait de mon achat.,2026-08-31 11:53:36
+1498,64,283,4,"Bon produit, livraison rapide.",2026-08-26 18:11:05
+1499,46,205,4,"Bon produit, livraison rapide.",2026-09-19 06:45:53
+1500,186,522,3,"Correct, sans plus.",2026-05-16 15:30:32
+1501,38,993,5,"Parfait, merci au vendeur.",2026-08-27 22:42:39
+1502,4,511,4,"Bon produit, livraison rapide.",2026-07-10 05:57:52
+1503,81,339,5,"Excellent, je recommande !",2026-04-26 12:13:44
+1504,64,758,4,"Bon produit, livraison rapide.",2026-10-02 02:14:44
+1505,119,486,4,Satisfait de mon achat.,2025-12-16 01:13:26
+1506,70,920,4,Satisfait de mon achat.,2026-03-14 00:58:06
+1507,72,434,5,"Parfait, merci au vendeur.",2026-02-28 20:13:35
+1508,143,717,1,"Très déçu, produit non conforme.",2026-05-11 04:13:54
+1509,154,82,3,"Correct, sans plus.",2026-02-24 05:35:11
+1510,1,482,5,"Excellent, je recommande !",2026-03-28 21:16:27
+1511,34,431,4,"Bon produit, livraison rapide.",2026-10-21 13:56:34
+1512,170,591,5,"Excellent, je recommande !",2026-07-26 06:20:54
+1513,180,768,3,"Correct, sans plus.",2026-08-15 12:02:59
+1514,187,4,5,"Parfait, merci au vendeur.",2026-03-02 10:36:02
+1515,72,306,5,"Excellent, je recommande !",2026-02-19 17:41:35
+1516,97,451,3,"Correct, sans plus.",2026-04-30 22:32:50
+1517,30,649,1,"Très déçu, produit non conforme.",2026-03-24 14:27:58
+1518,22,114,5,"Excellent, je recommande !",2026-06-19 17:31:27
+1519,120,703,4,"Bon produit, livraison rapide.",2026-02-01 03:48:54
+1520,11,732,3,"Correct, sans plus.",2025-12-15 15:00:22
+1521,33,538,3,"Correct, sans plus.",2026-03-21 06:00:23
+1522,52,782,4,"Bon produit, livraison rapide.",2026-08-20 12:48:22
+1523,10,515,4,Satisfait de mon achat.,2025-11-23 07:03:45
+1524,27,1000,4,"Bon produit, livraison rapide.",2025-11-24 11:17:57
+1525,3,51,5,"Parfait, merci au vendeur.",2026-08-25 18:45:49
+1526,101,463,3,Conforme à la description.,2026-03-12 23:51:26
+1527,118,723,5,"Excellent, je recommande !",2026-05-07 07:59:23
+1528,83,88,5,"Excellent, je recommande !",2026-07-31 12:36:57
+1529,77,668,1,Je ne recommande pas du tout.,2026-06-02 20:21:51
+1530,39,139,5,"Excellent, je recommande !",2026-10-14 13:15:28
+1531,174,602,4,"Bon produit, livraison rapide.",2026-01-04 19:56:35
+1532,167,908,4,"Bon produit, livraison rapide.",2026-08-22 17:56:24
+1533,86,244,2,"Qualité moyenne, livraison trop longue.",2026-04-07 22:02:04
+1534,121,196,4,Satisfait de mon achat.,2025-12-10 03:03:58
+1535,191,613,3,"Correct, sans plus.",2026-04-11 17:50:18
+1536,126,364,3,Conforme à la description.,2026-04-25 21:42:17
+1537,104,793,1,Je ne recommande pas du tout.,2025-11-29 06:05:17
+1538,137,134,5,"Parfait, merci au vendeur.",2026-04-19 10:12:40
+1539,161,790,5,"Parfait, merci au vendeur.",2025-11-05 03:21:28
+1540,173,819,5,"Excellent, je recommande !",2026-06-24 22:27:00
+1541,36,750,4,Satisfait de mon achat.,2026-06-07 13:15:51
+1542,135,302,5,"Excellent, je recommande !",2025-12-08 14:48:20
+1543,180,725,5,"Excellent, je recommande !",2026-05-21 15:50:03
+1544,27,373,5,"Excellent, je recommande !",2026-01-30 02:32:15
+1545,195,428,5,"Parfait, merci au vendeur.",2026-06-17 18:17:44
+1546,77,743,4,Satisfait de mon achat.,2026-01-19 07:20:50
+1547,180,927,5,"Excellent, je recommande !",2026-09-17 01:13:32
+1548,105,598,4,"Bon produit, livraison rapide.",2026-04-29 16:38:28
+1549,95,977,5,"Excellent, je recommande !",2026-10-24 09:32:25
+1550,38,596,3,Conforme à la description.,2025-11-23 04:36:51
+1551,160,837,1,Je ne recommande pas du tout.,2026-08-27 07:35:29
+1552,189,51,5,"Excellent, je recommande !",2025-11-14 14:14:22
+1553,190,198,5,"Excellent, je recommande !",2025-11-02 10:50:09
+1554,51,219,5,"Parfait, merci au vendeur.",2025-12-25 15:28:12
+1555,131,320,2,"Qualité moyenne, livraison trop longue.",2026-02-14 01:04:43
+1556,155,276,4,"Bon produit, livraison rapide.",2026-09-17 14:36:35
+1557,192,699,4,Satisfait de mon achat.,2026-08-04 19:45:05
+1558,191,995,5,"Parfait, merci au vendeur.",2025-11-21 09:37:57
+1559,126,174,4,Satisfait de mon achat.,2026-09-18 22:24:31
+1560,55,225,4,"Bon produit, livraison rapide.",2026-01-19 06:26:16
+1561,37,927,3,"Correct, sans plus.",2026-09-22 20:16:36
+1562,92,374,4,"Bon produit, livraison rapide.",2026-01-06 21:32:17
+1563,129,699,4,Satisfait de mon achat.,2026-06-26 22:06:45
+1564,50,193,5,"Excellent, je recommande !",2026-06-10 19:01:19
+1565,126,900,5,"Excellent, je recommande !",2026-08-30 03:18:21
+1566,165,474,4,Satisfait de mon achat.,2026-06-08 08:07:54
+1567,112,873,4,"Bon produit, livraison rapide.",2025-12-22 10:13:14
+1568,160,1,5,"Parfait, merci au vendeur.",2026-10-23 13:20:48
+1569,65,545,4,"Bon produit, livraison rapide.",2026-03-17 06:47:36
+1570,179,804,5,"Excellent, je recommande !",2026-10-04 10:45:56
+1571,198,143,3,"Correct, sans plus.",2025-11-24 11:47:13
+1572,13,883,4,Satisfait de mon achat.,2026-09-20 15:28:25
+1573,55,783,3,Conforme à la description.,2026-02-07 21:30:42
+1574,149,491,3,"Correct, sans plus.",2026-10-12 09:05:42
+1575,151,913,3,Conforme à la description.,2026-08-04 08:08:48
+1576,116,846,4,Satisfait de mon achat.,2026-10-15 13:08:32
+1577,113,181,4,Satisfait de mon achat.,2025-12-31 23:55:08
+1578,85,5,5,"Excellent, je recommande !",2026-07-21 04:39:33
+1579,114,241,4,"Bon produit, livraison rapide.",2026-07-22 23:31:58
+1580,178,438,2,"Qualité moyenne, livraison trop longue.",2026-09-18 14:20:47
+1581,10,684,4,"Bon produit, livraison rapide.",2026-08-01 10:47:37
+1582,174,171,2,"Qualité moyenne, livraison trop longue.",2025-11-27 04:25:20
+1583,17,298,3,"Correct, sans plus.",2026-09-11 03:14:32
+1584,140,391,3,"Correct, sans plus.",2026-02-01 04:40:29
+1585,70,526,5,"Excellent, je recommande !",2026-10-13 00:58:43
+1586,35,423,4,Satisfait de mon achat.,2026-08-02 12:18:14
+1587,2,430,1,Je ne recommande pas du tout.,2026-07-24 16:48:28
+1588,52,679,4,Satisfait de mon achat.,2026-06-16 06:18:37
+1589,1,667,3,"Correct, sans plus.",2026-06-28 13:12:04
+1590,32,803,5,"Parfait, merci au vendeur.",2026-05-19 12:12:42
+1591,79,954,5,"Excellent, je recommande !",2026-08-07 01:12:09
+1592,52,942,3,Conforme à la description.,2026-09-26 12:15:28
+1593,90,858,4,Satisfait de mon achat.,2026-01-02 01:39:33
+1594,155,300,5,"Parfait, merci au vendeur.",2026-08-25 02:27:41
+1595,4,677,5,"Excellent, je recommande !",2026-07-21 16:02:02
+1596,67,690,5,"Excellent, je recommande !",2026-05-25 23:36:52
+1597,76,679,5,"Excellent, je recommande !",2026-09-21 22:23:19
+1598,57,838,3,"Correct, sans plus.",2026-10-01 18:03:17
+1599,108,780,5,"Parfait, merci au vendeur.",2026-04-08 10:16:51
+1600,50,401,3,"Correct, sans plus.",2025-11-18 20:13:26
+1601,44,222,2,"Qualité moyenne, livraison trop longue.",2025-11-02 01:03:36
+1602,11,561,5,"Excellent, je recommande !",2026-06-06 05:04:19
+1603,142,592,4,Satisfait de mon achat.,2026-02-24 22:01:33
+1604,69,687,4,"Bon produit, livraison rapide.",2026-01-14 19:19:22
+1605,163,55,4,"Bon produit, livraison rapide.",2025-11-29 06:04:43
+1606,19,79,2,Peut mieux faire.,2026-01-30 02:32:45
+1607,45,729,4,"Bon produit, livraison rapide.",2026-06-10 15:01:49
+1608,113,622,5,"Parfait, merci au vendeur.",2026-08-11 01:17:37
+1609,171,728,5,"Parfait, merci au vendeur.",2026-08-25 16:42:51
+1610,37,543,5,"Parfait, merci au vendeur.",2026-06-23 03:39:08
+1611,61,824,4,Satisfait de mon achat.,2025-11-27 08:29:00
+1612,55,309,1,Je ne recommande pas du tout.,2026-07-07 21:24:20
+1613,7,528,4,"Bon produit, livraison rapide.",2026-03-30 00:21:40
+1614,96,995,1,Je ne recommande pas du tout.,2025-12-11 10:32:52
+1615,135,976,2,"Qualité moyenne, livraison trop longue.",2026-06-27 12:15:30
+1616,77,82,3,"Correct, sans plus.",2026-10-09 03:07:36
+1617,138,127,5,"Parfait, merci au vendeur.",2026-09-21 05:16:22
+1618,65,951,3,Conforme à la description.,2026-08-06 07:44:47
+1619,110,578,4,Satisfait de mon achat.,2026-01-13 10:45:59
+1620,192,638,5,"Excellent, je recommande !",2026-04-24 03:01:48
+1621,31,13,5,"Parfait, merci au vendeur.",2026-05-05 17:33:49
+1622,12,60,3,Conforme à la description.,2026-03-24 09:43:41
+1623,25,696,4,Satisfait de mon achat.,2025-10-31 06:46:01
+1624,177,181,5,"Parfait, merci au vendeur.",2026-05-21 05:38:52
+1625,120,780,4,Satisfait de mon achat.,2026-03-16 09:56:36
+1626,186,782,3,Conforme à la description.,2026-02-27 18:46:35
+1627,78,956,5,"Parfait, merci au vendeur.",2026-02-27 23:01:43
+1628,194,197,4,Satisfait de mon achat.,2026-07-23 05:49:52
+1629,77,379,4,"Bon produit, livraison rapide.",2025-12-28 16:28:50
+1630,173,47,3,Conforme à la description.,2026-05-13 01:44:44
+1631,110,537,5,"Parfait, merci au vendeur.",2025-12-16 06:59:06
+1632,162,548,5,"Parfait, merci au vendeur.",2026-10-01 10:15:54
+1633,159,102,4,Satisfait de mon achat.,2026-03-08 18:03:05
+1634,48,999,4,Satisfait de mon achat.,2026-09-22 16:24:11
+1635,155,580,3,Conforme à la description.,2025-11-16 07:41:03
+1636,37,380,4,Satisfait de mon achat.,2026-07-17 13:20:42
+1637,102,795,3,"Correct, sans plus.",2026-09-20 19:50:03
+1638,121,442,5,"Parfait, merci au vendeur.",2025-12-20 03:02:57
+1639,12,726,5,"Parfait, merci au vendeur.",2026-10-08 02:47:29
+1640,108,774,3,"Correct, sans plus.",2026-10-04 15:09:52
+1641,43,823,3,"Correct, sans plus.",2026-09-05 00:01:33
+1642,145,599,2,"Qualité moyenne, livraison trop longue.",2026-07-15 14:34:29
+1643,95,297,4,Satisfait de mon achat.,2025-10-26 08:19:49
+1644,24,271,5,"Excellent, je recommande !",2025-12-06 00:05:25
+1645,200,988,1,"Très déçu, produit non conforme.",2026-02-27 20:57:31
+1646,58,548,5,"Parfait, merci au vendeur.",2026-08-05 23:16:57
+1647,110,555,4,Satisfait de mon achat.,2026-04-02 08:23:51
+1648,135,461,4,Satisfait de mon achat.,2025-11-10 19:19:59
+1649,163,567,3,"Correct, sans plus.",2026-02-22 03:06:01
+1650,123,17,5,"Excellent, je recommande !",2026-08-26 15:58:54
+1651,132,611,5,"Parfait, merci au vendeur.",2026-08-13 00:19:06
+1652,70,108,1,"Très déçu, produit non conforme.",2026-08-21 07:55:50
+1653,65,554,4,"Bon produit, livraison rapide.",2026-06-28 11:32:11
+1654,30,605,4,"Bon produit, livraison rapide.",2025-12-30 05:26:10
+1655,197,946,1,"Très déçu, produit non conforme.",2026-01-04 05:28:25
+1656,172,149,4,Satisfait de mon achat.,2026-10-20 23:52:08
+1657,46,878,3,Conforme à la description.,2025-11-25 14:56:19
+1658,167,770,5,"Excellent, je recommande !",2026-08-06 18:15:21
+1659,136,765,4,"Bon produit, livraison rapide.",2026-05-31 23:10:50
+1660,30,492,5,"Parfait, merci au vendeur.",2025-11-09 16:41:05
+1661,49,843,5,"Excellent, je recommande !",2026-08-28 20:44:02
+1662,150,86,4,Satisfait de mon achat.,2026-09-20 04:55:56
+1663,195,486,4,"Bon produit, livraison rapide.",2026-06-13 10:35:57
+1664,29,952,5,"Excellent, je recommande !",2026-10-20 22:54:24
+1665,189,592,3,"Correct, sans plus.",2026-01-22 12:09:18
+1666,91,839,2,Peut mieux faire.,2026-10-08 12:45:57
+1667,183,569,4,"Bon produit, livraison rapide.",2026-05-16 10:46:09
+1668,94,639,4,"Bon produit, livraison rapide.",2026-06-24 08:03:20
+1669,58,713,5,"Parfait, merci au vendeur.",2026-05-06 18:03:59
+1670,81,746,4,Satisfait de mon achat.,2026-09-14 19:27:47
+1671,101,435,4,"Bon produit, livraison rapide.",2026-08-08 05:50:43
+1672,69,666,4,"Bon produit, livraison rapide.",2026-08-16 20:59:59
+1673,56,341,4,"Bon produit, livraison rapide.",2026-03-29 10:03:33
+1674,94,13,5,"Parfait, merci au vendeur.",2026-10-01 10:00:48
+1675,61,103,5,"Excellent, je recommande !",2026-07-15 04:46:15
+1676,143,621,5,"Excellent, je recommande !",2026-02-28 22:50:54
+1677,57,591,3,Conforme à la description.,2026-01-27 18:59:01
+1678,67,245,5,"Parfait, merci au vendeur.",2026-08-12 21:22:46
+1679,160,443,5,"Parfait, merci au vendeur.",2025-11-02 16:59:04
+1680,117,948,5,"Parfait, merci au vendeur.",2026-09-15 15:23:02
+1681,165,814,5,"Parfait, merci au vendeur.",2026-08-01 23:12:34
+1682,72,410,5,"Excellent, je recommande !",2026-05-21 14:07:58
+1683,157,545,5,"Excellent, je recommande !",2026-10-20 00:49:17
+1684,195,705,2,Peut mieux faire.,2026-01-30 15:58:47
+1685,2,716,4,"Bon produit, livraison rapide.",2026-10-20 00:59:35
+1686,137,149,5,"Excellent, je recommande !",2025-12-12 20:51:10
+1687,186,281,4,Satisfait de mon achat.,2026-07-26 03:30:45
+1688,171,474,5,"Excellent, je recommande !",2026-01-06 03:56:07
+1689,80,903,4,"Bon produit, livraison rapide.",2026-06-25 18:16:48
+1690,87,105,4,Satisfait de mon achat.,2026-03-02 03:06:18
+1691,62,724,4,"Bon produit, livraison rapide.",2026-03-10 15:29:46
+1692,52,407,5,"Excellent, je recommande !",2026-01-27 13:23:09
+1693,161,403,3,"Correct, sans plus.",2026-09-27 11:34:50
+1694,16,561,5,"Parfait, merci au vendeur.",2026-05-18 04:09:08
+1695,87,198,1,Je ne recommande pas du tout.,2026-04-18 10:34:06
+1696,164,633,5,"Parfait, merci au vendeur.",2026-01-31 09:40:16
+1697,141,493,5,"Excellent, je recommande !",2026-07-17 10:03:50
+1698,140,396,5,"Parfait, merci au vendeur.",2026-01-22 19:16:04
+1699,96,147,3,"Correct, sans plus.",2026-05-19 22:34:03
+1700,165,159,5,"Parfait, merci au vendeur.",2026-03-07 00:22:41
+1701,75,204,4,"Bon produit, livraison rapide.",2026-09-17 09:05:01
+1702,136,660,3,Conforme à la description.,2026-02-13 18:56:22
+1703,7,392,3,Conforme à la description.,2026-07-03 15:24:13
+1704,8,12,5,"Excellent, je recommande !",2025-12-30 03:16:12
+1705,56,874,5,"Excellent, je recommande !",2026-02-13 23:33:09
+1706,85,809,5,"Parfait, merci au vendeur.",2026-05-02 05:47:50
+1707,62,701,4,"Bon produit, livraison rapide.",2026-09-24 07:13:31
+1708,67,676,4,"Bon produit, livraison rapide.",2026-03-22 06:58:14
+1709,19,654,3,"Correct, sans plus.",2025-12-28 13:58:16
+1710,87,775,2,"Qualité moyenne, livraison trop longue.",2026-09-15 12:44:35
+1711,20,927,5,"Parfait, merci au vendeur.",2026-01-10 15:54:30
+1712,134,974,3,"Correct, sans plus.",2026-01-13 21:29:58
+1713,159,289,5,"Parfait, merci au vendeur.",2026-03-05 01:58:22
+1714,114,328,4,Satisfait de mon achat.,2026-08-19 10:45:03
+1715,65,167,2,"Qualité moyenne, livraison trop longue.",2026-03-08 05:08:56
+1716,128,533,4,Satisfait de mon achat.,2026-10-09 08:37:06
+1717,172,415,2,Peut mieux faire.,2026-08-21 12:47:16
+1718,43,633,5,"Parfait, merci au vendeur.",2026-08-24 13:25:17
+1719,41,619,5,"Parfait, merci au vendeur.",2026-04-02 15:04:19
+1720,100,586,5,"Parfait, merci au vendeur.",2026-08-24 08:08:59
+1721,86,16,4,Satisfait de mon achat.,2026-09-08 16:16:42
+1722,48,634,3,"Correct, sans plus.",2026-03-19 11:36:09
+1723,64,146,4,"Bon produit, livraison rapide.",2026-02-23 02:37:46
+1724,103,942,5,"Parfait, merci au vendeur.",2025-12-03 09:11:27
+1725,186,37,4,Satisfait de mon achat.,2026-03-15 05:51:26
+1726,60,484,5,"Excellent, je recommande !",2026-04-17 08:14:41
+1727,31,395,2,"Qualité moyenne, livraison trop longue.",2026-07-30 10:35:24
+1728,44,862,5,"Parfait, merci au vendeur.",2026-05-15 15:44:03
+1729,119,10,5,"Parfait, merci au vendeur.",2026-01-23 04:45:34
+1730,189,632,3,Conforme à la description.,2026-02-10 17:31:13
+1731,184,824,3,"Correct, sans plus.",2025-12-09 03:07:50
+1732,54,783,4,"Bon produit, livraison rapide.",2026-01-12 18:10:01
+1733,61,293,4,"Bon produit, livraison rapide.",2025-12-14 14:39:36
+1734,126,328,4,Satisfait de mon achat.,2026-08-02 18:54:46
+1735,47,213,5,"Parfait, merci au vendeur.",2026-01-17 21:01:55
+1736,126,330,2,"Qualité moyenne, livraison trop longue.",2025-11-12 14:49:47
+1737,177,426,5,"Excellent, je recommande !",2026-06-01 04:50:51
+1738,116,936,4,Satisfait de mon achat.,2026-05-15 09:20:00
+1739,148,892,3,Conforme à la description.,2025-11-08 19:31:38
+1740,144,833,5,"Parfait, merci au vendeur.",2026-07-03 17:44:57
+1741,35,404,4,Satisfait de mon achat.,2026-06-24 04:37:26
+1742,122,507,3,Conforme à la description.,2026-10-11 10:11:10
+1743,50,506,4,"Bon produit, livraison rapide.",2026-07-31 05:40:49
+1744,170,461,4,Satisfait de mon achat.,2026-08-12 19:14:22
+1745,146,198,4,"Bon produit, livraison rapide.",2026-07-24 19:14:04
+1746,6,252,4,Satisfait de mon achat.,2026-06-18 23:09:52
+1747,57,581,4,"Bon produit, livraison rapide.",2026-06-12 18:34:49
+1748,15,208,5,"Excellent, je recommande !",2026-06-09 17:32:56
+1749,78,76,4,Satisfait de mon achat.,2026-04-03 11:29:58
+1750,111,226,4,Satisfait de mon achat.,2025-11-28 15:29:37
+1751,190,911,4,Satisfait de mon achat.,2026-10-18 11:53:45
+1752,80,942,5,"Excellent, je recommande !",2026-10-16 02:46:53
+1753,92,56,3,Conforme à la description.,2025-11-27 00:01:30
+1754,43,267,5,"Parfait, merci au vendeur.",2026-08-06 14:24:55
+1755,118,804,1,Je ne recommande pas du tout.,2026-07-28 08:58:36
+1756,71,447,4,Satisfait de mon achat.,2026-01-23 13:16:02
+1757,144,213,5,"Excellent, je recommande !",2026-03-13 08:46:44
+1758,130,682,4,Satisfait de mon achat.,2026-08-01 18:12:59
+1759,23,654,1,Je ne recommande pas du tout.,2026-08-22 10:39:04
+1760,171,646,4,"Bon produit, livraison rapide.",2026-03-19 21:29:58
+1761,62,386,4,"Bon produit, livraison rapide.",2026-06-11 15:40:11
+1762,37,771,5,"Parfait, merci au vendeur.",2026-04-09 15:10:37
+1763,129,242,5,"Excellent, je recommande !",2025-12-14 17:02:16
+1764,59,380,4,"Bon produit, livraison rapide.",2025-12-22 20:02:42
+1765,101,901,5,"Parfait, merci au vendeur.",2026-08-27 11:56:30
+1766,29,333,4,"Bon produit, livraison rapide.",2025-10-31 11:05:48
+1767,162,122,4,"Bon produit, livraison rapide.",2025-11-21 20:47:19
+1768,200,503,3,"Correct, sans plus.",2026-02-09 21:52:36
+1769,71,676,5,"Excellent, je recommande !",2026-08-16 22:03:03
+1770,4,635,5,"Parfait, merci au vendeur.",2026-07-09 02:48:53
+1771,145,258,5,"Excellent, je recommande !",2026-05-20 00:26:52
+1772,32,995,5,"Excellent, je recommande !",2026-06-09 11:39:20
+1773,98,740,4,Satisfait de mon achat.,2025-12-18 21:49:54
+1774,77,588,5,"Excellent, je recommande !",2025-12-22 01:04:15
+1775,25,741,4,Satisfait de mon achat.,2026-05-30 02:31:06
+1776,40,768,5,"Excellent, je recommande !",2026-03-03 22:48:17
+1777,173,576,3,"Correct, sans plus.",2026-05-15 12:21:20
+1778,137,925,4,"Bon produit, livraison rapide.",2026-06-16 14:44:42
+1779,61,287,5,"Parfait, merci au vendeur.",2026-02-17 12:49:24
+1780,5,4,1,"Très déçu, produit non conforme.",2026-09-01 06:04:59
+1781,33,587,5,"Excellent, je recommande !",2026-08-17 13:03:23
+1782,103,255,1,Je ne recommande pas du tout.,2025-12-03 06:55:18
+1783,147,824,5,"Excellent, je recommande !",2025-12-10 00:08:24
+1784,40,4,5,"Parfait, merci au vendeur.",2026-01-09 07:16:13
+1785,140,786,2,"Qualité moyenne, livraison trop longue.",2025-12-15 00:14:45
+1786,127,904,5,"Parfait, merci au vendeur.",2026-05-13 16:09:09
+1787,14,928,2,Peut mieux faire.,2026-01-21 08:57:58
+1788,24,388,5,"Excellent, je recommande !",2026-06-19 00:22:21
+1789,33,818,5,"Excellent, je recommande !",2026-09-05 22:33:53
+1790,40,581,5,"Parfait, merci au vendeur.",2025-12-14 20:28:36
+1791,4,23,5,"Excellent, je recommande !",2025-12-24 15:09:10
+1792,167,484,5,"Excellent, je recommande !",2025-12-28 21:33:08
+1793,172,717,5,"Parfait, merci au vendeur.",2026-08-15 09:03:52
+1794,181,754,5,"Excellent, je recommande !",2026-10-16 15:48:39
+1795,177,379,5,"Excellent, je recommande !",2026-08-03 08:55:47
+1796,73,369,5,"Excellent, je recommande !",2026-07-02 04:59:12
+1797,78,647,4,"Bon produit, livraison rapide.",2026-06-04 10:23:41
+1798,118,13,4,Satisfait de mon achat.,2026-01-06 17:36:46
+1799,187,851,5,"Excellent, je recommande !",2026-04-14 09:44:54
+1800,136,359,5,"Parfait, merci au vendeur.",2026-09-22 06:49:57
+1801,121,585,3,"Correct, sans plus.",2026-03-04 01:14:41
+1802,153,471,4,"Bon produit, livraison rapide.",2025-11-04 11:27:20
+1803,173,400,4,Satisfait de mon achat.,2026-01-11 19:05:31
+1804,108,406,1,Je ne recommande pas du tout.,2026-04-27 07:50:27
+1805,154,778,4,Satisfait de mon achat.,2026-07-05 16:22:19
+1806,116,274,3,"Correct, sans plus.",2026-04-01 00:28:08
+1807,150,951,3,"Correct, sans plus.",2026-04-11 12:32:54
+1808,157,97,5,"Parfait, merci au vendeur.",2026-07-05 11:59:40
+1809,144,420,4,Satisfait de mon achat.,2026-02-01 22:22:06
+1810,110,29,5,"Excellent, je recommande !",2026-08-11 21:38:14
+1811,178,395,4,Satisfait de mon achat.,2026-02-20 11:12:14
+1812,108,912,5,"Excellent, je recommande !",2025-12-04 09:51:48
+1813,70,561,5,"Excellent, je recommande !",2025-12-14 22:48:31
+1814,57,66,4,"Bon produit, livraison rapide.",2026-03-06 12:32:23
+1815,66,682,1,Je ne recommande pas du tout.,2025-11-10 06:08:28
+1816,168,398,5,"Excellent, je recommande !",2026-01-02 03:49:50
+1817,192,123,5,"Excellent, je recommande !",2026-04-02 23:30:00
+1818,89,79,3,"Correct, sans plus.",2026-10-03 15:33:31
+1819,61,440,5,"Parfait, merci au vendeur.",2026-10-16 07:32:07
+1820,111,112,4,Satisfait de mon achat.,2026-07-30 22:54:53
+1821,76,651,1,"Très déçu, produit non conforme.",2026-10-04 10:01:40
+1822,127,648,4,"Bon produit, livraison rapide.",2026-06-06 09:19:59
+1823,11,881,5,"Excellent, je recommande !",2025-12-13 10:22:30
+1824,109,924,4,Satisfait de mon achat.,2026-06-23 03:13:01
+1825,43,933,5,"Parfait, merci au vendeur.",2026-05-14 06:40:37
+1826,89,349,4,"Bon produit, livraison rapide.",2026-08-31 20:57:50
+1827,124,255,3,"Correct, sans plus.",2026-03-01 00:33:59
+1828,98,746,3,Conforme à la description.,2026-08-20 08:34:20
+1829,192,425,5,"Excellent, je recommande !",2026-06-19 04:07:00
+1830,20,781,3,"Correct, sans plus.",2026-07-21 15:17:53
+1831,80,828,5,"Parfait, merci au vendeur.",2025-11-03 21:39:44
+1832,165,641,4,"Bon produit, livraison rapide.",2026-10-12 10:20:18
+1833,68,472,5,"Parfait, merci au vendeur.",2026-05-11 09:24:11
+1834,17,869,2,"Qualité moyenne, livraison trop longue.",2026-06-18 22:08:04
+1835,122,509,4,"Bon produit, livraison rapide.",2026-04-11 07:34:53
+1836,198,187,1,"Très déçu, produit non conforme.",2025-12-13 14:11:22
+1837,184,111,4,Satisfait de mon achat.,2026-05-17 20:39:42
+1838,194,76,5,"Parfait, merci au vendeur.",2026-07-04 07:26:39
+1839,82,106,3,"Correct, sans plus.",2025-12-19 14:04:20
+1840,177,457,5,"Parfait, merci au vendeur.",2026-03-08 19:10:38
+1841,2,590,4,"Bon produit, livraison rapide.",2026-06-07 19:59:03
+1842,16,535,5,"Parfait, merci au vendeur.",2026-02-07 08:22:42
+1843,151,366,4,Satisfait de mon achat.,2026-02-10 03:51:27
+1844,6,373,5,"Parfait, merci au vendeur.",2025-12-05 00:42:00
+1845,120,524,5,"Parfait, merci au vendeur.",2026-04-28 13:02:51
+1846,124,922,5,"Parfait, merci au vendeur.",2025-12-07 23:06:14
+1847,39,726,3,Conforme à la description.,2026-09-07 04:21:05
+1848,34,124,4,"Bon produit, livraison rapide.",2025-12-27 02:25:34
+1849,34,276,5,"Excellent, je recommande !",2025-11-28 05:20:30
+1850,189,933,5,"Excellent, je recommande !",2026-09-28 02:52:37
+1851,42,864,4,Satisfait de mon achat.,2026-03-19 02:43:09
+1852,132,423,4,Satisfait de mon achat.,2026-01-04 23:43:10
+1853,172,257,4,"Bon produit, livraison rapide.",2026-05-13 03:30:48
+1854,172,834,4,"Bon produit, livraison rapide.",2025-12-01 07:50:58
+1855,56,831,4,Satisfait de mon achat.,2026-03-24 13:29:49
+1856,199,378,4,Satisfait de mon achat.,2026-06-22 08:53:29
+1857,73,92,4,Satisfait de mon achat.,2026-04-18 01:28:54
+1858,188,509,4,"Bon produit, livraison rapide.",2026-09-27 22:17:35
+1859,56,619,3,"Correct, sans plus.",2026-07-15 00:01:54
+1860,22,689,3,"Correct, sans plus.",2026-06-18 19:01:20
+1861,116,907,5,"Excellent, je recommande !",2026-06-26 12:34:49
+1862,197,474,5,"Parfait, merci au vendeur.",2026-07-02 12:23:23
+1863,144,911,3,"Correct, sans plus.",2026-04-17 04:49:15
+1864,15,875,5,"Excellent, je recommande !",2025-12-02 12:17:04
+1865,163,45,5,"Excellent, je recommande !",2026-01-26 19:43:08
+1866,156,538,5,"Excellent, je recommande !",2026-02-16 04:35:56
+1867,191,148,4,Satisfait de mon achat.,2026-01-27 04:33:59
+1868,150,19,5,"Excellent, je recommande !",2026-02-04 13:06:32
+1869,83,40,4,"Bon produit, livraison rapide.",2026-07-30 21:42:55
+1870,43,799,5,"Parfait, merci au vendeur.",2026-10-04 21:01:11
+1871,192,865,2,Peut mieux faire.,2026-04-07 09:04:37
+1872,77,495,2,Peut mieux faire.,2026-04-20 05:10:14
+1873,110,984,5,"Excellent, je recommande !",2026-02-22 04:16:59
+1874,127,674,2,Peut mieux faire.,2026-06-12 04:52:32
+1875,198,47,5,"Excellent, je recommande !",2026-07-02 00:49:03
+1876,100,324,2,Peut mieux faire.,2025-11-14 11:27:39
+1877,175,662,3,"Correct, sans plus.",2026-04-26 12:19:34
+1878,141,699,4,Satisfait de mon achat.,2026-03-29 15:37:59
+1879,40,714,5,"Parfait, merci au vendeur.",2026-04-04 01:42:07
+1880,27,723,4,Satisfait de mon achat.,2026-04-28 06:57:04
+1881,128,622,5,"Parfait, merci au vendeur.",2025-12-14 14:42:56
+1882,82,999,5,"Excellent, je recommande !",2026-08-12 22:18:50
+1883,8,598,4,"Bon produit, livraison rapide.",2026-09-18 17:24:13
+1884,144,365,4,Satisfait de mon achat.,2025-12-03 14:17:27
+1885,188,189,4,"Bon produit, livraison rapide.",2026-08-24 04:17:54
+1886,2,220,5,"Parfait, merci au vendeur.",2026-05-17 21:19:01
+1887,188,434,5,"Excellent, je recommande !",2026-08-26 13:26:23
+1888,131,482,5,"Parfait, merci au vendeur.",2025-12-31 00:46:36
+1889,192,99,3,"Correct, sans plus.",2026-01-01 09:54:00
+1890,109,692,4,"Bon produit, livraison rapide.",2025-10-26 21:48:00
+1891,73,396,4,"Bon produit, livraison rapide.",2026-04-27 01:33:06
+1892,185,482,5,"Excellent, je recommande !",2026-03-25 00:09:31
+1893,118,688,4,"Bon produit, livraison rapide.",2026-10-05 21:39:39
+1894,193,862,5,"Parfait, merci au vendeur.",2026-05-16 09:47:16
+1895,52,566,4,Satisfait de mon achat.,2026-09-28 15:10:57
+1896,138,964,4,"Bon produit, livraison rapide.",2026-01-28 19:00:53
+1897,120,709,5,"Excellent, je recommande !",2025-11-08 04:12:48
+1898,108,980,4,Satisfait de mon achat.,2026-08-24 04:14:58
+1899,167,415,5,"Excellent, je recommande !",2025-10-27 12:10:56
+1900,107,126,3,Conforme à la description.,2026-08-30 22:47:33
+1901,163,244,2,"Qualité moyenne, livraison trop longue.",2026-04-29 14:30:36
+1902,89,244,5,"Parfait, merci au vendeur.",2026-05-24 20:33:17
+1903,34,336,4,Satisfait de mon achat.,2026-01-10 09:25:19
+1904,156,295,3,Conforme à la description.,2026-01-31 01:33:37
+1905,129,501,5,"Excellent, je recommande !",2026-01-09 18:39:08
+1906,67,929,5,"Parfait, merci au vendeur.",2026-07-22 01:38:56
+1907,2,112,5,"Parfait, merci au vendeur.",2026-04-12 17:01:33
+1908,49,782,5,"Parfait, merci au vendeur.",2025-12-01 00:30:12
+1909,85,568,3,"Correct, sans plus.",2025-11-11 04:41:04
+1910,89,122,5,"Excellent, je recommande !",2026-07-14 05:23:09
+1911,148,800,3,Conforme à la description.,2026-06-26 08:44:38
+1912,67,439,4,Satisfait de mon achat.,2026-02-17 04:46:53
+1913,16,666,3,Conforme à la description.,2026-03-02 01:32:01
+1914,163,930,4,Satisfait de mon achat.,2026-08-13 07:39:40
+1915,70,150,3,"Correct, sans plus.",2025-11-20 15:19:04
+1916,56,207,5,"Parfait, merci au vendeur.",2026-10-11 16:11:19
+1917,151,184,5,"Parfait, merci au vendeur.",2026-08-30 23:50:27
+1918,81,554,3,"Correct, sans plus.",2025-12-12 13:07:33
+1919,100,979,3,"Correct, sans plus.",2026-05-04 10:13:40
+1920,55,690,3,"Correct, sans plus.",2026-05-19 08:53:57
+1921,178,586,4,Satisfait de mon achat.,2026-09-23 23:47:42
+1922,108,65,5,"Excellent, je recommande !",2026-05-30 22:47:31
+1923,63,335,5,"Excellent, je recommande !",2025-10-26 14:27:31
+1924,62,432,4,Satisfait de mon achat.,2026-02-05 21:58:37
+1925,87,490,5,"Parfait, merci au vendeur.",2026-05-26 10:29:51
+1926,126,919,4,Satisfait de mon achat.,2026-03-10 16:50:22
+1927,49,352,5,"Excellent, je recommande !",2026-04-14 11:09:55
+1928,162,12,4,"Bon produit, livraison rapide.",2026-10-03 13:42:09
+1929,70,423,5,"Parfait, merci au vendeur.",2026-10-02 03:47:49
+1930,150,634,4,Satisfait de mon achat.,2026-01-31 01:15:26
+1931,184,383,2,"Qualité moyenne, livraison trop longue.",2025-12-28 12:41:41
+1932,61,875,5,"Excellent, je recommande !",2026-10-08 14:06:29
+1933,102,800,4,"Bon produit, livraison rapide.",2026-05-12 04:44:26
+1934,114,430,4,"Bon produit, livraison rapide.",2026-05-29 00:17:34
+1935,150,909,5,"Excellent, je recommande !",2025-12-26 20:59:10
+1936,77,259,4,"Bon produit, livraison rapide.",2026-06-16 21:10:12
+1937,147,927,3,Conforme à la description.,2026-09-03 13:24:07
+1938,131,727,5,"Excellent, je recommande !",2025-12-13 10:56:59
+1939,67,161,3,Conforme à la description.,2026-02-24 06:20:36
+1940,175,367,3,"Correct, sans plus.",2026-03-23 16:35:35
+1941,8,663,4,Satisfait de mon achat.,2026-04-07 07:41:03
+1942,169,335,2,Peut mieux faire.,2026-01-14 20:43:10
+1943,72,806,4,Satisfait de mon achat.,2026-07-02 23:44:16
+1944,178,261,5,"Excellent, je recommande !",2026-01-13 15:24:24
+1945,49,916,5,"Parfait, merci au vendeur.",2026-01-31 20:07:21
+1946,81,961,4,"Bon produit, livraison rapide.",2026-05-14 09:17:46
+1947,21,102,3,"Correct, sans plus.",2025-12-08 01:39:07
+1948,163,746,5,"Parfait, merci au vendeur.",2026-08-29 02:19:41
+1949,141,668,5,"Parfait, merci au vendeur.",2026-04-05 22:04:35
+1950,76,139,1,Je ne recommande pas du tout.,2026-10-12 00:34:42
+1951,121,657,5,"Parfait, merci au vendeur.",2026-03-08 12:07:55
+1952,21,298,5,"Excellent, je recommande !",2025-10-30 13:53:14
+1953,128,811,5,"Parfait, merci au vendeur.",2026-03-03 10:16:09
+1954,118,897,4,Satisfait de mon achat.,2026-06-10 05:30:45
+1955,174,1,5,"Excellent, je recommande !",2025-10-27 19:10:11
+1956,120,830,5,"Excellent, je recommande !",2026-04-18 20:53:16
+1957,63,982,5,"Parfait, merci au vendeur.",2026-08-05 10:39:41
+1958,153,353,5,"Parfait, merci au vendeur.",2026-09-15 07:23:39
+1959,151,982,4,Satisfait de mon achat.,2026-07-22 00:41:10
+1960,169,710,2,Peut mieux faire.,2026-01-23 06:39:10
+1961,132,568,5,"Excellent, je recommande !",2026-07-08 23:29:32
+1962,180,101,5,"Parfait, merci au vendeur.",2026-08-06 20:48:05
+1963,124,498,5,"Parfait, merci au vendeur.",2026-03-24 01:57:25
+1964,141,149,1,Je ne recommande pas du tout.,2026-06-21 01:53:34
+1965,186,289,5,"Parfait, merci au vendeur.",2026-04-23 20:52:34
+1966,126,901,3,"Correct, sans plus.",2026-03-23 16:08:55
+1967,119,112,5,"Excellent, je recommande !",2026-06-24 06:29:56
+1968,4,544,5,"Excellent, je recommande !",2026-10-15 00:24:08
+1969,47,980,3,Conforme à la description.,2026-10-08 17:25:34
+1970,23,137,3,"Correct, sans plus.",2025-10-31 15:30:19
+1971,59,190,4,"Bon produit, livraison rapide.",2026-02-05 02:32:00
+1972,29,491,3,"Correct, sans plus.",2026-08-24 06:48:31
+1973,125,498,1,Je ne recommande pas du tout.,2026-07-24 20:22:58
+1974,52,464,5,"Parfait, merci au vendeur.",2026-07-20 01:19:36
+1975,48,223,3,"Correct, sans plus.",2026-06-06 10:58:36
+1976,179,997,5,"Parfait, merci au vendeur.",2026-03-30 09:19:25
+1977,88,108,4,"Bon produit, livraison rapide.",2026-06-13 16:43:05
+1978,146,15,4,"Bon produit, livraison rapide.",2026-08-23 03:56:50
+1979,12,245,5,"Parfait, merci au vendeur.",2025-11-28 04:19:06
+1980,127,740,4,Satisfait de mon achat.,2025-10-29 05:06:00
+1981,177,129,4,Satisfait de mon achat.,2026-07-30 19:31:29
+1982,25,757,5,"Excellent, je recommande !",2025-11-16 23:43:06
+1983,36,395,2,"Qualité moyenne, livraison trop longue.",2026-03-23 22:24:37
+1984,132,776,4,Satisfait de mon achat.,2025-12-08 21:40:34
+1985,125,216,5,"Parfait, merci au vendeur.",2026-02-22 06:36:15
+1986,147,778,4,"Bon produit, livraison rapide.",2025-12-31 19:14:06
+1987,52,2,2,Peut mieux faire.,2026-03-31 20:17:23
+1988,62,710,3,"Correct, sans plus.",2025-10-29 21:25:14
+1989,16,24,5,"Excellent, je recommande !",2026-09-08 06:01:49
+1990,49,424,5,"Parfait, merci au vendeur.",2026-07-09 10:45:51
+1991,129,706,3,"Correct, sans plus.",2026-06-20 09:13:57
+1992,138,50,4,"Bon produit, livraison rapide.",2026-08-04 18:52:30
+1993,113,924,3,"Correct, sans plus.",2025-10-28 09:56:25
+1994,25,968,5,"Parfait, merci au vendeur.",2026-05-10 23:50:36
+1995,173,691,5,"Parfait, merci au vendeur.",2026-01-18 14:17:05
+1996,117,243,4,Satisfait de mon achat.,2026-09-04 07:24:00
+1997,8,712,1,Je ne recommande pas du tout.,2026-07-05 13:33:57
+1998,196,306,5,"Excellent, je recommande !",2025-11-22 13:47:10
+1999,118,663,5,"Excellent, je recommande !",2026-09-09 14:11:19
+2000,5,153,5,"Excellent, je recommande !",2026-05-31 21:55:36
